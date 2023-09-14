@@ -1,0 +1,2001 @@
+Patient ID,Patient Name,Date of Birth,Gender,Address,Region,Disease Diagnosis,Readmission Status,Length of Stay (Days)
+29e51619-de52-438f-b89a-bb45b3b3d6d5,Austin Tucker,1957-12-29,Female,"58250 Joyce Brooks Apt. 256
+Shawbury, WV 63918",West,Asthma,No,25
+cd2f1b62-c80e-4978-ad3d-5c90d187e949,Linda Jacobs,1962-12-05,Male,"144 Rebecca Well
+Port Christinafort, NC 52600",West,Hypertension,No,2
+a3b4f079-2d9d-4d5e-9a3c-53ea715ef12e,Matthew Kelly,1999-04-17,Female,"49778 Mary Mountain Apt. 969
+Tanyahaven, NY 73440",West,Cancer,No,17
+24dc24ab-b020-4cac-88bd-a2271d56007f,Linda Vaughan,1972-04-17,Male,"06948 Thomas Mountains Suite 763
+Skinnerport, FL 83269",North,Cancer,No,13
+a330250e-7b8a-443b-ae75-ee1d58a145ff,Holly Ibarra,1960-08-03,Male,"9867 Stephanie Island Suite 514
+East Josephside, SC 02405",North,Cancer,No,16
+df9f1fba-1366-4a6f-83a4-7b06c7de0107,Megan Braun,1953-12-09,Male,"04933 Cortez Park
+Atkinschester, PA 84966",East,Cancer,No,19
+3a311ba3-bf03-4c67-b61e-22bb046dd37e,Phillip Stone,1976-12-17,Male,"355 Brent Parkways
+Melissastad, ND 72336",West,Diabetes,Yes,17
+221b96f0-dd50-417f-aed0-dc52448e18bd,Nicole Gonzalez,1956-06-28,Female,"USNS Rowe
+FPO AP 44918",South,Hypertension,Yes,10
+e4c2a318-2e74-449e-ae01-47b6ef1336cb,Katherine Hammond,1955-12-06,Female,"189 Castillo Courts Apt. 350
+New Shelby, LA 91862",North,Asthma,Yes,25
+0246de68-c903-4f7b-a0e0-a348a622a9df,Tiffany Marshall,1958-03-12,Male,"5521 Raymond Stream
+Mclaughlinmouth, MS 00724",North,Asthma,Yes,20
+2335f7c5-f64f-4f98-8990-6c14fdf179a6,Theodore Jordan,1942-08-04,Male,"53639 Pacheco Squares
+Riveraport, OR 69980",North,Asthma,No,30
+9587e35d-c52a-4d62-83b1-62e109a7528a,Carol Hart,1996-03-26,Male,"81148 Chase Vista
+Port Deannamouth, VA 86826",East,Hypertension,Yes,10
+2b696614-6c28-4cfa-b3a4-087ef13c66e3,Tiffany Dixon,1964-12-18,Male,"843 Hodges Hill Apt. 423
+Jasontown, MT 93585",North,Cancer,Yes,24
+5421dc61-6ec5-4f90-b57b-b1df6d4e09d7,Michelle Jones,1986-07-16,Female,"0831 Smith Mill Apt. 019
+Sheilaberg, VI 13305",North,Diabetes,Yes,29
+2e363f73-abf3-405c-ba52-677908895e29,Joseph Arellano,1962-03-23,Male,"8543 Jamie Street
+East Davidfort, CT 78257",East,Asthma,No,16
+aaafcc43-29d9-47f6-a53d-542848405df7,Amy Garcia,1956-12-27,Male,"PSC 2289, Box 2330
+APO AP 82120",South,Hypertension,Yes,12
+88db1282-2203-4b02-b45d-7c2d6884645d,Wendy Howard,1997-05-06,Male,"1709 Jackson Summit
+Joannastad, AZ 59413",West,Asthma,No,11
+92d4f05d-bd95-47e5-b58a-4dde67ba7813,James Jenkins,1978-08-12,Male,"Unit 4788 Box 7265
+DPO AP 05322",West,Diabetes,Yes,18
+45396ea8-4a47-4523-a53d-3578a7673624,David Case,1993-03-29,Female,"5323 Johnny Lane
+Johnsonton, NY 02169",West,Hypertension,No,15
+dfc3f416-bc36-4817-9822-8f613502f366,Mariah Johnson,1935-06-11,Female,"USS Smith
+FPO AA 29676",East,Cancer,No,2
+9d1f7851-f18d-4e53-bc87-d1f90ddd5484,Teresa Lee,1956-06-03,Male,"30253 Roman Meadows
+Lake Nathanville, NE 83216",East,Cancer,Yes,3
+75ccaaed-21a1-4d9a-b73f-94988c591019,Amanda Morgan,1938-02-15,Male,"4813 Williams Mount Suite 405
+Debramouth, MS 34510",South,Hypertension,No,23
+7a4e33ac-1ea9-4a87-9ebe-6f9cfb82f3ff,Deborah Williams,1939-01-21,Male,"82089 Wright Square Suite 058
+South Jasonborough, AR 90557",North,Diabetes,Yes,20
+35697667-aeb5-4601-b10b-fba2e0571288,Judy Parks,1946-12-26,Female,"8491 Michael Keys Suite 371
+Susanside, CA 28658",South,Asthma,No,27
+9c18de29-a523-4aaa-b280-b267418eb52f,Stephanie Robinson,1949-09-16,Male,"776 Bradshaw Street
+Jamesshire, MA 03462",East,Hypertension,No,8
+5e5b2c75-670a-4d9a-96a6-6553ae260821,Christopher Jensen,1984-11-18,Male,"6105 Fox Hollow Apt. 684
+Youngchester, ID 98184",South,Hypertension,No,23
+698efecd-8e3f-4357-8750-a98e4908924a,Alexander Myers,1977-07-29,Male,"86708 Anthony Hill
+Bishopburgh, MD 41117",West,Cancer,Yes,7
+a0be495b-43ed-4aa3-bf77-90b3d51c9cf1,Michelle Fernandez,1933-07-19,Male,"955 Anthony Fields Suite 261
+West Deannaview, DE 04460",East,Diabetes,Yes,8
+14fdc227-0e4f-48ba-9599-3dab62c466af,Vincent Montgomery,1987-04-02,Female,"88652 Hall Row
+Jayborough, GU 67751",East,Asthma,Yes,26
+c62e3c02-43f3-4fab-a785-0edf250f024f,Robert Woodard,1961-04-25,Female,"151 Ochoa Isle Apt. 473
+East Derrickview, FL 62610",West,Asthma,No,3
+35e5679d-3d86-46d9-b52c-c06965b5680c,Micheal Farrell,1994-03-06,Male,"24431 Martin Underpass
+West Amy, OR 36030",North,Asthma,Yes,11
+1bb05d2d-0985-4e72-9c86-a3b1cf119d20,Matthew Perez,2002-01-31,Female,"74826 Lane Heights Apt. 044
+Patriciaside, AZ 80873",East,Hypertension,No,4
+df4db490-f124-4fd3-a9ad-a6349b844b29,Kim Bruce,1981-02-13,Male,"USS Clay
+FPO AP 56418",West,Cancer,No,18
+b7e64e73-ee31-497a-8ece-40391aabee41,Richard Hawkins,1975-02-28,Female,"147 Jason Square
+Ryanhaven, MD 17018",West,Hypertension,No,23
+a6ea715d-32f4-4aec-83ed-0f4739dd87a0,Daniel Maddox,1933-05-07,Male,"1831 Davis Overpass Apt. 946
+East Andrew, MI 03664",West,Hypertension,Yes,18
+b9f7ef6c-090f-4f13-9472-748e12e3add4,Beth Cook,1945-03-14,Female,"10044 Rocha Vista Apt. 035
+Loriburgh, MN 97068",North,Hypertension,No,27
+8747c93c-95b0-41ba-8e4a-6bbdf4a77bb0,Robin Meyer,1954-02-22,Male,"936 Thomas Brooks Apt. 398
+Aprilside, NC 06224",West,Cancer,Yes,26
+317a5c1b-39c0-440a-990c-cea3361b7397,Jessica Dennis,1970-12-29,Male,"0116 Torres Prairie
+Amandaburgh, DC 05595",South,Asthma,No,15
+1e0de8f4-3861-421f-8ffe-8e4cfddfbfb4,Travis Jenkins,1941-09-29,Female,"USCGC Cruz
+FPO AA 64364",North,Hypertension,Yes,20
+35e8acb5-a9b3-4e4b-a8ae-67223613b94b,Michael Davis,1942-11-30,Female,"53165 Good Dale
+Millerland, MD 83251",East,Asthma,No,11
+6ecf9e46-1891-4aaa-a2fa-93009be2d443,Mr. Chris Simmons,1989-02-04,Male,"954 Andrew Rapids
+Jonathanmouth, WV 75228",West,Asthma,Yes,10
+98d2ffc1-b118-416b-ac43-8bc5196ae990,Jason Spencer,1985-09-02,Female,"7248 Douglas Place
+Wayneside, AS 72865",East,Asthma,Yes,7
+960a6403-c1fc-40f0-8e53-5ca865e04cb2,Sean Carpenter,1995-11-19,Female,"3525 Woodard Branch
+Jasminefort, DC 84557",South,Asthma,Yes,2
+ffff4ecf-1658-4ce3-be28-c294b23d4337,Matthew Campbell,1998-05-21,Female,"89169 Vanessa Pines Suite 745
+South Jamesville, TX 72099",North,Asthma,No,16
+ad3315ca-1586-4134-9bf1-b53419b448a9,Kaitlyn Gibson,1965-05-10,Female,"38029 Lee Lodge Apt. 844
+South Ashleybury, MA 60241",North,Hypertension,Yes,3
+9f78a14d-9e89-4353-b74d-913872fc898b,Elizabeth Young,1966-10-30,Female,"3202 Francis Curve
+Port Cassandra, NM 82906",East,Hypertension,Yes,29
+da7e5d04-e64f-49b6-b8da-d27aa174bce2,Kevin Haas,1973-08-12,Female,"927 Vaughn Street
+South Richard, MT 65543",North,Asthma,Yes,30
+bd3ea474-cb1c-4a18-aa42-2d07786a0bba,Christopher Davidson,1939-09-19,Female,"978 William Ville Suite 204
+West Janet, AZ 11222",North,Diabetes,Yes,27
+428a7387-daaf-4036-baa7-b5356048b2d3,Tanya Gomez,1974-08-06,Male,"98534 Huber Roads
+Lake Donaldberg, SC 68901",South,Diabetes,Yes,29
+d02f8d87-d377-463a-b78e-f39e706144c9,Tyler Logan,1947-06-14,Female,"89204 Hamilton Landing
+New Calvin, IL 31139",North,Diabetes,No,27
+83f97184-ef28-45e1-a48b-944fe49cefee,Michael Jackson,1952-01-20,Male,"2618 Jacob Springs Suite 301
+Gabrielleberg, AZ 64023",West,Cancer,No,17
+20f956d8-301a-4354-91cd-b4da9f92a7f0,Kelly Gross,1949-07-12,Male,"656 Padilla Crossroad
+Kyleview, NC 39573",East,Hypertension,Yes,28
+ac465102-4999-439a-9846-78f4cd94cc46,Mark Harrison,1960-02-23,Male,"0302 Mathis Loop
+Charlesfurt, IL 87729",South,Cancer,Yes,29
+a54fd2c6-d98d-4490-9618-90800f95ffe0,Lisa Gutierrez,1982-04-12,Male,"USCGC Payne
+FPO AE 90720",East,Cancer,No,19
+26b8e64c-1c90-4f26-bb65-2ea192484aff,Robert Wright,1996-10-28,Male,"USNV Davenport
+FPO AP 16571",North,Diabetes,No,15
+fe467434-5eef-4b71-bad6-fbbbf63463bc,Darius Little,1967-12-03,Male,"PSC 4325, Box 4186
+APO AA 01181",South,Cancer,No,22
+863ae483-e336-492c-8071-71a21177ee96,Stacy Boyd,1956-07-21,Female,"60358 Shannon Corners Apt. 446
+West Stephanieton, MO 55789",East,Cancer,No,3
+41cd98e9-1a41-4a4c-9b14-0bb7b1fb9769,Rebecca Brown,1996-06-20,Male,"9459 Spencer River Apt. 794
+East Jessicaville, PA 20742",West,Cancer,No,20
+bb76ec8f-3c7b-46aa-bb7e-fde2ce02ebe9,Lisa Clayton,1942-02-11,Male,"9450 Travis Roads
+East Mary, KY 91386",West,Asthma,Yes,16
+fad9168f-902d-4f97-947a-fc2f74f8531a,Alexander Park,1977-03-27,Male,"218 Kathryn Rapids Suite 212
+Roberttown, FL 52186",West,Hypertension,No,28
+2dafda59-2fa3-4427-a81a-32a4fa7afbb2,John Parker,1961-10-14,Female,"17973 Katrina Underpass
+North Grantfurt, OH 18883",North,Diabetes,Yes,8
+f3ffac13-aecf-435f-81a1-a585db804e71,Brandon Jones,1987-10-30,Female,"295 Jacobs Lake
+Christophermouth, OR 01604",East,Diabetes,Yes,24
+e4ebceae-9c9a-43b0-94b7-62adef238623,Jessica Bush,1950-01-14,Male,"910 Richard Cliffs Suite 129
+Robertsborough, GA 78932",North,Cancer,No,4
+3606b5c6-a9c2-4f80-856e-ceeafeff1745,Mallory Garrett,1957-12-31,Female,"458 Troy Terrace
+East Scott, CO 55391",East,Cancer,Yes,12
+3911070b-19c4-4f79-a582-35fa94b8c6de,Tyler Collins,1939-04-18,Male,"884 Moore Branch Suite 879
+Hilltown, NH 16996",West,Cancer,Yes,11
+8b85b64f-bff7-4636-819d-68ca1fda339c,Alexander Baxter,1974-08-28,Male,"USCGC Carter
+FPO AP 62854",North,Hypertension,No,27
+6542d3fe-c281-4e5e-879d-994f967f457b,Brenda Price,1986-10-01,Male,"11949 Michael Causeway
+Mercadoton, NC 82929",South,Cancer,Yes,4
+7290a410-c22d-4ff7-a8bf-aef3520b28eb,Andrew Jackson,1982-07-05,Male,"PSC 7875, Box 5441
+APO AE 97556",North,Asthma,Yes,28
+5bc9c746-8476-4c2b-8316-5e55593db120,Amanda Hartman,1988-10-12,Male,"982 Aimee Trace Suite 022
+Matthewschester, VA 27382",South,Diabetes,Yes,2
+66aa958e-3baa-4805-8a51-01ce801bf175,Tyler Hill,2000-01-20,Male,"2662 Jimenez Squares
+South Sarahtown, WA 39834",West,Cancer,Yes,1
+4773c397-8eb4-4be8-99a7-9c7d41cf4b6c,Todd Jackson,1972-07-20,Female,"Unit 0094 Box 5538
+DPO AA 37195",West,Diabetes,Yes,21
+6259d892-eaaf-4f48-9131-bbf38809f399,John Wood,1968-11-17,Female,"3724 Crystal Greens Suite 427
+Olsonhaven, MN 54490",West,Asthma,Yes,20
+70f4533d-7982-480d-bb1a-b4348b54afc3,Jacob Kelly,1942-06-23,Male,"246 Gonzalez Dale Suite 597
+South Stacey, WI 70373",West,Hypertension,Yes,13
+9f10d39c-fc38-4bc0-98ac-b8ce8a7304d8,Emily Richards,1992-10-07,Male,"PSC 5968, Box 5079
+APO AP 75380",West,Hypertension,Yes,12
+387708ba-a87d-4093-a27a-9d8989f915f4,Barbara Morales,1997-02-10,Female,"9061 Oliver Common Suite 806
+Rebeccaborough, MT 73025",East,Cancer,Yes,2
+532c051d-e32f-4e1a-a18a-1e08c6f1f2ca,Jacob Howell,1978-07-14,Female,"309 Steven Greens
+Barrettstad, NV 65769",East,Cancer,Yes,7
+125efbaa-8403-4876-a1fc-c94a5baba0f1,Jeffrey Zavala,1962-10-27,Female,"5977 Fowler Locks Suite 148
+East Jenniferville, TN 11762",South,Cancer,Yes,23
+df3e86b0-407b-4faf-a4db-8ea2c92b9d9e,Kristin Hill,1977-01-10,Male,"50071 James Gateway
+West Jefferychester, IA 46355",East,Hypertension,Yes,16
+1c3de2f3-7af9-474f-8e13-0de8dc5eec4d,Michelle Morris,2003-06-15,Female,"94535 Jimenez Walk Apt. 039
+Matthewton, KY 19277",North,Cancer,Yes,24
+fb6131ee-4fa9-410b-bbbb-52f8985aadcc,Benjamin Davis,1970-09-18,Female,"60086 Valdez Drives
+Port Lukeside, PA 43927",East,Asthma,Yes,30
+5da37e74-e9f8-45a7-be40-7f4b606418f5,Juan Kelly,1962-09-06,Female,"4088 Carlson Flats Suite 015
+West Todd, AS 36051",West,Cancer,Yes,18
+9dfe4537-f434-4320-aa02-e60069b773ad,Katherine Miller,1981-04-08,Female,"3620 Rachel Falls
+Stevenberg, MP 88667",East,Diabetes,No,20
+d5c52cf6-21d1-4d79-b43a-e3415d8629ed,Cindy Ferguson,1972-08-24,Female,"30666 Cesar Trail Apt. 727
+East Micheleshire, NH 64945",West,Asthma,Yes,27
+284fd4b4-0ef1-4c8b-b2dd-6a2fc98b7421,Alexandra Potts,1964-08-09,Female,"297 Tucker Passage Suite 590
+West Michaelland, AZ 97191",East,Asthma,No,3
+6163204c-340c-4d3a-b28c-8bec2be9aa09,Steven Bruce,2002-02-28,Male,"96797 Rodriguez Spur
+North Veronicaland, VI 48623",North,Cancer,Yes,3
+0696d756-f8df-490a-bb4b-dd2bf3cadc70,Kimberly Dougherty,1959-07-17,Male,"6898 Cook Well Suite 083
+Lake Samantha, NH 31547",North,Cancer,No,12
+59f558bc-ba17-4729-a15c-f3b38caf61ce,Theresa Williams,1933-07-06,Female,"610 Mary Stravenue
+Terrencetown, ID 68081",North,Asthma,No,6
+569e0deb-f7dc-4438-8254-45bbae11bff6,Beth Wolf,1960-04-07,Female,"380 Lopez Villages
+Port Donaldhaven, WV 32321",South,Asthma,Yes,17
+50da48d0-9ca8-47a0-b8d5-bc72e0210e56,Andrew Obrien,1958-02-09,Male,"684 Jackson Freeway Suite 901
+Lake Christina, GU 93380",West,Asthma,No,2
+5317ab74-4e32-42dc-be48-3a05375e50d7,Elizabeth Jackson,1992-05-23,Male,"6662 Arnold Point Apt. 059
+Lake Joshua, MP 65382",West,Cancer,Yes,23
+ab14496a-b5b1-484a-a237-023ebff43966,Susan Stokes,1991-12-31,Male,"45612 Garrett Stream Apt. 333
+Port Amberborough, ND 24206",North,Asthma,No,7
+303aaf00-aa10-4409-907f-db10e0c17886,Lori Higgins,1953-09-11,Male,"837 Charles Summit Suite 531
+Lake Nicholehaven, IL 12579",North,Asthma,No,12
+73a9a6b3-e405-4a67-9449-57dced1d9d2c,Caleb Jones,1978-01-01,Male,"USCGC Horne
+FPO AA 72107",South,Hypertension,No,27
+fed226c5-4f59-4815-9bfd-0e1954b8821d,Jessica Owens,2000-03-14,Female,"3105 Davis Rest Apt. 389
+Hernandezfurt, PA 69747",South,Hypertension,Yes,23
+0d9de721-535b-49ce-b936-1dec289e50cb,Patrick Robinson,1966-09-04,Female,"09252 Perkins Island
+North Tonyshire, ME 70229",West,Cancer,Yes,25
+0309a2b9-e527-4acc-b34c-7a879a68fc48,Daniel Dunn,1961-10-20,Male,"USCGC Gomez
+FPO AA 53503",West,Cancer,Yes,26
+c2b6ef2a-72da-4b96-8f30-fabd59524785,Sherri Bishop,1968-08-16,Male,"8217 Brock Lane
+East Cynthia, DC 73029",East,Diabetes,Yes,28
+cb0d1c53-27a0-44b2-b61e-5ca746e9f78b,Tina Roberts,1939-12-22,Female,"254 Steven Views Suite 545
+South Kellyton, NJ 06778",West,Diabetes,Yes,11
+9138afff-d9d2-4680-a482-117c709a2a8a,Heather Payne,1988-03-13,Male,"USCGC Livingston
+FPO AP 99792",South,Cancer,No,4
+2e17c28a-97ec-4580-a7d4-0323965dfa5f,Marcus Carter,1946-12-19,Female,"417 Kenneth Mount
+Andersonview, DE 41453",South,Diabetes,No,22
+c4b7a386-31ef-4680-9428-edb4f8205879,Timothy Clark,1948-12-02,Female,"652 Davis Stravenue
+North Randy, OK 88375",North,Hypertension,Yes,1
+09d04c41-bb76-4288-b639-3e0df0a753e2,Sandra Dillon,1961-01-01,Female,"68766 Nunez Street
+South Danielberg, KY 83191",West,Cancer,No,22
+a84f75b9-f35b-4fdb-bdde-90203599b257,Thomas Stone,1947-08-03,Male,"61080 Jason Centers Apt. 415
+Williamtown, NH 62821",East,Cancer,No,29
+ebf8b378-73b7-47d7-8d89-5da069f7c764,Brandi Hunter,1995-05-15,Male,"0642 Smith Heights
+Charlesbury, OH 80877",South,Asthma,No,21
+8244686e-fdc9-439c-965b-107c6c65842f,Susan Brown,1946-08-11,Male,"85614 Andrea Ridge Apt. 468
+North Amy, NY 20906",West,Cancer,No,13
+129ed3a8-a212-4578-ba77-030e7a2538c8,Christina Stanley,1941-08-07,Female,"6612 Harris Keys Suite 975
+Fieldsport, HI 37689",South,Asthma,No,5
+d9f8dc03-d079-4d82-8aa5-06ae7e74c7ae,Michelle Harper,2001-11-11,Male,"047 Kimberly Views Apt. 260
+Christianborough, IN 54940",North,Cancer,Yes,15
+f6918dbc-24ec-4be1-af0d-d4a60c9adf54,Gabrielle Moore,1953-06-19,Male,"799 Warner Roads Apt. 062
+Martinezville, SD 42442",North,Cancer,Yes,11
+9dd8b877-d241-41f9-9d34-4847ad797e60,Beth Smith,1985-08-08,Male,"USCGC Anderson
+FPO AE 98541",South,Diabetes,Yes,18
+9757699c-91d3-4598-b1ed-4e13200e2ab8,Robert Ortiz,1971-07-14,Male,"9815 George Square
+West Jessica, MA 11932",South,Hypertension,No,5
+3544605f-a50a-4a78-b87f-c1361f0ec790,Nicole Fox,1941-02-13,Female,"609 Jackson Path Suite 626
+Austinview, WV 16489",South,Asthma,Yes,25
+95cbc155-6e01-4cd1-bc2c-73a1d1f56461,Christine Thompson,1936-11-14,Female,"732 Laura Corners
+South Charles, AR 83484",North,Diabetes,No,12
+2d1ad49d-c15a-4ff2-a9b1-8990023d0490,Madison Johnson,1940-09-30,Male,"088 Moss Plaza Suite 675
+Jacksonmouth, NV 90065",North,Asthma,No,22
+36dba494-32bc-4005-ba80-c2f712977245,Jose Ruiz,1936-09-13,Female,"9875 Wright River Apt. 827
+Christinaburgh, KY 62238",East,Cancer,No,19
+efc86cde-1da3-4dd8-a271-58ad1d4a1ffe,Melissa Jensen,1969-05-06,Male,"5895 Tracie Center Apt. 396
+Williamsmouth, CO 12495",North,Hypertension,Yes,23
+7af3ee81-9c6c-45ea-81f6-10dad8c12f3b,Debra Johnson,1953-08-28,Female,"715 Victoria Passage
+New Andrew, CA 14829",South,Diabetes,No,13
+d4f25e61-77c8-4e24-bc47-aea74fd41db5,Ryan Baker,1958-09-07,Female,"967 Jonathan Street
+Deleonville, SC 78661",North,Hypertension,No,27
+e8729934-228b-4344-ad35-37d584629382,Jenna White,1991-03-04,Female,"135 David Terrace Suite 845
+Silvaport, MN 79624",North,Hypertension,Yes,1
+c47248d5-a5f2-4a38-831f-3dca1460c4fc,Wendy Garza,1987-04-25,Male,"9550 Johnson Course
+West Jennifermouth, TN 92607",North,Hypertension,Yes,23
+6af28124-ed25-46bd-a839-b4273bed4ce1,Karen Wise,1937-11-27,Male,"2431 Williams Isle
+Georgeside, FL 93900",North,Diabetes,No,6
+6b9b334d-9db3-4bd1-a3ee-e26cf327a366,Aaron Carr,1968-01-07,Male,"5108 Rodriguez Green
+Greenfurt, NC 01083",East,Hypertension,Yes,8
+17da59dd-fbf2-4947-a173-bed92be4b81f,Jennifer Jimenez,1940-07-03,Male,"66678 Wells Oval
+Leton, CA 66789",West,Cancer,No,13
+5e1ad21d-22af-4df5-b4ef-ae25bd85f568,Jason Douglas,1966-04-08,Male,"2543 Smith Extension Apt. 970
+South Pammouth, ND 61392",West,Hypertension,No,2
+f799dddd-8364-47e5-8e3e-c20c4e6e4287,Amy Anthony,1984-09-05,Female,"12017 Delacruz Pines Suite 381
+West Kathleenland, PA 83997",South,Cancer,No,28
+99083af7-1062-415c-b29e-bae8ff6a0bd7,Shawn Hansen,1959-06-09,Female,"0194 Charles Way Apt. 420
+New David, IA 04841",West,Hypertension,No,25
+d9d822d0-dc00-493a-9dd9-743fbd49a006,Edward Brooks,1992-05-19,Male,"428 White Springs Apt. 793
+Lopezton, UT 64160",South,Diabetes,Yes,6
+1a7977d5-c5b2-440c-b29a-414f1f278f56,Mr. Thomas Walker,1990-05-17,Male,"55919 Ryan Keys
+Johnsonhaven, MH 11890",East,Asthma,No,3
+23246a56-3d36-43a0-8834-f587ffe734a9,Jonathan Matthews,1952-11-01,Female,"0415 Hernandez Hills
+West Shannon, TN 36276",East,Diabetes,No,23
+6cff589e-f4a1-44ef-85a0-fe7e3e7b9fa3,Thomas Brown,1972-09-05,Female,"1977 Johnny Cliffs Suite 827
+Tracichester, LA 30450",East,Asthma,Yes,15
+b64d0a3e-7e8e-465e-85c1-1a666ba6da69,Brian Guzman,1996-04-03,Male,"8183 Scott Haven
+East Craigshire, VA 23873",West,Diabetes,No,30
+e357d82b-1745-4fef-bac9-4f34f27a9c44,Rachel Harding,1991-10-12,Female,"312 Lee Estates Suite 928
+Benderton, NM 16592",South,Cancer,Yes,29
+4336f703-bfa7-49fb-afe5-8742045267cf,Robert Willis DVM,1997-05-31,Female,"55634 Matthew Ports
+Boydfort, MP 26122",South,Hypertension,Yes,16
+4bdba5d2-190c-4527-82d0-648f2055e286,Shawn Roberts,1980-03-05,Female,"Unit 2037 Box 9199
+DPO AA 24667",West,Cancer,No,10
+c72ad3f4-424e-44d0-ab60-121086a57414,Ruben Swanson,1999-06-07,Male,"6266 Baird Park
+Lake Natashamouth, AR 85033",South,Cancer,No,2
+a1ac0103-719a-485a-af66-90bcd4643f07,Charles Elliott,1960-05-21,Male,"565 Zachary Station Suite 441
+Mccoyton, MS 76653",South,Cancer,No,7
+36ba83e8-89d3-4f1b-bb3b-e01b196055d7,Christopher Jones,1979-04-24,Male,"77197 Sierra Brooks Suite 741
+Jodichester, GU 38181",North,Diabetes,Yes,27
+41edcf58-0f5a-4c58-9ba5-cb254ca07915,Lisa Smith,1994-04-09,Male,"2372 Snow Rest
+Manuelburgh, IL 00899",East,Cancer,Yes,1
+f1e0d3d4-92ec-4790-849f-c13795dd472a,Nathaniel Thomas,1947-03-07,Female,"1173 Bryan Summit
+New Michaelchester, PA 94960",North,Diabetes,No,22
+8c445196-a30d-455b-9cc7-ecb7f4ae58a6,Erika Gibson,1994-11-10,Male,"57559 Jonathan Track
+Port Carolyn, OK 21671",South,Asthma,No,11
+fd796413-280f-4edf-b330-6660c095e61f,Cameron Rose,1963-12-10,Female,"844 Terrance Knolls
+Christiantown, SD 64449",East,Hypertension,Yes,7
+60447122-5a1d-4589-ad68-f8c192352d78,David Mooney,1994-01-20,Male,"86867 William Drive Suite 524
+West Erintown, MP 32752",North,Diabetes,Yes,23
+2d29e6ee-f7b6-4192-862b-19b43a63aa28,Laura Phillips,1995-03-11,Male,"6312 Blankenship Circles
+East Jack, WA 07885",East,Diabetes,Yes,27
+a53c94da-1c50-4cde-a8ef-7c1e2cb8ca94,Christine Arnold,1966-07-15,Male,"2392 Brown Coves
+Banksfort, AL 63988",South,Cancer,Yes,7
+1e000235-c2f3-4e81-a834-6393b7b13e1a,Nicholas Chavez,1956-12-23,Male,"69956 Carol View Apt. 736
+Port James, GA 84570",West,Hypertension,Yes,20
+202d3113-d726-4617-be64-0ec8a9670958,Kristin Tran,1960-08-22,Male,"80341 Scott Ways
+South Jennifer, MD 44863",South,Diabetes,Yes,28
+b515d964-b1fb-4da1-b4ec-9e52ef6a1df5,Kara Wong,1976-07-12,Male,"Unit 2555 Box 7636
+DPO AE 41482",South,Cancer,No,9
+eac5e208-50cf-4a9f-9b52-a5f6cae9fe9c,Anna Phillips,1949-05-26,Male,"99390 Kenneth Brooks
+Port Jessicaberg, MH 44772",North,Asthma,Yes,4
+d5c8ca8e-28ce-4790-99ed-5d59d912de69,Patricia Shields,2004-07-15,Male,"978 Whitney Valleys
+East Jeffshire, PA 55887",North,Asthma,No,28
+af3a4e6b-0a35-4463-b7bc-696f1f2d9174,Tina Smith,2002-03-19,Female,"96949 Smith Locks
+Lake Toddbury, LA 96507",East,Hypertension,No,21
+9dc24b15-bdc6-470f-9fdf-8f88cb49673c,Michael Sullivan,2004-11-18,Female,"5808 Pineda Brooks Suite 567
+South Matthew, WV 33953",North,Hypertension,Yes,1
+425b0551-9681-4c22-9444-77f88a2ec453,Jeanette Morris,1960-12-01,Male,"86134 Williams Parkways Suite 299
+Nicoleton, IN 58744",North,Hypertension,No,30
+ce0a13c1-642d-4d61-ae01-42965eb32d71,Tony Cardenas,1971-05-09,Male,"PSC 2732, Box 9423
+APO AP 47239",North,Hypertension,No,26
+3c96a552-6629-48cb-9a69-ad0081ea9505,Sonya Booker,1986-07-01,Female,"45810 Smith Alley Apt. 071
+West Christopher, MP 97738",North,Hypertension,Yes,28
+2fd1a643-c4ef-4f51-a3ff-a2ee9a2eee4f,David Wang,1942-02-24,Male,"USNV Fleming
+FPO AP 30085",North,Asthma,No,5
+23ab4c12-80ff-4672-b0d2-c6a5d8221be1,David Bennett,2001-12-15,Female,"0784 Bauer Brook
+Richardton, PA 10275",South,Diabetes,No,4
+747825bc-2491-4a5a-acae-bd38a9233caa,Christy Williams,1990-07-10,Female,"PSC 0514, Box 4715
+APO AE 92326",East,Asthma,Yes,9
+27f200a3-3621-4c3a-b6df-ed12d104fc6d,Patricia Parrish DVM,1995-04-11,Female,"501 Reynolds Drives Apt. 570
+Fitzgeraldfurt, IN 22581",East,Asthma,Yes,2
+080181ad-9dd4-4e92-9220-6258cd415bdd,James Sweeney,1970-10-04,Male,"00498 Jeffrey Circles
+New Sandraton, ID 38505",South,Cancer,Yes,7
+95864d4c-179a-4fdb-b7ce-ab3b5b2e7980,Richard Smith,1953-09-07,Female,"59192 York Turnpike
+Sarahview, DC 41961",North,Hypertension,No,18
+ee8776f2-9cad-44cc-aec3-60b309ab8b18,Andrea Reeves,1968-05-25,Female,"8470 Nolan Viaduct Apt. 541
+East Dawnhaven, KS 77587",West,Cancer,No,12
+7b434409-6abd-4452-b52c-761eff97c647,Ricky Jensen,1975-05-07,Female,"15629 Powers Parkways Suite 846
+New Holly, MN 61876",South,Asthma,Yes,28
+d3c795af-9bf3-410a-9fde-655303dfdc0c,Alexandra Rodgers,1967-06-14,Female,"Unit 4946 Box 9299
+DPO AA 69078",West,Asthma,No,23
+62ff4cfd-4774-46f7-af43-b5a6d2449d27,Edward Ewing,1946-07-07,Female,"27962 Fitzpatrick Crest
+Butlermouth, ME 66548",East,Cancer,No,21
+b45a0e9f-3ba3-4267-92d2-794dd2581cc4,Laura Davis,1981-07-31,Male,"2955 Wright Forge Apt. 714
+South Karenmouth, UT 52738",North,Asthma,No,12
+fabaccd6-34be-48d3-93d4-03c93d3feec8,Steven Wood,1972-03-15,Female,"995 Campbell Roads Apt. 841
+Lake Allisonport, FM 78905",West,Cancer,Yes,7
+fe39f925-c67a-42a7-84f1-4c7fa7d26e8e,Robert Jones,1980-05-09,Female,"24323 Love Hill Suite 452
+Jocelynchester, SC 33120",North,Cancer,No,19
+f218e9b1-a354-4945-aa8e-2583a17fa405,Karen Lewis,1965-06-10,Male,"72507 Lindsay Road
+Port Shawna, GU 79553",South,Asthma,No,1
+9c2fd8f6-e877-4b45-8344-f63239c33ef1,Jennifer Palmer,1949-08-31,Male,"12272 Christian Bypass
+Melissaton, MI 69825",West,Diabetes,Yes,5
+d6319b6e-6277-427c-b6a5-a005b2cb9a0b,Lance Roberts MD,1944-01-09,Female,"3372 Elizabeth Road
+Cynthialand, AL 56682",North,Asthma,No,11
+4a452333-bc1e-4eba-8f62-6b586e271834,Benjamin Zhang,1994-10-13,Female,"1410 Anderson Parks
+South Angelhaven, UT 43754",East,Diabetes,No,26
+7959e69f-3362-42a8-a707-eda0d3d0fe75,Hannah Campbell,1983-07-13,Male,"973 Thomas Ranch
+Lake Omarburgh, AR 45136",East,Diabetes,No,23
+8bb65b4d-ae75-4be6-bb23-bbefd54f1de9,Tammy Olsen,1988-08-17,Male,"769 Stacy Field Apt. 240
+North Austin, NJ 48250",East,Diabetes,Yes,11
+abd62925-ccce-4dd0-9b2b-fdd868f12517,Gina Johnson,1962-11-08,Male,"17040 Alexander Well
+Jonesborough, OH 71286",East,Asthma,Yes,2
+b3843379-2f6e-47a8-973d-5abf35338b15,Maria Davis,1969-10-26,Male,"345 Pamela Dam
+East Benjamin, MN 51685",West,Cancer,No,6
+eec4b7f1-3e2c-4aef-846b-298a331b9ff5,Michael Wright,2002-03-16,Female,"Unit 1915 Box 6012
+DPO AA 56365",South,Diabetes,Yes,19
+51b3859d-a468-4c5a-9ab8-1ffb704ba31f,David Rubio,1957-04-26,Male,"497 Farmer Trail
+West Kaitlin, AZ 82251",North,Diabetes,No,12
+f86c9f1d-abf5-48c5-828d-35664809a160,Barbara Brown,1950-12-27,Male,"Unit 0468 Box 0891
+DPO AP 56208",North,Hypertension,No,18
+3a297192-ad59-4180-805d-86a99282574d,Stephen Jackson,1947-07-08,Male,"59810 Palmer Rapid
+Chloeberg, MD 55632",North,Cancer,Yes,10
+2e072f67-ed1a-4551-981e-94a191d9f447,Adam Kelly,1944-04-01,Male,"92263 Timothy Mission
+Tracyview, IL 64816",West,Hypertension,Yes,16
+afbe3399-9138-409b-b754-0e215578de08,Anna Daniel,1961-04-18,Male,"97187 Christopher Circles Apt. 425
+Port Jessicaburgh, GA 97849",North,Diabetes,Yes,30
+e4f43c9d-8986-45d3-8d09-da4bc1d8f5d7,Thomas Hamilton,1951-12-20,Male,"61788 Alexander Plaza Suite 051
+South Darrell, NV 14347",South,Asthma,Yes,10
+40ba7196-9147-4100-89e9-3a698579cb92,Erin Fisher,1955-10-22,Female,"8340 Morris Highway
+Port Pennyton, HI 78343",North,Diabetes,Yes,28
+68b0e169-6516-491d-9ecc-17f23afe354e,Jasmine Mcfarland,1989-07-11,Female,"631 Carlos Forge
+Allenstad, NV 08504",South,Cancer,Yes,10
+18236a22-8f6c-4471-961c-3758c7b34c9a,Anthony Robinson,1966-12-19,Female,"Unit 7384 Box 7422
+DPO AP 11905",East,Asthma,No,27
+c1c00461-bb2d-4069-b0dd-eccee3ed234f,Sarah Pham,1961-06-03,Female,"63823 Morton Skyway Suite 719
+Port Margaretshire, MI 40219",South,Asthma,No,10
+9bfaeb6e-63db-44e7-8cd7-f2e53eb4c6ed,Amber Mckinney,1945-04-24,Female,"0938 Brandon Spurs
+East Javierville, NH 43043",East,Diabetes,No,4
+2efa7ac0-23a9-4c1a-9562-d6433662e943,Whitney Wood,1935-06-10,Male,"9970 Thomas Wall Apt. 611
+Donaldsonberg, UT 46123",North,Diabetes,Yes,18
+ae18c1d6-42a0-482d-881b-df76425bc1bc,Roger Macdonald,1981-08-18,Female,"08559 Kim Ports
+Wilkersonburgh, FM 87090",East,Hypertension,No,16
+85d3fe4b-4f63-4974-a312-225032d375fe,Michael Vega,1979-01-12,Male,"9207 Jeffrey Ferry Apt. 634
+North Tara, WI 55174",East,Diabetes,No,27
+90810638-69f3-4012-8386-fb7221aa9c9d,Gina Allison,1980-07-02,Male,"00574 Castillo Plain
+Lake Petershire, NH 41835",South,Asthma,No,4
+ddd6f021-037f-4223-b76e-7c6e4f78fbbd,David Johnston,1970-11-10,Female,"87164 Dana Brooks Apt. 888
+Whitemouth, NM 33425",South,Hypertension,No,4
+2623696a-90f8-4b7f-a211-11d239120414,Heidi Williams,1967-01-31,Male,"368 Jenny Valley Suite 490
+Whiteton, WV 61971",South,Asthma,No,14
+67014820-bf13-49b7-8812-c09f08a07437,Justin Gross,2000-02-15,Female,"4184 Sarah Court Apt. 497
+West Robertstad, PA 43116",West,Hypertension,Yes,10
+25dfd5c5-108a-43c6-b347-4fe5e7d52793,Larry Williams,1967-06-22,Male,"81993 Pearson Roads Suite 016
+Marilynborough, TN 15809",West,Hypertension,No,24
+9278e5dd-1d5c-403d-bad5-edc0494f86c6,Mr. Bryan Espinoza,1993-01-15,Male,"754 Kelly Lakes
+New Michael, OR 78614",North,Hypertension,Yes,30
+1216c3fa-b136-4f93-9b36-2a3a0b459625,Emily Woodward,1985-07-13,Female,"584 Tiffany Square Suite 884
+Lewischester, ID 84947",South,Cancer,Yes,21
+acaf7b6b-2313-4cc8-a99e-19a0a8706be8,Michael Lee,1948-02-13,Female,"29429 Pugh Inlet
+Christinabury, VT 67365",South,Asthma,No,26
+3e15d14a-22c0-493f-b682-7acd5368a973,Chelsea White,1937-11-10,Male,"6587 Crane Road
+Thompsonhaven, ND 66752",North,Diabetes,Yes,3
+5035c870-31e5-41b5-882f-2dbb6038e95e,Timothy Torres,1990-09-01,Female,"06146 Robertson Mountains
+Howardtown, OH 99626",West,Diabetes,Yes,7
+c12e4604-3e67-43d1-84a3-c1cf4d94a334,Marcus Rodriguez,1944-09-06,Female,"2604 Amanda Vista
+Josephport, AR 34770",West,Hypertension,Yes,2
+6972fb76-47b5-495a-9025-0c39fb003073,Emily Snyder,1967-01-14,Female,"796 Garcia Common
+Torresburgh, NJ 05478",North,Asthma,No,1
+8742617a-5cd0-4da4-be84-0724f6f065bf,Daniel Clark,1975-12-13,Male,"82905 Kevin Terrace
+Porterchester, NV 85636",East,Asthma,Yes,13
+c3827f73-e03f-4a09-a722-54499d0c1c5e,Brian Miller,1937-04-30,Female,"4504 Cynthia Ferry Suite 501
+New Dominiqueside, VI 10335",East,Hypertension,No,15
+c63756c8-b826-4a73-8a8c-2687ef05169e,Brenda Tucker,1971-07-06,Male,"055 Cynthia Fall
+New Cody, NY 91286",East,Cancer,No,26
+d1cbb86d-473f-43cb-9223-bec32b31ec78,Rebecca Casey,1946-10-11,Female,"9942 Garrett Union
+Elizabethhaven, FL 17254",North,Hypertension,Yes,14
+18164bad-8c8e-4053-8044-6d1aa6445114,Stephanie Miller,1981-04-16,Female,"1853 Taylor Courts
+Lake Melaniefurt, MH 04450",West,Cancer,Yes,12
+0f62496d-2d21-4e33-99cb-6e81427a839d,Donna Lowe,1971-03-15,Male,"06801 Oneal Shoal Suite 921
+Rodriguezport, PA 79548",West,Asthma,Yes,9
+0111a335-9eb1-4c4b-a3bb-6fba6f461d5e,Donna Williams,2003-01-20,Male,"9648 Matthew Stream Apt. 377
+Javierside, MS 21120",West,Diabetes,Yes,14
+4f613cd7-b037-4aa9-839d-ee9a175b167e,Chelsea Brown,1973-04-10,Female,"07757 Ramos Road
+Samuelberg, WV 04046",South,Cancer,Yes,12
+58c87960-d971-4ef5-942b-bd495bcee2f4,Jill Francis,1937-08-14,Female,"PSC 7073, Box 9005
+APO AE 39216",South,Diabetes,Yes,3
+4d8d8a14-b063-4dea-951d-39179bfbdb43,Willie Ortiz,1992-07-06,Female,"726 Tammy Trafficway Apt. 335
+Nelsonside, AZ 20875",East,Asthma,Yes,29
+8fba8259-ffbd-4953-8120-a75f0b32bebf,Jason Cohen,1961-07-09,Female,"6720 Jones Gardens
+Port Maryfort, LA 22591",West,Cancer,No,25
+32340a80-2550-4e56-84f7-98967bda2c3a,Lisa Romero,1949-04-11,Female,"308 Christian Lights Suite 466
+Seanborough, NY 36989",South,Asthma,Yes,4
+d3bbe25f-3ff7-4a71-ab01-47ffff485231,Jessica Kim,1959-03-04,Male,"9006 Maldonado Turnpike
+West Javierfurt, CT 60459",South,Hypertension,No,13
+6481ceab-47d0-4df3-81b9-a722352c6467,James Stevens,1960-08-30,Female,"67188 Amanda Ridge Suite 631
+New Daniel, NV 32741",West,Cancer,No,7
+e5832239-95be-4bff-bcb3-70353d2ee69f,Samantha Watson MD,1943-02-20,Female,"2351 Melissa Stravenue
+North Meganchester, MO 33296",West,Asthma,Yes,26
+1679b58a-06c6-4cf2-abf5-20664952c053,Zachary Brown,1966-03-13,Female,"46634 Julie Inlet
+Lake Williamfurt, PA 05997",South,Diabetes,Yes,20
+2f058974-7f61-467d-86ee-61d169be7584,Steven Stevens,1945-07-31,Female,"566 Castillo Groves
+South Joycechester, WY 67776",East,Asthma,Yes,4
+6455e7d2-161b-4a51-b632-c5ad8a15f753,Steve Miller,1958-12-03,Female,"USCGC Mejia
+FPO AP 60024",North,Hypertension,Yes,15
+0e5f2fb3-7bd1-4e78-a285-50731c0a5140,Curtis Ramos,1982-02-16,Male,"21849 Allen Drives
+Port Rachelville, UT 30533",South,Cancer,No,12
+3f79b5db-6288-425a-b02a-e2450d5716f0,Julie Jimenez,1933-08-22,Male,"40206 Kimberly Manors
+South Debrastad, FM 46883",South,Hypertension,Yes,4
+95852643-15ae-4ca2-a011-113c9856316c,Regina Cameron,1941-07-21,Male,"00986 Ball Circles Suite 063
+Riveraberg, CA 69025",North,Cancer,No,5
+c219c8f6-fd5a-4678-a399-b9451de83a12,Scott Washington,1995-10-08,Female,"202 Sanders Lodge Apt. 472
+New Davidside, SC 63249",South,Hypertension,No,21
+ab998c3a-084e-4ee0-be6b-d13482d77cd2,Amy Webster,1970-08-31,Male,"16461 Isaac Motorway Apt. 040
+Derrickland, MN 10939",South,Cancer,No,29
+7f6044d2-3566-4e0d-bf3d-9075c880a660,Rachel Roberts,1956-08-19,Male,"PSC 7649, Box 7103
+APO AE 15083",North,Diabetes,No,22
+b8c81a0b-7df1-41f4-9a69-2fd0ea225f15,Vickie Webb,1959-01-23,Male,"PSC 3105, Box 8822
+APO AP 37334",South,Cancer,No,27
+de09fff2-3e06-42fa-8824-dccad862f426,Andrew Miller,1970-03-31,Female,"2541 Jensen Park Suite 266
+South Scott, MT 85799",East,Asthma,No,16
+eae817b3-3bd2-467f-a4b1-a0458d83699d,Brooke Wilkinson,1985-12-29,Male,"701 Wilson Courts
+Michaelchester, CA 00553",West,Cancer,Yes,18
+75593ada-7a87-466b-8b5c-fe331bc2dcc3,Aaron Baker,1971-10-25,Male,"117 Smith Place Apt. 505
+North Maria, IL 67529",South,Diabetes,Yes,1
+54f74e9b-f1c0-4e80-84cb-b2c61afd8370,Kari Chen,1954-04-21,Male,"54770 Angelica Crossing
+New Cassidytown, VI 80323",West,Diabetes,No,23
+9d4e6e21-b033-485f-aa4a-50446b1f4fb5,Teresa Smith,1987-07-01,Male,"Unit 1481 Box 1190
+DPO AP 18182",East,Cancer,No,27
+f22f0809-b7f0-400a-b407-48ef7ee9ef0c,Michelle Davis,1953-08-31,Female,"49111 Brittney Stream Apt. 939
+Hugheston, ME 09779",North,Hypertension,No,2
+26cc45c2-770c-4e26-af1e-0cf6c9973006,Micheal Walker,1994-11-23,Male,"452 Nelson Lock Apt. 965
+North Ronaldview, MT 16055",East,Asthma,Yes,28
+d1271e5c-02da-4afb-89e5-a87684cd7e80,Sandra Scott,1967-08-20,Male,"9463 Scott Route Suite 896
+Loriport, ME 29149",West,Cancer,No,20
+cd49d528-3ba0-4ad1-a1e9-2eabdc8b7aa4,Jonathan Jackson,1993-07-31,Male,"42839 Gonzalez Lights Suite 109
+South Joshua, SD 09944",West,Asthma,Yes,27
+da769b65-6980-4a29-adb7-76fc6509da32,Maureen Cortez,1992-04-11,Female,"2586 Jimenez Spurs
+Schneiderberg, SD 46654",North,Diabetes,No,19
+8d4fe424-0e52-4743-b4ca-c16c43a71a51,James Garcia,1999-08-16,Female,"4960 Natalie Parkways Suite 500
+Leeville, TX 88647",East,Hypertension,No,23
+2094ffc7-c20c-4363-b5da-c3e90ab81278,Sarah Benson,1940-10-17,Female,"91000 Brent Mall Suite 705
+South Shawn, MN 28273",East,Cancer,No,3
+5770389f-8e8e-4dd6-9364-d3247ba62f1d,Arthur Fuller,1966-02-03,Male,"688 Watkins Lakes
+Garychester, WI 60193",South,Diabetes,Yes,17
+00c57425-0814-4649-9b37-8cb29a6f81da,Christopher Thompson,1978-08-09,Male,"PSC 7796, Box 4226
+APO AA 46643",South,Hypertension,Yes,3
+0e272189-d10e-410c-b492-a0cc68f5a9af,Lorraine Fleming,1952-09-16,Male,"5795 Mary Locks
+Foleymouth, NJ 51733",North,Hypertension,Yes,5
+d38a11d4-b44c-40ba-a63e-ee491415fdbe,Dustin Anderson,1941-12-20,Male,"05741 Fischer Station
+Ronaldview, CA 89041",North,Diabetes,Yes,10
+f4a1bd8c-757b-47f3-b09c-337097964dfd,Kelsey Williams,1956-01-09,Female,"40075 Brent Forks
+South Deannaland, WA 42751",West,Cancer,Yes,25
+f357ea2b-0111-40ff-ae07-159efe6988fe,Martin Jimenez,1960-06-23,Male,"Unit 5634 Box 5320
+DPO AA 11109",North,Diabetes,No,11
+292d500f-aef5-4d0e-8f54-b2d890643882,Bradley Clark,1937-03-02,Female,"175 Stuart Lakes
+Paulabury, AS 65772",South,Cancer,Yes,26
+480f5f6b-3e49-4a30-ad98-2bab2d0a3a25,Samantha Harrell,1964-02-05,Male,"66480 Booth Square Apt. 464
+Clarkstad, MI 67987",South,Hypertension,Yes,28
+45beb820-6c38-4057-b52f-a3f2a4d1f466,Paul Richard,1993-04-11,Female,"Unit 6877 Box 4675
+DPO AE 52234",East,Asthma,No,12
+e62cd2f3-48a4-4ac8-a994-65adbaa4e4cb,David Boyd,1959-08-02,Female,"8363 Barbara Prairie
+Lake Leonardchester, KY 77740",West,Cancer,No,29
+303cc585-054f-4004-85b8-c3990666fb96,Nicholas Valdez,1933-10-04,Female,"27376 James Expressway
+Murrayborough, MD 44072",North,Cancer,Yes,19
+d9b50646-3412-4d42-be6f-5f26ab2d3d1a,Jessica Rogers,1958-06-19,Male,"056 Hurst Fall Suite 734
+East Maryburgh, PA 04548",South,Cancer,Yes,22
+0ffddd59-8632-4050-b0f6-7ac9a0f62c51,Rachel Schmidt,2004-06-25,Male,"07023 Wilson Square Apt. 423
+Rachelborough, MH 39435",East,Hypertension,Yes,24
+811ef803-dd5c-42a8-a400-78ed59f54c1b,Kristi Brown,1950-10-01,Female,"6067 Jesse Meadows
+Lake Donna, NV 67476",West,Hypertension,No,29
+b4acc844-7ae0-4eac-83fb-7cbe35e68008,Robert Carter,1954-04-06,Male,"62821 Rebekah Court
+North Joseph, OH 99302",East,Cancer,Yes,10
+a4d6e898-083a-4f95-89f7-794d3f118693,Benjamin Butler,1939-06-21,Male,"20688 Cole Haven
+Lake Cynthia, HI 89030",South,Cancer,No,27
+f7161699-1eaa-46cf-8279-0a0f34eb91b9,Michael Grant,1966-03-09,Female,"8377 Terri Pines Apt. 878
+Rodriguezville, MO 20071",South,Hypertension,No,28
+2d137584-f6a7-4add-a924-7baeb0e37222,Michaela Martin,2000-05-21,Male,"550 Holly Circles
+Helenmouth, AL 59694",East,Diabetes,No,20
+2ae7077e-b085-497e-8b23-64b52e60f107,Alisha Reynolds,1988-09-07,Male,"293 John Pass
+Port Adamton, CO 24923",East,Diabetes,Yes,28
+3490e828-f61b-4c7f-80d2-46471da378aa,Lori Leon,1962-06-01,Female,"PSC 5794, Box 9688
+APO AP 83410",East,Cancer,Yes,22
+286e5080-20c1-4f62-8d4c-f92bee9fbd32,Olivia Brown,1980-06-19,Male,"511 Robert Landing Suite 213
+South Robert, CA 74233",North,Diabetes,Yes,24
+46364364-0086-4a9e-9f33-530c443cc1b0,Gabriel Bradley,1962-02-01,Female,"9968 Melendez Corner Apt. 113
+Kellymouth, MT 66170",North,Hypertension,Yes,10
+d92815cd-e7d0-449f-a0f5-ce6cbc8349da,Jennifer Chavez,1998-02-05,Male,"7459 Moore Prairie
+West Grantfurt, MP 96652",East,Asthma,No,11
+13274995-26f0-4d0c-a0d5-8a01fce8ad3f,Philip Peterson,1958-05-12,Female,"239 Hardy Island
+West Steven, PW 22119",South,Cancer,Yes,16
+c2d23d5c-ddc2-44ac-9a91-9cc1428d2384,Michael Monroe,1973-08-09,Female,"00022 Vargas Hill Apt. 296
+Deborahside, MS 26979",East,Cancer,No,27
+4a012bb6-896b-4930-a42e-d4defe40c8cd,Joshua Mendez,1953-12-17,Male,"96611 Antonio Ford
+Lisatown, NH 19514",West,Hypertension,No,25
+e38421f4-4977-4193-8d75-7394cb6efda6,Jonathan Gamble,1981-08-30,Female,"2803 Elizabeth Ways Suite 986
+Washingtonside, AL 61487",South,Hypertension,No,13
+cb915667-7761-4992-bbbd-d0144c702387,Kimberly Hardin,1934-05-31,Female,"61105 Weaver Meadows Suite 404
+Webbberg, FL 25579",South,Cancer,No,2
+14fe9a3f-b6b0-4a6a-a4f1-25f3c46686ae,Christian Morrison,1966-09-04,Male,"333 Hardin Loop
+Swansonburgh, MO 18451",South,Asthma,Yes,21
+41f45bdd-ae2b-4995-b2ae-be6cac482405,Gregory Lane,1967-11-28,Male,"5809 Charles Knolls
+Steveport, CA 98231",North,Diabetes,Yes,8
+aa1cc57c-03a2-4864-9f93-999a6fb869f8,Bobby Kelly,2003-10-14,Male,"USS Reyes
+FPO AE 26199",South,Cancer,No,24
+6f0ea4ab-bd8d-49bb-8903-5f0d6f6b0e26,Steven Mack,1981-02-11,Male,"95606 Browning Mountains
+South Sarahmouth, PW 45580",South,Asthma,No,2
+2f4fcb16-a358-4032-b721-86ccfd222222,Carl Leonard,2002-08-13,Female,"73682 Christian Estate
+North Angelchester, TX 26702",East,Diabetes,Yes,16
+4ce9097b-fa5b-49b9-9305-20e1993f7d36,Marco Hubbard,1950-06-30,Female,"248 Alan Knolls Suite 820
+Brittanytown, SC 32718",East,Hypertension,No,5
+8c4f88c7-9aac-46f3-b34f-58f80391e53c,James Gonzalez,1965-08-11,Female,"51172 Miller Parkways
+West Andrewview, AS 65731",East,Cancer,No,29
+89b3c844-4a89-41cf-82c1-6de037b0b084,Heather Williams,1956-01-05,Female,"1256 Miller Harbor Apt. 018
+West Jerryborough, WV 92773",East,Diabetes,Yes,22
+5df771d9-e855-4a9e-b4e6-e7fbe0ccbca3,Jose Mckenzie,1996-04-03,Male,"301 Richard Heights
+Steveton, WI 22130",South,Hypertension,Yes,26
+51c269b4-4628-4140-b4f0-2cbd9c36094c,Laura Good,1991-06-20,Female,"02868 Pope Brook Suite 908
+Patrickhaven, SC 49960",West,Diabetes,No,14
+a886e99d-8b4a-498f-9d7b-d1f2a1f97ef4,Samantha Day,1949-02-28,Male,"103 Andrew Stravenue Apt. 258
+Veronicaborough, ME 26488",East,Diabetes,Yes,20
+b561bba4-06b5-4b6b-8727-f5a984f2ad96,Robert Thornton,1987-10-16,Female,"14836 David Landing Apt. 401
+Victorville, MI 96811",North,Diabetes,No,13
+8c726582-b213-4ca6-b8c7-0c6984698d06,Gregory Hebert,1986-03-02,Male,"8098 Emily Point Suite 843
+Bakertown, IL 83239",North,Cancer,No,2
+a5e7d089-e31e-49ac-9f5c-17b55d3e99b1,Connor Clarke,1978-09-20,Female,"94226 Flores Highway
+Stevenside, MT 19418",East,Hypertension,Yes,16
+2cfd96ee-c7d5-430c-8667-2fd53e7f2ddd,Nicole Baldwin,1942-06-27,Female,"999 John Knoll Apt. 575
+Fisherstad, GA 04488",West,Cancer,Yes,1
+9ebc2192-1350-4986-b0be-d4dedbc01624,Adam Brown,1995-11-13,Male,"00047 Stephen Overpass
+East Andrewside, AL 47722",South,Asthma,Yes,20
+9544e072-a06d-42c1-a448-9581555c0383,Jose Gonzalez,1974-12-09,Male,"819 Galloway Tunnel Suite 690
+South Samantha, PR 51323",West,Asthma,Yes,21
+726d53a3-624c-42af-8e07-2fa9333fbd4a,Mark Daniels,1944-11-05,Male,"36561 Laura Road Apt. 100
+Kyletown, FL 75882",West,Hypertension,No,4
+5297b178-15e7-4d3e-9c95-32345b50e42b,Todd Davis,1958-01-16,Male,"97051 Sullivan Brook Apt. 505
+New Clairetown, OR 28808",East,Asthma,No,7
+5a64a5f8-d987-4738-9b31-3a2616336bbb,Scott Rodriguez,1936-12-26,Male,"Unit 1867 Box 5737
+DPO AA 44460",South,Diabetes,No,26
+55e87939-2901-4591-97dc-d2b6853f3934,Sarah Oneal,1942-02-18,Female,"587 Laura Heights
+Lake Stephen, VT 10027",East,Asthma,No,4
+c1e8f583-b635-459c-8aa3-6fd21910594a,Haley Roberson,1946-04-16,Female,"61985 Sosa Island
+New Isaiahmouth, UT 48514",West,Cancer,Yes,20
+0485111b-7425-4c4e-bf7e-b160a190bc60,Joseph Sexton,1990-03-15,Male,"Unit 3014 Box 1864
+DPO AP 89409",North,Cancer,No,20
+ee04e418-ffab-4a29-8e8a-6eabe8d441c6,Crystal Hall,2002-11-15,Female,"PSC 1391, Box 2694
+APO AA 01838",East,Diabetes,No,21
+128d7e22-5537-42f0-9d30-e9eea06680aa,Amanda Garcia,1955-04-11,Female,"424 Watkins Locks
+Davidton, PA 77444",East,Asthma,Yes,22
+bbd68cc2-e1b8-4067-9577-bd69d1e0bcf1,Jessica Hicks,1944-02-29,Male,"49916 Smith Hills Apt. 981
+Ericchester, TN 24918",South,Diabetes,No,26
+3a337123-949e-4b96-8262-4fb7c55e2c19,Jason Church,1992-08-17,Female,"5888 Dixon Plaza Apt. 476
+Krausehaven, ME 19821",East,Cancer,Yes,30
+56d1e26e-df17-4499-9f81-0837e9ec928f,Samuel Vazquez,1940-11-01,Male,"1203 Stone Ridges
+West Christinaburgh, VI 02946",East,Hypertension,No,26
+51f8a87d-c84a-4f85-b45f-c2e2cd11075c,Patricia Page,1945-07-12,Male,"59721 Lee Bypass
+New Jerry, GA 61198",North,Diabetes,No,30
+9f803725-1e5d-4007-b095-11068f5f06a2,Janet Norman,1950-06-29,Male,"99340 Russell Divide Apt. 739
+Sherrymouth, NY 90615",North,Cancer,Yes,17
+b06437d7-0cf8-4149-b2a7-c1fd4fc3960e,Dr. Ronnie Washington,1987-01-29,Male,"21786 Lindsey Ports Apt. 618
+Fletchermouth, OK 80101",South,Diabetes,Yes,2
+4297a57b-f02e-45cd-9174-b0cf20e8cbad,Nicole Smith,1947-09-30,Male,"2119 Christopher Pine
+Mahoneychester, MO 55091",South,Cancer,No,15
+0d1f4e72-446f-4d27-8286-6f5c65fe427e,Jaclyn James,1996-05-24,Male,"6520 Travis Hill
+Craneview, MI 42970",North,Hypertension,No,25
+c7011610-5d94-4057-9061-d36007e0fa84,Justin Friedman,1947-01-02,Female,"61603 Hill Valleys Apt. 030
+Hollandburgh, OR 57110",South,Asthma,Yes,15
+ecc126dd-ca8b-4a23-b3c7-4f1a5173cb41,James Dennis,1997-12-16,Female,"153 Paul Throughway Suite 302
+North Johnbury, MT 02224",North,Diabetes,No,26
+2024acf3-32cf-4177-829b-82cf2b51491b,Anthony Schmidt,1964-08-11,Male,"6956 Keith Valleys
+Davidburgh, MN 84404",North,Cancer,Yes,2
+eb94e2b1-3723-487b-aff3-17d4d0cba3c4,Brittany Reid,1953-06-06,Female,"200 Shah Ports
+Perezside, VA 09543",North,Cancer,Yes,16
+5ebdc105-5492-4a99-9a54-f44ec895ed90,Angela Cardenas,1958-04-21,Male,"5914 Michael Ridges
+Tannermouth, VI 26970",North,Hypertension,No,29
+2f68d919-9d7b-47c5-937e-69030cc4639b,Rachael Heath,1977-07-27,Male,"3440 Simmons Rue Suite 876
+Phillipchester, CO 69783",West,Cancer,Yes,17
+89233f6f-9770-4c6c-a95f-f2b1f0577ff5,Sarah Byrd,1985-01-10,Female,"9006 Pierce Underpass Apt. 124
+East Sharonberg, MA 24492",West,Hypertension,Yes,8
+6c1639a0-d16f-4d5e-9f38-35556ac2e790,Taylor Cooper,1988-11-20,Male,"6987 Joel Heights
+Daughertybury, AL 51763",North,Diabetes,Yes,25
+ca54a125-0075-4662-9352-3e88de25d9b1,Gary Young,1985-02-07,Male,"5669 Phillips Motorway
+North Vanessa, HI 13945",North,Hypertension,No,17
+9f97fd39-836f-4186-9b57-18189076d042,Whitney Hopkins,1973-08-19,Female,"1913 Eric Keys
+South Williambury, NH 51923",East,Diabetes,No,4
+a3d20cc9-dcf4-4b3b-befc-758dfe1e0c58,Ruben Garner,1997-03-18,Female,"PSC 0573, Box 8253
+APO AA 97912",South,Asthma,Yes,14
+22a859ae-05d5-4809-9611-6366a581c911,Anthony White,2001-09-04,Female,"8717 Tiffany Estates Apt. 460
+Carrieborough, OH 30683",East,Asthma,No,30
+1513cd0f-7d06-4422-9a72-e41e50865d3d,Bobby Stewart,2003-10-06,Male,"94928 Danielle Parkways Suite 212
+East Raymond, NE 39293",North,Hypertension,Yes,30
+de60907d-6753-4c22-8620-a752dc47d6e8,Alexandra Pham,1936-05-03,Female,"9634 Clay Row
+Janethaven, WA 71004",East,Cancer,Yes,14
+23b99719-e96e-4780-a3fa-868101f5df6e,Molly Smith,1991-07-24,Female,"8126 Yesenia Circles
+Lake Richard, NJ 13399",North,Diabetes,Yes,4
+5599bd0f-b4e7-4336-9883-dc3964321d4a,Hailey Barnett,1962-10-28,Male,"340 Gina View
+North Kenneth, TN 08177",South,Hypertension,No,25
+8400fd3f-b8a6-4d34-9a16-9633ada7c348,Bryan Harris,2001-08-04,Female,"7541 Joseph Path
+New Stephanie, VA 46066",East,Diabetes,Yes,24
+967f949d-eba0-4586-9b66-32aa4ce3b3df,Brian Martin,1935-10-04,Male,"3775 Jonathan Turnpike Suite 973
+Patrickborough, VA 60172",North,Hypertension,Yes,26
+dafa1375-6fea-4f7a-9ce9-99b4ddb9180f,Lisa Zavala,1987-04-07,Female,"336 Tanner Plaza
+West Deborahstad, WV 78252",West,Asthma,No,14
+8d99fca7-6a7b-4c0c-afea-85e63384e384,Martha Austin,1986-11-12,Male,"397 Laura Lane
+New Stuart, AS 00637",East,Asthma,No,1
+58417c1d-9745-4381-84dd-3f400aa7239d,Richard Washington,1990-09-18,Male,"44201 Sherry Greens Apt. 638
+Lake Eric, VT 32086",South,Cancer,No,30
+da3aa2b3-ae79-4ddf-a38b-7500f5d0b342,Christopher Garcia,1971-09-23,Male,"Unit 0779 Box 3134
+DPO AE 84721",East,Cancer,No,24
+80b91164-d6f9-4c77-a674-bb1844eecc99,Sherry Davis,1983-04-09,Female,"47718 Lewis Flats
+North Troyshire, OK 13927",South,Asthma,No,3
+2b0f8a46-8fbc-4121-b8cf-ff0ec8acf97a,Kyle Johnson,1945-08-15,Female,"7381 Melissa Vista
+Sanchezchester, AK 56689",North,Diabetes,No,3
+4ef2880f-7b40-411c-a70c-eb8658d43d7f,Stacy Ford,1995-06-09,Female,"867 Stephanie Oval
+Victorshire, ID 97528",West,Hypertension,Yes,12
+4cb695bd-fb9b-41a8-85da-6ba74bc5e5d0,Stacy Davis,1959-11-11,Male,"56909 Daniel Parks
+North Jessica, MH 72869",North,Hypertension,Yes,12
+406a7b6d-5d21-4048-910d-f61cf18455ad,Aaron Weaver,1969-10-31,Female,"30974 Wallace Garden Suite 095
+Lake Amber, AL 11054",East,Cancer,No,6
+f2e7124f-dc1d-493c-ac81-e092482e7852,Emily Brown,1955-11-17,Female,"194 Daniel Row Suite 781
+Port Jennifer, SC 98944",West,Diabetes,Yes,27
+d06ec4f9-ab13-4cbe-b5eb-fb45e64fd42a,Jay Benson,1941-03-07,Male,"9223 Richard Ranch
+Port Debra, AL 56897",East,Diabetes,Yes,27
+0310cf97-a663-4da3-b916-c0aa37382c2b,Jacob Barker,1934-10-17,Female,"03149 Woods Heights
+Joseburgh, OK 92642",West,Asthma,No,3
+e0f4d4f5-a8f4-4f3c-a37a-a25fb9d1736b,Alicia Horton,1953-12-07,Female,"434 Desiree Falls Suite 080
+Allisonburgh, IL 79442",East,Diabetes,Yes,7
+48ab67c5-c8fe-4fa7-8f05-0623d46e9e8b,Jason Peterson,1991-06-03,Male,"181 Sharon Mountain
+Linchester, PR 61842",North,Hypertension,Yes,7
+286d08ff-0c67-4c80-8a97-3d030b073882,Joseph Anderson,1962-10-22,Male,"039 Charles Pike
+South Lori, MS 36979",South,Hypertension,Yes,24
+06d6ee14-755e-49fe-84e2-af3c2feb2bdd,Colton Campbell,1933-09-04,Female,"23760 Elizabeth Crest
+Lake Amanda, CA 48193",East,Asthma,Yes,10
+dff215a6-7fda-4458-8f7d-c51d06862cb1,Alexis Dillon,1995-06-17,Male,"622 Jennifer Point
+Sarahburgh, WI 50483",East,Asthma,No,23
+ac76c351-0962-4b96-a3ff-004e2be4c6e9,Christina Wood,1950-02-05,Female,"0258 Rebecca Route
+Port James, MP 37226",East,Hypertension,Yes,30
+10ac4578-ba19-41f3-9832-df7c8e94ef23,Nicholas Taylor,1967-08-21,Female,"196 Jones Roads
+Thompsonberg, RI 08040",West,Asthma,Yes,28
+9267397f-c8a4-4aea-a095-25f9121f81f6,Alice Cook,1980-01-07,Male,"852 Stone Inlet Apt. 081
+South Sarah, MS 25394",East,Asthma,Yes,6
+8f54be2c-6e4b-4d8e-90ae-4fb6c9dbd9a0,Robert Owens,1944-09-23,Female,"950 Stephen Lights Apt. 126
+Markborough, GU 92940",North,Diabetes,No,4
+1b4b46dd-14b3-452d-867b-5447805420e1,Mandy Garcia,1961-06-02,Male,"77410 Rodney Falls
+Lake Christopherfort, ME 75400",East,Diabetes,No,12
+de6fa3e9-c2e9-4a44-8bc3-212112f37769,Stephanie Maddox,1990-01-09,Female,"79227 Michael Shoals Suite 390
+Tuckerville, WV 88037",East,Asthma,No,5
+fde24c71-e86d-4fa1-b90c-e8cd050b72f1,Shirley Schmidt,1951-09-06,Male,"88152 Gina Forest
+Andersonside, NM 98921",East,Cancer,Yes,7
+ccb20a16-5ede-45f2-9f48-b2ca731e3bb7,Timothy Murray,1946-09-13,Female,"15686 Perez Parkways
+Port Amyborough, GA 87186",North,Asthma,No,11
+c1a8b8e3-f21b-4797-a593-49d28dd63e2b,Michele Mcguire,2000-11-27,Female,"846 Perry Mill Apt. 417
+Loriton, VI 86584",West,Asthma,No,10
+e90b5f80-6f41-4eda-baf9-b0a1517b4b86,Adam Wong,1980-01-04,Male,"2551 Karen Green
+East Jessica, IN 31750",West,Cancer,No,30
+97b76838-21db-4706-8206-bfd38a52708f,Michael Sims,1934-10-01,Male,"3289 Terry Ranch
+Vazquezstad, VI 72973",North,Cancer,No,6
+dfff7466-9db7-4894-b1de-3212ef4e12d9,Cynthia White,1989-08-05,Female,"41546 Hood Ports Apt. 572
+Whiteshire, MO 39214",North,Cancer,Yes,4
+d30f7203-5c19-4e65-b475-ef1cf59d40f3,Clifford Edwards,1948-04-21,Female,"198 May Curve Suite 969
+New Jason, OR 93017",West,Hypertension,No,6
+ae28980c-7d5e-4aec-ad23-538d0e8f6a51,Guy Rios,1938-12-26,Male,"5040 Dunlap Courts
+Taraside, IL 97929",North,Hypertension,No,29
+51ef3833-514d-47e9-b974-cf88c6baf397,Adrian Jenkins,1970-06-01,Female,"379 Mandy Turnpike
+Donaldland, IA 67994",South,Hypertension,Yes,5
+e257f547-e59c-42fa-9a80-b816e708ac2b,Michelle Cruz,1967-12-07,Male,"Unit 4433 Box 7187
+DPO AE 65634",East,Cancer,Yes,11
+867ab930-ec42-409f-bfe1-589da0e8f74f,Lynn White,1979-02-22,Female,"3437 Jamie Branch
+Malonechester, LA 59186",West,Cancer,Yes,8
+a5aa3742-3f69-4e5d-90ec-d856ce1319c4,Emily Jones,1994-04-10,Female,"567 Lauren Plaza
+Lake Glenn, OR 95567",South,Diabetes,Yes,10
+169f45b1-20f6-4d9b-baae-db0fc508bde2,Sara Garrison,1951-08-13,Male,"21381 Arnold Ridges Apt. 568
+West Angelaberg, AK 03804",East,Cancer,No,14
+cfd09c67-645c-400f-952b-633da22f8a75,Pamela Sanders,1997-06-29,Male,"7298 Stephanie Port
+Terryland, HI 01298",South,Hypertension,Yes,28
+1954a5b1-cdcc-486f-9ebb-262dee51c902,Kevin Davidson,1936-12-24,Male,"USCGC Larson
+FPO AE 50814",South,Asthma,Yes,20
+98dae9ff-450a-4bbb-9862-28b891339c66,Michael Kim,1954-10-07,Female,"794 Dyer Trail
+West Lukebury, VI 80774",West,Asthma,Yes,13
+52ff94e8-d8ac-427f-bb17-09d942945d01,Daniel Armstrong,2001-04-30,Female,"350 Ricardo Junctions
+North David, IA 55616",North,Asthma,Yes,23
+61df4b9a-4a15-419e-8587-bda3e86530c0,Timothy Parker,1952-10-23,Female,"167 Parker Path
+Pearsonfurt, MT 14196",South,Hypertension,Yes,5
+de44ae7b-4050-4023-bd11-63188a9c00f8,Robert Mendoza,1933-03-07,Male,"1165 Rivas Prairie
+Ashleyfort, OK 89439",West,Diabetes,No,10
+1c1560d6-134e-4e8a-904e-0a38621f7bff,Zachary Berry,1973-10-04,Male,"28086 Christian Pine
+East Reginaberg, MN 71464",North,Cancer,No,24
+4930c9ed-0c29-4b12-8ea2-a4968ea6a73f,Debra Howell,1948-09-29,Male,"4440 Simon Field
+Brandonfurt, MT 31506",West,Hypertension,Yes,19
+cfa3aab7-ec18-4f39-a6bf-55415ac8bf7e,Randy Meza,1947-06-23,Male,"46918 Mark Lodge
+Foxside, WA 36732",North,Cancer,No,10
+1897bdcd-a274-431c-ad25-4e156a67ac69,Gregory Lynch,1948-06-21,Male,"01899 Jerry Glens
+Woodport, WI 57125",North,Asthma,No,3
+c276804a-a71a-4741-ab4f-525a26472e1f,Tracey Williams,1940-12-26,Female,"90824 Monica Loaf Apt. 743
+Singletonfurt, PW 93400",North,Diabetes,Yes,15
+bc77eedc-66f4-47f2-9517-e2c3d0d004a1,Cindy Moody,1990-03-20,Male,"707 Ellis Court
+West Martinshire, AL 20286",North,Cancer,No,21
+b1887242-cbba-4087-9e27-f0af3dc1dbd7,Andrea Perry,1958-10-09,Female,"600 Kristen Ports
+Meredithborough, RI 17137",West,Asthma,Yes,13
+4eb4feee-3763-4ee2-ac56-a6aa5619d5a6,David Ford,1985-04-18,Female,"960 Cortez Divide Apt. 900
+Webbton, WA 90598",West,Cancer,No,1
+4e081d1a-ccf6-4bff-9357-ffb852eb04c7,Brandon Oliver,1976-08-09,Male,"7159 Teresa Loaf
+East Sarah, OR 65573",North,Cancer,No,24
+55b5452d-ec9d-4c68-96ae-fac476f1ba0e,Sarah Boone,1991-03-07,Male,"2921 Knapp Coves Suite 185
+Tommouth, IN 59762",South,Hypertension,No,15
+dedabf39-41fe-4947-bfa3-0e835873afdc,Stephanie Lee,2002-01-22,Male,"9935 Armstrong Plaza Suite 210
+Laurenland, NY 28354",South,Cancer,Yes,12
+41f2f8f2-c0d6-4470-860d-c9ea2684a92f,Jessica Guerra,1949-08-03,Female,"0403 Hicks Squares Suite 973
+Port Christopher, HI 06552",South,Asthma,No,16
+af5342cb-5b2d-4e57-918e-0921f0c7da6e,Eric Gonzales,1993-08-07,Male,"078 Smith Place Suite 941
+West Miaport, ME 86337",North,Diabetes,Yes,6
+39bbeb1c-2fa0-40e9-a24d-7bd03ef63118,Emily Campbell,1960-03-15,Male,"7895 Vincent Viaduct Suite 290
+North Briannamouth, ME 58667",West,Hypertension,Yes,9
+cfebb53d-c0ad-4de6-8724-6e80063f552d,Chris Wallace,1958-05-25,Male,"73242 Abigail Camp
+East Sandra, ID 62039",West,Asthma,Yes,18
+f5253aa6-e429-48a0-9bec-78774c795178,Lynn Sullivan,1989-09-27,Female,"PSC 4821, Box 2291
+APO AA 93680",North,Diabetes,Yes,26
+41e1b8bb-76e7-49b2-b6d2-55d6ede11b63,Michael White,1980-02-18,Male,"043 John Pines
+North Matthewview, SC 50967",West,Diabetes,No,30
+472cd051-ad32-47bc-9bdf-afa593b41d1c,Krista Hopkins,1971-11-05,Male,"752 Aaron Springs Suite 567
+Andrewland, ND 44488",East,Hypertension,No,6
+90fd0aef-e968-4a4a-96af-c3d2b8202af3,Michael Brown,1943-02-27,Female,"7735 Tammy Ports Suite 973
+Fowlerfort, IA 71520",West,Cancer,No,14
+14405e92-55bc-47dc-889f-7fba68c4ed4b,Robert Parker,1969-05-30,Male,"074 Bianca Meadow Apt. 929
+Kingburgh, OK 73485",North,Diabetes,Yes,8
+fd33f556-c43a-4276-851b-f94312b35e03,Erika Ward,1954-02-08,Female,"369 Chaney Loaf
+Wallaceberg, DE 80915",East,Hypertension,No,11
+f409357d-25f5-4301-bba9-16eee1ceb08e,Matthew Hopkins,1961-08-23,Female,"633 Williams Loop
+South Kellystad, AZ 84561",West,Asthma,Yes,12
+80b80e19-1cfb-440c-897d-63f891f21caa,Mark Garrett,1992-08-12,Female,"5971 Lopez Spur
+Port Michael, SC 44339",East,Hypertension,No,21
+3fb51dfc-1e89-4098-82fa-4f0ca97b3f23,David Merritt,1960-05-17,Male,"95643 Samantha Flat
+Rhondaburgh, CO 90021",East,Cancer,Yes,16
+3b048db8-ed5e-4a92-82d3-80e6a941bc34,Thomas Beck,1933-02-02,Female,"9858 Barnett Mission
+West Anna, OK 35820",East,Asthma,Yes,10
+0737562a-d8ab-49cd-a0ac-785b7ad09482,Jonathan Green,2002-07-21,Male,"318 Vincent Prairie Suite 037
+West David, MI 10145",West,Cancer,Yes,27
+9ec39ac1-7103-480d-9ccf-057138d4f6b2,Casey Mccullough,1958-06-02,Male,"8645 Martinez Lane Apt. 960
+Lake Brian, FL 83211",East,Hypertension,No,20
+0731740b-26af-4105-be3d-12408304c3f7,Patricia Johnson,1975-05-11,Male,"USNV Smith
+FPO AP 52257",West,Hypertension,No,1
+08603733-b9d1-408f-b277-1ac76982dadb,Sophia Kelley,1966-02-10,Female,"5901 Perez Manors
+Richardhaven, AR 94041",North,Hypertension,Yes,10
+42c45ecc-43e9-4093-be5b-1520e80be486,Tyler Reilly,1964-05-02,Male,"8982 Philip Ramp Suite 949
+South Jeremyview, PW 77607",West,Cancer,Yes,25
+d5eec1a2-bb97-4cd0-93f3-1e00ad74f041,Robert Randolph,1948-06-10,Male,"9349 Ann Passage
+Port Meganview, FL 62666",East,Cancer,No,18
+9ea79bc2-d0e6-4408-b9c0-6a4e5458889c,Victoria Ruiz,1994-09-10,Male,"543 Phillip Track
+Lake Waynefurt, MP 21906",East,Hypertension,Yes,14
+582abfe6-44d3-457d-9a80-a024413ee86b,Joseph Stanley,1991-05-29,Female,"4720 Clark Tunnel Suite 329
+West Stephaniemouth, WV 89780",East,Diabetes,No,3
+a2ad5d7f-e639-4d9e-a84b-4a436eddb301,Krystal Hanson,1952-12-24,Female,"538 Castillo Burgs Suite 856
+Ashleyfort, AK 87490",East,Asthma,No,25
+b0c34213-d4d9-4df3-bc40-e3546f4f5a01,Anna Wilkerson,2002-12-19,Female,"27189 Carpenter Trace Suite 955
+Lake Daniellemouth, NE 91285",North,Cancer,Yes,18
+b08543ce-4358-4b1a-af6a-bf7c63d93656,Jennifer Serrano,1933-11-04,Male,"8221 Corey Path
+Port Ginaburgh, MT 62354",West,Cancer,No,9
+925772ef-66e7-4b0f-897e-056bb7ad2e61,Mr. Daniel Thomas MD,1940-12-13,Female,"8073 Stewart Motorway Apt. 924
+Gonzalezmouth, MN 16945",East,Diabetes,Yes,4
+b20e57a2-8b02-4d03-b560-bc0991828810,Mrs. Kristy Rios DVM,1949-07-23,Male,"692 Romero Station
+New Brenda, MS 88124",West,Diabetes,No,29
+5b0c71e6-2369-40e1-b60e-0ed011b188ef,Laura Larson,2003-02-07,Female,"309 King Ports Suite 876
+North Catherineberg, KS 59730",North,Diabetes,Yes,1
+8e494f01-32c7-40f2-bd13-cb87290646e9,Mary Adams,1942-03-28,Male,"6539 Collins Squares
+North Zachary, NM 03634",North,Cancer,No,13
+e8700827-fdd5-4881-9d8c-dbcdcaef308f,John Johnson,1993-02-18,Male,"06343 Jordan Square
+South Lisa, PA 17859",West,Cancer,No,15
+ff586b69-aeaf-4ccc-b1bc-5bfd21a4cd84,Christina Bernard,1941-01-07,Female,"960 Torres Gateway
+Salinaschester, NE 37539",North,Asthma,Yes,24
+46b265d4-b11c-4b08-9a02-290836284ee7,Manuel Liu,1956-11-23,Male,"828 Martin Course Suite 003
+Englishville, AK 34717",East,Asthma,No,12
+d1febb10-2b71-4981-807e-0eed72894271,Cheryl Hodges,1976-09-15,Female,"9862 Lori Fort
+North Kristen, UT 31956",West,Cancer,No,28
+8eaccacb-9338-4773-af9c-98f367ecf2ed,Jesus Burns,1937-09-21,Female,"7138 Rodriguez Loop Suite 143
+Taylorstad, OH 80239",West,Cancer,Yes,20
+4ca5096f-f2f7-432b-a8f3-bc84c43e53f7,Bradley Tapia,1950-12-31,Male,"885 Kelley Land
+Ericshire, NE 82088",North,Hypertension,Yes,2
+7f74229b-5da2-4900-bf2f-6d249e928eda,Diana Wade,1984-10-21,Male,"290 Ellis Flats
+New Bruceport, MO 06157",North,Asthma,Yes,26
+27c512e1-577e-4b01-b5e7-74f7b324dea5,Patricia Benitez,1966-01-07,Male,"Unit 4373 Box 5833
+DPO AP 12488",West,Cancer,No,10
+7cecaf03-ef21-47a1-9481-70018218907e,Mark Ramirez,2002-07-19,Male,"7004 Andrew Skyway
+South Joannaborough, WY 67840",West,Diabetes,No,4
+a4fee9e3-316a-4703-aab0-420af8c9b556,Angela Simpson DDS,1983-06-28,Female,"83711 Mccoy Center
+South Williammouth, GU 05283",South,Cancer,Yes,29
+7b26146f-95d0-4a81-9f50-a4a2af94e007,Jeanette Dodson,1953-08-11,Female,"1022 Pena Mountains
+Port Samanthamouth, MD 84487",West,Hypertension,Yes,3
+89bdb153-cd20-48fa-85fc-dc7dd592862b,Alyssa Brown,1952-08-19,Female,"102 Richardson Ridges Suite 039
+Gregorystad, IA 99598",South,Hypertension,No,28
+52a268b2-5160-4e14-a126-b664542f3a28,Matthew Fox,1986-03-13,Female,"08450 Linda Court
+Lake Angela, MS 11460",East,Diabetes,No,10
+64672be2-0cbd-49b6-bc00-0d3d393c39f4,Trevor Hawkins,1936-11-26,Female,"Unit 6022 Box 0552
+DPO AP 26956",East,Diabetes,Yes,19
+24d30ce5-8951-454a-bd01-4af780f77426,Thomas Gillespie,2003-04-28,Male,"PSC 5030, Box 9886
+APO AP 32232",East,Hypertension,Yes,18
+23fe3ae3-dcef-4643-aa10-ad702e63b13b,Anthony Mata,1956-08-13,Female,"030 Danielle Terrace
+Gardnerstad, WV 35742",North,Hypertension,Yes,14
+543cb6c2-01ec-45e8-b4b2-baccf9fdc7da,Valerie Robbins,1954-08-30,Male,"32633 Lindsay Pass Suite 505
+Larryberg, NE 76924",North,Cancer,No,24
+14a7ec45-6a70-4b0b-abd9-5ec4563b6cbd,April Mejia,1976-01-31,Female,"2282 Vanessa Inlet
+Sarahton, DC 81858",North,Cancer,No,10
+f2e8049c-ad99-48ac-8f93-d5bc2d331c80,Victoria Schneider,1974-05-27,Male,"849 Melissa Circle Apt. 837
+Amystad, OH 44005",West,Asthma,No,12
+ccc829a6-4188-45c4-999f-957d0db21984,Michael Miller,1989-04-07,Male,"3666 Karen Key
+Stuartborough, WI 54045",East,Asthma,Yes,6
+58f91b11-6ef4-4dd7-a861-c6939fe437ae,Keith Johnson,1947-08-10,Male,"2649 Holly Springs
+Charlesland, FM 85789",North,Hypertension,Yes,23
+47f8d8fa-bf60-4a56-91f6-ba918127b04a,Jacob Smith,1992-10-22,Female,"532 Martin Island Suite 882
+North Cassandra, WI 62704",East,Hypertension,Yes,13
+edb2f02c-17e4-4a52-8866-c77ac6e71c5c,April Padilla,1990-07-21,Female,"1558 Edward Field Apt. 657
+Moranhaven, VI 79637",North,Asthma,No,19
+01fd66c9-5b06-4cb0-8060-719d8525d2df,Denise Guerra,1965-05-06,Male,"59399 Marissa Plaza
+East Alexandria, SD 31743",East,Hypertension,No,5
+c092e964-494e-45d0-a1df-16edc2d7375a,John Gonzalez,1941-10-27,Female,"3905 Richard Park Apt. 318
+Jasonview, WA 99108",North,Asthma,No,12
+c4d1cd30-495a-4d80-80ce-7fa512fe69ef,Fred Johnson,1985-07-19,Male,"30263 Alexis Corner
+Johnfort, NH 09576",North,Diabetes,No,24
+e6c214a7-59e4-469d-9122-73a9ad9458b6,Paul Beard,1937-08-15,Male,"209 Garcia Expressway
+Juliebury, CO 62337",North,Diabetes,No,7
+41dc1f26-1cfe-4335-8384-9c43d0687be0,Antonio Mclean,1989-09-25,Female,"487 Johnson Ridges
+North Sandrahaven, MS 26864",East,Hypertension,No,16
+cd6496fe-be8b-4c9e-b595-701b841ba2e1,Mary Garcia,1952-05-14,Male,"509 Susan Inlet Apt. 683
+Jerrymouth, OH 90551",East,Diabetes,No,16
+baafbf38-819d-4761-8d61-2af89b603fb6,Barbara Hicks,1981-08-30,Female,"369 Nichols Hollow Apt. 139
+West Robertside, WI 56446",South,Hypertension,Yes,15
+98e1a150-0add-4d10-8167-a17fa1c2325c,Rebecca Johnson,1979-07-14,Female,"37328 Joyce Hill Apt. 019
+Millermouth, TN 30315",South,Hypertension,No,5
+66b45794-fe28-4490-82c5-962fc375c3df,Samuel Thompson,1988-07-02,Female,"10314 Joyce Dam
+Moniqueton, CT 65123",East,Asthma,No,2
+031e72f9-f88b-4587-96d2-fdfb507c06ee,Jill Chase,1982-07-11,Female,"910 Barnett Mission
+Lake Alexandra, NC 92061",South,Asthma,Yes,1
+f535220e-7418-46a6-97c6-fa59d93ea784,Christopher Douglas,1975-11-22,Male,"668 Harrison Cove
+Campbelltown, VI 51513",West,Diabetes,No,16
+0ed86477-54dc-4b04-aa42-d889cd756978,James Diaz,1935-10-08,Male,"13374 Boyd Tunnel Suite 938
+Jessefurt, NE 74210",East,Asthma,No,29
+69c0e08d-9465-4a06-be3a-7b49393cb8aa,Barbara Morales,1971-11-24,Female,"9436 Morton Cliff
+Port Victoriashire, MO 28052",North,Cancer,Yes,28
+9b868b40-eee0-48a1-8ac8-18c0e417d140,Holly Smith,1987-04-29,Male,"9014 Sullivan Alley Suite 899
+Port Ernest, CO 08397",North,Asthma,Yes,22
+bfa5dbdd-6cf5-428d-ab3b-b18cf93a068f,Elaine Scott,1941-12-30,Female,"496 Ho Orchard Apt. 211
+Englishbury, SD 31392",South,Cancer,Yes,22
+7b1949df-9328-44d3-b4fe-61e1db63c024,Joseph Hernandez,1953-08-01,Male,"2234 Peterson Prairie
+Travisstad, MI 53100",West,Cancer,No,1
+a4b36ecd-f0ad-479c-9d8a-f78359065c05,Stephen Brown DVM,1978-12-04,Male,"6390 Sexton Drives Apt. 850
+Lake George, MH 77055",South,Cancer,No,2
+dcf75f31-c8b8-4aa2-a329-52708671767f,Marcus Allen,2000-03-20,Male,"8419 Amanda Islands
+New Javierborough, VI 09397",East,Asthma,Yes,20
+962f37f2-aa50-4fb5-b284-303c8eeabb1c,Ronald Garcia,1953-04-06,Male,"00653 Kimberly Extensions
+Crystalborough, WV 27544",South,Hypertension,Yes,9
+3625be00-3433-4277-9804-f6922a48e64b,Robin Wilson,1939-06-26,Female,"147 Smith Point Apt. 670
+West Matthewland, ID 22886",East,Hypertension,No,24
+e7128e31-5cf2-44b9-acdd-2b9ac98de8d2,Angela Boyer,1945-05-02,Male,"737 Sellers Locks
+Johnville, VA 87288",East,Diabetes,Yes,5
+fd293c0b-608c-46b2-80ab-f246df8e1a53,Theresa Mullins,1972-12-12,Male,"PSC 2985, Box 7472
+APO AA 18896",North,Diabetes,No,7
+3fc3211c-a25a-4cf9-ba12-11727b700905,Yesenia Robinson,2004-03-26,Female,"05805 Ian Roads Apt. 635
+South Michael, ME 53124",North,Cancer,Yes,14
+e0e0e3f1-fff4-4d06-96c2-e9b870e1b8f0,Kyle Gardner,1965-12-05,Male,"765 Watts Rue
+Hernandezport, NC 99194",South,Diabetes,No,23
+51632d26-12e0-4b56-8989-0ca2ebda6420,Mary Serrano,1984-03-22,Female,"30372 Pennington Ranch
+Port Jose, AR 87433",North,Hypertension,No,13
+1ac1a9fe-1a8b-4af8-a258-2d1afc850ba1,Jeffrey Morales,1965-12-03,Male,"04211 Fox Stravenue
+Port Kaitlin, PA 82702",North,Asthma,Yes,11
+84a21120-d1db-409f-8f97-e5a400e7eb42,Michael Nixon,1944-12-05,Male,"12537 Shea Spring
+Brendahaven, FL 42974",South,Asthma,No,21
+b76c58e8-c7c0-4e99-a1cd-c8f857f0e448,Jerry Wilson,2003-01-13,Male,"Unit 0022 Box 9232
+DPO AE 48894",South,Hypertension,No,5
+9c9dabb2-88ee-4e78-9b5c-8c644409f157,Richard Joseph,1980-11-16,Female,"Unit 3751 Box 3563
+DPO AE 50989",South,Hypertension,No,30
+9080472d-454d-4691-a8c5-5079ec400605,Natasha Reed,1949-04-24,Female,"4788 Lisa Highway
+Lake Richard, ID 14257",South,Diabetes,Yes,17
+849fcbd2-3032-4e28-95e0-5f09b7df5b98,Omar Lawrence,1980-07-24,Male,"PSC 9690, Box 7220
+APO AE 95769",West,Hypertension,No,5
+72f59674-d21b-48f3-9ca1-18e977c8ab8c,James Wilson,2000-11-27,Male,"0041 Bullock Parks
+Arroyoside, AK 99360",West,Asthma,Yes,30
+908da37c-2312-4851-a2ab-af091844284a,Roberto Brown,1985-02-27,Female,"57885 Smith Fort
+West Tracy, SC 63223",North,Asthma,Yes,15
+668e654e-c20c-4937-a99a-247390eb4bd1,Matthew Villarreal,1975-10-14,Male,"264 Kyle Via
+South Albert, OH 50853",East,Hypertension,No,26
+acd3f2e6-4fc2-440d-a8ec-61d923c8c69e,Beverly Johnson,1941-03-29,Male,"USNV Davidson
+FPO AE 08414",North,Hypertension,No,14
+7f9bb78e-dcc6-4d25-bb19-bb49f084d06d,Nathan Long,1946-02-03,Female,"353 Francisco Pass
+South Robertmouth, MN 32420",West,Diabetes,No,13
+397257be-b90a-41ef-8d8e-b7cbe1e9db6d,Maria Woods,1988-02-28,Female,"6793 Michelle Crest
+Hudsonbury, CT 16715",North,Cancer,Yes,26
+c37eca4b-9985-45c8-8039-5ad540bf972b,Jessica Gonzalez,1977-10-13,Female,"820 Katherine Spurs Apt. 932
+Ashleychester, MN 25984",West,Hypertension,Yes,15
+347b59e4-ffba-4e80-8ee0-afe30020bbe6,Marcus Allen,1993-02-12,Male,"618 Garza Bypass
+North Lesliestad, GU 97165",South,Diabetes,Yes,19
+db068c08-3150-4f82-9a55-eea075512a6c,Matthew Thomas,2000-05-22,Female,"4148 Joshua Views Apt. 575
+East Stacey, CT 61293",South,Hypertension,Yes,29
+c49623c4-694f-4b57-b9a0-36a0f77e505b,Timothy Murphy,1945-06-25,Male,"079 Fernandez Prairie
+Mariaville, DE 48901",East,Asthma,No,2
+4868944a-0a66-432c-b0b1-bfb2f57c7a75,Jordan Melendez,1995-04-29,Female,"56014 Charles Tunnel
+Russellshire, TX 08772",East,Asthma,Yes,21
+bad95219-f2fa-4728-a4a7-d492a62ac96b,Tiffany Knight,1960-06-19,Female,"74153 Jacobson Union
+North Angela, NJ 91107",West,Cancer,Yes,28
+140aa829-9b1f-47d9-a9bd-ba34f207740f,Christy Rogers,2005-05-16,Female,"64705 Michelle Center Apt. 240
+Victoriatown, AL 76104",West,Asthma,Yes,12
+9e6cf53b-a516-487d-939f-1f303eb0f049,Jessica Lindsey,1972-12-10,Female,"48201 Sarah View
+Lake Aaron, WV 94571",West,Diabetes,Yes,24
+16c9cec2-2d47-43ec-ad0b-27f8d628a243,Kimberly Weber,1944-06-28,Male,"772 Buck Ridges
+Port Erica, NJ 79021",North,Asthma,Yes,8
+adabd499-4db3-4d97-a882-832824a64e39,Kimberly Lewis,1969-01-05,Male,"40946 Angela Spring Apt. 376
+Frederickchester, KS 32578",North,Asthma,No,20
+4804b55d-1b50-4c18-acad-4c842358bfc5,Robert Carney,1956-06-30,Female,"0788 Leslie Extension
+East Tyler, NE 92502",South,Cancer,Yes,23
+7d1626c5-f6dc-434e-9922-fa0f2ad947fb,Scott Swanson,1954-02-13,Female,"636 Williams Squares Apt. 257
+South Madisonborough, PA 98646",North,Cancer,No,25
+4ee4083b-f273-41f8-886a-a9568e27e8a9,Mark Baker,2004-10-09,Male,"4511 Clifford Turnpike Suite 480
+Meganstad, UT 67721",South,Cancer,No,14
+7a40b5ff-7945-4362-8fb2-d039318625cd,Michael Bell,1949-01-21,Female,"Unit 9208 Box 7399
+DPO AP 74102",North,Cancer,No,2
+cd674ffc-1bb1-4e41-92e5-88a6d503d5b1,Angela Fowler,1968-02-16,Male,"014 Jeremy Coves
+Valdezborough, NE 32772",North,Hypertension,No,19
+6f25b06f-6ecd-4612-8f11-b1dadd5e2fe2,Amanda Wells,1943-06-01,Male,"15040 Amanda Gateway Suite 949
+Lake Mark, MA 11916",East,Hypertension,No,16
+0b35e291-d648-4a36-9d0a-ea30eb9322c2,Austin Hall,1988-12-10,Female,"USCGC Peterson
+FPO AE 63140",West,Diabetes,No,23
+327c6771-580e-4758-87cc-dbd39b8abd32,Donna Miller,1997-08-08,Female,"758 Long Tunnel
+South Edwardfurt, ME 89194",South,Hypertension,No,7
+c4fe62eb-0c45-4d9c-8b5f-d0c8df3122b9,Mark Ramsey,1977-05-31,Male,"2080 Johnson Roads
+North Jessica, WA 69805",West,Diabetes,No,9
+43a0d8cf-145d-4ba4-ad2c-b60fd9f42720,Logan Brown,1938-06-08,Female,"Unit 4845 Box 4617
+DPO AA 30420",East,Hypertension,Yes,2
+7a08e386-4f49-4a28-b3af-aec71ac57b5f,Ashley Murray,1949-12-12,Female,"637 Tina Station Suite 027
+West Juanport, AS 35380",East,Asthma,Yes,6
+504a14d8-8744-4128-af92-8d584f6eb361,Jesse Adams,1936-09-10,Female,"08113 Alexander Heights
+West Lukemouth, DC 19831",East,Asthma,No,1
+2751a908-d132-405c-b555-204b72ed8050,Janice Romero,1970-10-29,Male,"PSC 5133, Box 8498
+APO AA 79200",North,Hypertension,No,21
+35abfccd-8049-4bb5-89c5-0c073e52081e,John Navarro,1957-05-29,Male,"88833 Little Crossroad Apt. 089
+Lake Johnbury, PA 18439",North,Diabetes,Yes,5
+3a83ed5c-3c97-4fa7-abdb-a6ea8ac727c9,Matthew Moore,1947-01-19,Male,"PSC 6319, Box 7582
+APO AP 46009",North,Hypertension,Yes,26
+5bdfb0f8-209e-45c8-85d4-6c1279e0099f,Eric Evans,1995-01-16,Female,"134 Johnson Streets Apt. 969
+Codymouth, MT 06423",West,Diabetes,No,22
+fa1a272d-fc52-45d3-9445-e8a350aa5d20,Michelle Maldonado,1943-05-15,Female,"79414 Miller Locks
+Erikahaven, HI 60871",West,Diabetes,Yes,20
+b9e3610d-e29a-447c-a308-e4ea7acfb9b0,Julie Hartman,1955-11-09,Female,"453 Rodriguez Ramp Apt. 059
+North Alexisshire, NJ 03280",South,Hypertension,No,18
+0907a5f0-4715-4d60-99ab-8c4c768f81c1,Brandon Cantu,2003-07-29,Male,"23468 Hernandez Circles Suite 359
+Dickersonville, KY 86850",East,Asthma,Yes,15
+1060751f-fa66-4f09-a9d3-488b5327655c,Elizabeth Sharp,1949-10-27,Male,"70122 David Ridges Apt. 116
+Johnsonchester, MH 36100",West,Asthma,Yes,11
+af978c50-360f-47d9-b625-72a0bc9fb262,Troy Carpenter,1994-12-22,Male,"660 Alejandro Keys Suite 147
+North Kathleenmouth, VI 73291",South,Diabetes,Yes,20
+321b1635-3830-47b9-928b-eb3cc7e6e499,Richard Thomas,2000-05-14,Male,"5225 Jay Ville Apt. 939
+Jordanstad, RI 60425",East,Asthma,Yes,26
+f4c67c47-4b2f-4bcc-b780-0a0e0270f830,Kelsey Smith,1973-07-22,Female,"51610 Lisa Mountains
+New Brittany, AL 98370",West,Hypertension,No,11
+22a38275-3097-4aaa-8434-bc83f3716ae9,Jared Bryant,1933-03-06,Female,"868 Sandy Ways
+Murphyburgh, MI 66625",North,Hypertension,No,29
+6a7d7918-bf9f-4c80-9c58-e7d383472132,Scott Snow,1968-11-12,Female,"83472 Graves Tunnel
+East Derek, WY 94510",North,Cancer,No,9
+8b230117-3753-4462-a68b-018380716f97,Donald Jacobson,1980-06-09,Female,"971 Fox Gateway
+Jessicaside, OH 90723",West,Diabetes,Yes,17
+06c6a3ca-1ea2-4405-aa18-7f707a0f7922,Donna Rice,1970-11-25,Female,"315 Cabrera Point Suite 753
+North Tinaville, PA 26375",East,Cancer,Yes,7
+74910bfb-fbed-4cdd-8c6e-f56b0c9a71be,Tyler Lee,1986-07-25,Male,"288 Ward Wells Apt. 177
+Michaelchester, NC 88399",North,Hypertension,No,3
+de230bd0-b90d-4cc0-9f13-536b08755afb,Jane Tran,1943-09-03,Female,"7724 Nunez Forest Apt. 575
+South Mariahfort, WY 89273",South,Hypertension,Yes,28
+5854dcee-2e6e-45d6-8157-e0a37ecc74cf,Dwayne Banks,1982-01-14,Male,"07356 Little Isle
+Goodmantown, SD 06892",East,Cancer,No,7
+4c87017e-4a69-44be-8b69-877a5d8c72ff,Jay Jimenez,1959-05-19,Female,"PSC 3626, Box 6964
+APO AP 01649",East,Hypertension,Yes,9
+48f5c12e-de67-4084-9a1d-76e31d285a76,Eric Harris,1973-02-09,Female,"27443 Scott Dale
+Erikland, MA 64451",South,Asthma,No,10
+a93b0773-141e-4477-aeca-7569de08c4b7,Loretta Gentry,1979-08-17,Female,"8001 Katherine Villages Apt. 770
+Lake Connieville, NV 95396",East,Diabetes,No,9
+ed84b417-a211-43f6-b3ce-49b51751ef84,Veronica Griffin,1966-09-19,Male,"70594 Howard Summit
+North Jamesland, NH 14714",North,Diabetes,No,12
+01c62f28-b4c5-4af4-8be9-3bcc969b5b6c,Austin Arnold,1966-05-26,Female,"679 Bernard Station
+East Beverlyton, MT 51840",North,Diabetes,Yes,2
+59d96e98-f829-4be2-994e-ae68b159b901,Vanessa Zimmerman,1945-07-18,Male,"75000 Destiny Freeway
+Collinshaven, OR 24892",West,Diabetes,No,30
+bb0eb312-050f-48a9-8236-4b43396ba9c8,Melissa Johnson,1991-03-11,Female,"618 Stephanie Mission
+Kaufmanchester, VT 39718",East,Cancer,Yes,1
+19dd5d50-3588-41ad-b7df-52797840c3c0,Amanda Phillips,1940-08-13,Male,"76843 Brianna Crossroad
+South Jacqueline, CA 28124",East,Diabetes,No,16
+ebcdd7f4-0e6f-44dd-b776-2fafa00f6bd5,Renee Ortiz,1997-11-10,Male,"0182 Danielle Parkways Apt. 737
+Welchburgh, VI 67275",East,Hypertension,No,2
+00e010c4-c1ff-4f38-928e-c414626d4849,Mark Hernandez,1942-12-03,Female,"1640 Berg Way
+East Steven, VT 70162",North,Diabetes,No,16
+fdf153e0-e139-4d8a-8722-e34204537a9b,David Cohen,1963-03-15,Male,"53563 Kayla Springs
+East Dana, NE 24035",North,Asthma,No,15
+93fdc035-e99a-4a3c-9728-46331dde3015,Mrs. Katherine Burgess,1949-09-29,Male,"2750 Jessica Circles Apt. 012
+Mckinneyhaven, GA 57119",North,Hypertension,Yes,3
+94ae8d86-33a8-44f0-8189-af7a488c5c45,Timothy Jackson,1995-06-03,Female,"335 Erin Hollow
+North Sandra, NH 32843",South,Cancer,Yes,8
+92424291-b190-4bbd-b566-21fba759649a,Thomas Jennings,1998-12-18,Male,"480 Pittman Union
+Port Yvonnechester, NJ 11843",South,Cancer,Yes,27
+60d1cdd8-f9b3-46ef-9afa-f25851c38da9,Samuel Riley,1935-09-25,Female,"462 Perry Hill
+Richardtown, KY 43418",East,Hypertension,Yes,14
+52aa6a28-efd8-49e7-9110-7fba66b5e1a5,Jessica King,1947-02-01,Female,"3150 Perez Court Apt. 251
+West Clintonbury, WY 60146",East,Cancer,Yes,15
+48d31ea3-18a1-4f64-95c5-b91ceac1e090,Brent Haley,1977-11-22,Male,"913 Christian Track Suite 973
+East Eric, CT 72109",South,Asthma,Yes,27
+ac461b7e-3eb7-4d42-84eb-a42b70a152aa,Robert Palmer,1971-07-10,Female,"66767 Daniel Trafficway
+Paulport, ME 48739",East,Cancer,No,18
+bc8b6df7-f74e-4c9b-91ed-e3ff04cb3412,Sherri Thomas,2002-11-06,Male,"USCGC Liu
+FPO AE 83860",West,Hypertension,No,2
+06efb760-7b2e-4fb3-b521-1ffefda0fceb,David Butler IV,1977-05-07,Female,"736 David Lane Apt. 378
+East Elizabeth, SC 47737",West,Hypertension,Yes,8
+6a629446-4830-4e36-881b-022828db1dc7,Maria Hamilton,1994-05-23,Male,"4604 Donna Trafficway Apt. 468
+New Eugene, PW 56932",South,Asthma,No,8
+b082177b-e7ee-4054-9c95-e04ff9c854fb,Kelly Mitchell,1988-03-19,Male,"PSC 0551, Box 8532
+APO AA 06575",South,Asthma,Yes,27
+78b13618-089a-4646-8a1c-e82ea704a474,Erin Watkins,1961-10-12,Male,"04822 Jessica Views
+East Meagan, KY 58731",North,Cancer,No,30
+dd534219-ade1-4834-817c-73bda0dbe2f4,Dustin Rodriguez,1984-12-11,Female,"242 Paula Roads Apt. 291
+Peterland, WI 65820",East,Asthma,No,11
+cf150d34-7d0c-4df7-973d-8d358a262e9c,Dr. Joseph Moore DVM,1990-07-11,Male,"84593 Connie Ridge Suite 197
+Port Evanmouth, OR 17745",North,Diabetes,No,4
+0eefafd8-53c6-4a6a-a6ad-6eede860f812,Andrew Cox,1947-04-18,Female,"721 John Islands Suite 670
+New Chad, CO 88468",South,Cancer,No,20
+3f112994-59e0-44be-8a3b-6c3c181579ef,Drew Nguyen,1982-06-02,Female,"PSC 6387, Box 1959
+APO AA 19829",West,Asthma,Yes,23
+8710274e-3775-40b3-9cf0-dfb8c4743e80,Catherine Gonzalez,1984-08-09,Female,"0521 Joel Port
+Mollyview, PR 06893",North,Hypertension,No,25
+449e73f7-eed8-4076-8dc7-d536e2d35510,Matthew Mason,1973-05-14,Female,"253 Donna Meadows
+Brownside, WA 51500",East,Hypertension,No,17
+cfaed752-8c48-49e2-a883-c7beeda69195,Christopher Bennett,1986-12-31,Female,"858 Tina Path
+Darinchester, DE 00627",South,Diabetes,No,18
+01b8d017-5cac-4c52-b5c2-13f2970c7c30,Kimberly Cantu,1985-07-15,Female,"Unit 4224 Box 3808
+DPO AA 50259",South,Hypertension,No,9
+94755d61-3fc9-4dde-9ef0-1ee97e49638a,Alex Peterson,1948-08-04,Male,"79225 Michael Radial
+Lake Dennisville, MA 99700",South,Cancer,Yes,1
+d7136fc2-cb8e-4325-b9f2-84c613f518e6,Derek Richards,1975-07-23,Male,"112 Moore Common Suite 267
+Huanghaven, MS 07856",East,Hypertension,Yes,20
+7ac33afc-b636-48d6-bad3-25591caa52d9,Joyce Navarro,1946-05-11,Male,"72929 Willis Vista Suite 641
+Port Kelly, SD 17622",South,Hypertension,Yes,6
+dccf87b8-6032-434e-b152-54aa9c4b4f59,Kayla Wilson,1956-11-17,Male,"174 Gregory Land Apt. 557
+Garciabury, VT 38985",East,Hypertension,No,8
+ed6e65a7-4cfa-491a-aae3-fea2161d9de3,Ashley Jones,1957-06-06,Male,"Unit 5592 Box 2962
+DPO AE 18928",East,Diabetes,Yes,10
+2afd9512-9dd3-47f8-b18e-f2e16a7eabdf,Marissa Young,1962-10-08,Female,"78901 Gabrielle Gardens Suite 673
+North Meganmouth, MD 24641",East,Cancer,Yes,24
+95af6887-4495-46e5-868f-e8c6ffb7334b,Robert Benton DVM,2001-03-23,Male,"915 Joseph Road Apt. 583
+West Theresabury, NY 74782",South,Asthma,No,28
+eec65e16-00ed-4127-9856-ca0b7a5d2dc6,Jonathan Beck,1936-11-23,Female,"9713 Flores Corners
+Kentview, IA 08775",North,Hypertension,Yes,4
+ec4e319d-178c-4c2c-8ef9-8886b3fde56c,Jonathan Farrell,1977-09-25,Male,"031 Brittany Ports
+Lake Abigail, NM 98379",South,Diabetes,No,21
+ed134d54-ef45-4ad4-80e0-ed453d8ec16f,Debra Joyce,1939-07-10,Female,"Unit 5059 Box 3486
+DPO AP 16877",South,Diabetes,No,4
+54d357a1-907e-4ec5-81fc-5ac30a6cdda2,Erik Hernandez,1952-02-09,Female,"924 Laura Roads
+Sandraport, VI 51757",North,Asthma,No,8
+f579b99a-eab8-441d-8bac-c3bdde6980aa,Jessica Smith,1951-06-06,Female,"590 Burns Coves
+West Stacyshire, MT 06783",North,Asthma,No,8
+2563fb17-e01c-4caa-b084-270a3781f9f2,Laura Garcia,1981-03-31,Female,"PSC 9072, Box 9124
+APO AE 19039",North,Diabetes,Yes,3
+c9e7d78c-8ced-464d-9278-dd3047932cad,Walter Santana,1959-06-05,Male,"122 Philip Walks
+North Juliaborough, NJ 16010",West,Diabetes,No,22
+73c892fc-aee4-4acb-a802-92f916c24733,April Shaw,1984-12-17,Female,"4935 Dyer Ferry Apt. 512
+South Dylan, TN 63365",West,Diabetes,No,8
+50098fc3-9d6d-472e-8557-3b76cfafc202,Justin Powell,1988-01-27,Male,"987 Schroeder Turnpike
+North Robertborough, GU 28640",West,Hypertension,No,21
+55ba53b3-6e4c-45dd-adab-30f81a9b4655,Dustin Carpenter,1978-03-26,Male,"457 Craig Course
+Schmidtport, UT 22649",North,Hypertension,No,10
+1fee69ed-b736-4ee2-ab40-cb3abbf21f85,Joshua Burch,1962-08-13,Male,"34352 Turner Loaf Apt. 216
+Shannonburgh, AS 14399",South,Asthma,Yes,5
+79193c0e-ef6f-43c8-a81b-7fad8f870a56,Breanna Watson,1990-11-17,Male,"09450 Tina Haven Suite 686
+Thomasborough, NC 71695",West,Diabetes,Yes,18
+d7e5f996-a737-42e4-a40c-6f90bef3eeb6,Robin Cox DVM,1952-09-06,Male,"48483 Lucas Harbors Apt. 995
+Bellberg, MA 34898",East,Hypertension,No,12
+16fc5eac-6d20-4bff-993b-188a849f6c81,Christopher Murray,1975-11-27,Male,"8708 Turner Corners Suite 590
+Frazierview, IA 67510",East,Cancer,Yes,26
+0e09a669-c213-4899-adb7-77684f691bbd,Scott Bartlett,1997-02-11,Female,"37361 Malone Ridge
+Seanberg, AK 08528",West,Asthma,Yes,29
+9d870035-1075-4619-8fb6-2564a6e78598,Chris Parrish,1987-06-10,Male,"31014 Webster Rest
+South Preston, SD 64460",East,Diabetes,No,5
+4d9ed36f-0771-4427-8da5-3cf4afd73c1a,William Allison,1970-04-21,Male,"2463 Shannon Union Suite 279
+Christinaland, FL 97578",South,Hypertension,Yes,17
+fc809981-8f3f-4a03-b0ab-35527db812d2,Christopher Williams,1938-04-21,Male,"672 Terry Gateway Suite 955
+West Jennifer, AZ 40442",South,Asthma,Yes,5
+44f63247-ad95-4d4e-8592-b494f38242e6,Bradley Khan,1942-01-24,Male,"521 Robert Gateway Suite 744
+New Kevin, AR 36322",South,Diabetes,Yes,26
+03b57101-45dd-47c9-81fa-7124e1ae32b4,Timothy Payne,2003-08-10,Male,"979 James Islands
+East Vanessa, AZ 05975",South,Hypertension,No,19
+3002eae5-d39b-42c9-8ecb-648255afd0ef,Daniel White,1945-12-09,Male,"PSC 5647, Box 5004
+APO AA 34267",North,Cancer,Yes,8
+80927be1-4c16-4a47-8bb3-341579599c3c,Roberta Kline,1974-04-19,Female,"608 Carson Key
+Schmidtmouth, AL 16492",South,Hypertension,Yes,27
+a8ef8d58-3aa2-4fdc-8875-5fa11535cf0f,Patricia Patterson,1955-06-29,Male,"712 Gordon Groves Suite 135
+New James, MH 36335",East,Diabetes,Yes,25
+2f0129f7-eb2b-4154-afdf-cb8c0e80bfcd,Brooke Morales,1975-09-22,Female,"2034 Rosales Corner Suite 711
+Loweryton, MA 91477",South,Asthma,No,12
+4a53cea0-b69a-4980-81ac-3ecf4ca0c445,Justin Robinson,1962-01-11,Female,"6586 Becker Burgs
+Port Brenda, VT 57571",West,Cancer,Yes,21
+df38f447-0002-4252-a91c-5c3bc1b1f657,Thomas Mckenzie,1957-01-20,Male,"6654 Williams Knoll Suite 528
+Desireefort, MH 81877",East,Asthma,No,29
+97d27406-0aea-43cf-b0c0-2daeefb92278,Thomas Bell,1954-02-09,Male,"Unit 3953 Box 2305
+DPO AP 41158",South,Asthma,Yes,20
+8e9a5708-b57f-4830-8bfb-51529be681a7,Cynthia Bell,1940-09-09,Female,"74105 Duncan Park
+Lake Curtis, OK 68023",South,Diabetes,Yes,17
+964badcf-7bcd-4381-ade5-1f43728720ba,Deanna Terry,1942-08-22,Female,"Unit 1827 Box 4977
+DPO AE 85623",West,Cancer,No,16
+2895aa8b-f769-4240-9ed9-235ee2cfdd1b,Anthony Vincent,1976-02-16,Male,"0682 Joe Tunnel Suite 069
+West Barbaraland, CA 98422",North,Asthma,No,10
+15e29910-f1ba-487a-a475-2861b78fd6b0,Anthony Reed,2000-03-29,Male,"00861 Daniel Course
+East Carolside, MI 20119",East,Diabetes,Yes,8
+eef3f041-d4e4-4468-aca2-3faced077a27,Michael Keller,1944-11-05,Female,"Unit 1896 Box 7975
+DPO AA 23088",South,Hypertension,Yes,22
+9f34b15e-cd71-4b56-9d63-f1576e9ed1a0,Tanya Morgan,1997-08-04,Female,"56230 Smith Mountains Suite 331
+West Matthewborough, WI 47035",South,Hypertension,No,26
+70994604-f7ac-43a6-82e8-133c11989da5,Sophia Nielsen,2000-03-25,Male,"37554 Kevin Keys Suite 248
+Aliberg, PW 32035",South,Cancer,No,18
+02343f36-9951-4404-a280-e6b93534aa02,Jennifer Anderson,1940-04-06,Female,"40522 Veronica Manor
+Harperburgh, AZ 44801",South,Hypertension,No,23
+c98b50c8-365a-4ac2-9738-fef75e895730,Alexandra Rogers,1939-11-19,Female,"1182 Lawrence Throughway Suite 473
+South Tammytown, WI 30761",North,Asthma,Yes,9
+0037068d-6efc-46c2-a675-987eeef70170,Carlos Odom,1994-04-28,Male,"Unit 0096 Box 4629
+DPO AE 22819",East,Diabetes,Yes,20
+451bce9b-27c6-44a8-bc07-da79c0aa1a62,Austin Moore,1935-04-03,Female,"8246 Cristina Well Apt. 546
+Lake Susanview, GU 60561",North,Diabetes,No,23
+c4f245d0-697a-4d59-b38d-54726b06fc12,Miss Paige Bryant DDS,1987-09-28,Female,"303 Veronica Ports
+South Antonioland, NC 43888",North,Cancer,Yes,27
+cab8f50c-1c7b-4191-a26e-830afe2fe80c,Alyssa Flores,1965-02-13,Male,"0374 Lopez Shore Apt. 850
+West Margaret, VT 28945",West,Diabetes,No,26
+a8213ab2-ff24-4092-9b67-3109915ceb14,Charlotte Thompson,1958-05-29,Male,"32730 Mosley Lights
+New Lisa, FL 71507",West,Diabetes,No,13
+2b942d8a-5209-47ae-bf94-cdd15d72911b,Christine Bell DDS,1952-01-08,Female,"348 Kathleen Radial Suite 817
+Port Tonyside, SC 47074",East,Hypertension,Yes,7
+5dd34518-5ad6-4118-b85e-b00fdd92ba9d,Michael Khan,1950-10-09,Male,"3655 Haley Plaza
+Taylorport, KS 02667",West,Hypertension,Yes,11
+92a711bf-4d9f-4eb3-9fea-b624c005f74e,Eric George,1987-03-29,Male,"437 Joseph Estate Apt. 517
+Lauratown, NJ 30972",East,Diabetes,Yes,11
+f4a2b810-25b7-4a92-b1db-af0d4e859543,Joseph Cross,1964-12-26,Female,"PSC 0339, Box 3803
+APO AP 41215",North,Hypertension,No,22
+771cfb7a-4ef4-4484-9a0d-c809afb47544,Mark Hall,1945-05-06,Male,"7231 Sanchez Lodge
+Pierceburgh, MH 42920",West,Hypertension,Yes,9
+cfa1f3fc-b800-44e9-8f6d-64acc1a27d51,Nancy Middleton,1954-10-26,Female,"8081 Lamb Skyway Apt. 802
+Pamelaville, MT 25972",South,Diabetes,No,22
+e48863eb-29d1-499b-96c0-eb101a71fa2a,Ana Gonzalez,1945-01-02,Male,"6771 Johnson Passage Apt. 472
+South Jose, DE 30311",East,Hypertension,Yes,10
+e221ebfc-e719-463c-86ae-d00fd9b1441d,Roy Baker,1946-06-14,Female,"3677 Kimberly Trail
+West Robertborough, NC 60050",West,Hypertension,Yes,12
+f46f30d7-92f6-4d99-be3c-9b9ae09d7848,Elizabeth Smith,1992-07-17,Female,"097 Miller Loop
+Robertmouth, NC 94476",South,Cancer,Yes,24
+d250acfb-bdca-4999-9c0c-8e61f42039d3,Lindsay Irwin,1952-07-06,Male,"6144 Wallace Alley Suite 826
+Lake Tammymouth, MA 49295",West,Asthma,Yes,12
+2a26b1e6-3abc-43f2-9c2c-52933417305d,John Taylor,1968-04-06,Male,"1514 Smith Glen Suite 532
+Smithmouth, CT 58190",East,Hypertension,Yes,16
+85c6f417-0814-4451-81c5-0847c48ee6a0,Patrick Gray,1980-04-24,Male,"48282 Green Valley Suite 989
+Williamshaven, OH 50061",West,Diabetes,Yes,1
+e49c9899-dd9a-4e60-8432-53ab3e01c7d2,Dominique Collins,1944-11-09,Male,"21498 Rachel Plaza Suite 869
+South Jacob, IL 86119",West,Cancer,Yes,2
+8cbfab32-34ba-424a-bbfb-f0fbc37c888f,Jodi Waller,1951-06-02,Male,"2088 Tran Causeway Suite 616
+Paulside, KY 90084",North,Diabetes,Yes,8
+bd342bc2-f588-4ca0-b2fd-f46dfdeffd63,Robert Owens,1938-01-01,Female,"42585 Phillips Inlet
+Mcculloughhaven, AK 65090",South,Diabetes,No,3
+177345d1-da91-4bcd-a3c6-edbf89f4a0b6,Justin Gallagher,1994-04-09,Male,"257 Amanda Court
+Parsonsmouth, LA 74306",South,Diabetes,Yes,12
+dad9622b-ca6d-4ecf-9d3a-07b684df22ac,Stephanie Hampton,1946-08-24,Male,"89154 Shaw Common Apt. 858
+West Katrinaton, MT 10895",East,Hypertension,No,5
+3438576c-5084-4044-b5d3-1b622e0b4e45,Stacey Chavez,2004-05-02,Male,"41668 Roy Isle Apt. 697
+North Kimberly, AS 75078",South,Hypertension,Yes,15
+b28bb520-19db-4e58-91b2-3de42f5fbd5a,Kimberly Romero,1971-01-28,Female,"2741 Moore Stravenue
+East Kelly, NV 98047",East,Cancer,No,5
+a26d46ff-107f-468f-9768-3874dee65f2c,Sarah Taylor,1969-07-12,Male,"33111 Nelson Land Apt. 526
+Thomasfurt, MH 45380",West,Hypertension,No,10
+707d42e7-ee5a-450c-b69f-596e0b8fe9ae,Amy Ramirez,1988-11-25,Female,"3821 John Run
+Larrybury, VT 20306",South,Cancer,Yes,21
+6575f70b-3485-4f50-bf28-594a4c367a73,Christy Mathis,1973-09-29,Female,"4502 Megan Centers Apt. 609
+New Tracey, OK 83772",East,Asthma,No,24
+03474915-f667-4b2b-8364-a4c8bfecdadb,Jessica Hancock,1977-01-04,Male,"353 Marks Squares Suite 475
+Hughesside, TX 32851",West,Cancer,No,13
+11f3a448-dc70-4f85-929c-147ab01a8934,Andrew Moore,1983-04-14,Female,"23898 Arnold Ferry
+Mosleyville, GA 88616",East,Diabetes,Yes,14
+a72b4a9e-c791-470c-ae4b-7e6cb9f41dd8,Megan Key,1972-05-05,Male,"2867 Jessica Junction Apt. 958
+Shawnburgh, NY 11250",South,Cancer,No,18
+219f9af4-b85c-4690-bc2f-08dc4638f7a2,Jon Howe,1998-03-07,Male,"62655 Edward Harbor Suite 591
+Foxville, OK 34660",South,Cancer,No,25
+f28e9834-55d1-475b-9bb9-0722392609cf,Joseph Ward,1997-07-29,Male,"62980 Carr Lane
+East Jorgebury, NC 10511",South,Cancer,Yes,19
+e1a179c0-2824-4cc5-8227-a45651a2fe54,Jason Thompson,1999-02-15,Male,"USS Smith
+FPO AA 44386",North,Diabetes,Yes,14
+70c0a937-702f-4ead-a073-ab045729bd93,Wayne Peters,1947-11-23,Female,"6684 Justin Walks
+New Ruth, VT 39930",East,Hypertension,No,6
+65bf3ebc-9980-4eb5-8a4a-6421d7ac0e83,Richard Navarro,1946-05-09,Male,"1787 Shah Fork
+South Willietown, CT 43990",East,Asthma,Yes,17
+9fc791ec-5423-4439-b26b-ea89a59d9b91,Sandra Crawford,1945-01-12,Male,"1496 John Locks
+North Valerieville, MO 70819",North,Hypertension,Yes,20
+7832e7db-58ac-4f74-9691-78a82b22e00c,Kevin Velez,1977-12-29,Female,"92636 Gordon Meadow Apt. 167
+Crosshaven, NH 70303",North,Cancer,Yes,3
+be8844a0-e334-4878-888b-c68a9ebd984d,Jesse Key,1982-09-26,Female,"8680 Morris Stream
+Salazarberg, MS 42202",South,Hypertension,No,8
+df3d39a7-659b-43e3-8533-d72097d461d0,John Rivera,1965-10-31,Male,"6621 Garcia Field Apt. 977
+South Kaitlyn, HI 91438",North,Cancer,Yes,8
+9073a1de-a480-4444-b5a7-08ee5e065e19,Garrett Howard,1984-09-17,Female,"6686 Stacey Skyway
+Coryville, TX 99745",East,Asthma,Yes,26
+7ef326c1-6f5d-4faa-8dc7-351a45827539,Ryan Cook,1944-04-04,Female,"USNV Garcia
+FPO AP 75367",South,Diabetes,Yes,24
+1f264831-f287-4a54-be3a-e22a3bb9c660,Larry Mcdonald,1936-10-09,Male,"070 James Park Suite 097
+Grossburgh, WI 30074",North,Diabetes,Yes,23
+c5cb74c8-51bb-4e75-992f-e9203a468e7b,Andrew Hall Jr.,1977-12-02,Male,"PSC 2306, Box 3060
+APO AP 55106",North,Hypertension,Yes,14
+38fcf079-f495-435e-aed2-95586c605241,Cynthia Bennett,1966-07-19,Male,"486 Brian Springs
+Jimeneztown, NY 37052",South,Cancer,Yes,20
+36ed3215-394e-44a7-830d-30f1691b7d93,Destiny Ferguson,1990-02-17,Female,"16573 Noble Plaza
+New Adam, KS 67126",South,Hypertension,No,23
+d53c34c1-90cd-4888-8e67-98aefb225e53,Mary Cochran,1989-03-02,Female,"26878 Valerie Highway
+Nicholasfurt, MP 46017",West,Cancer,Yes,20
+57bdaba1-743d-4ba9-89ae-c6e0d2dcfafc,Travis Powell,2001-01-06,Male,"331 Hailey Ridges
+New Timothy, AS 47841",East,Cancer,Yes,9
+8e596adb-cc00-49fe-a013-4648d40e240a,Norma Peters,1950-11-21,Female,"4214 Deborah Trail Apt. 675
+West Xavierton, CA 18963",West,Cancer,No,26
+38a2f16d-8cad-4cdb-83c1-da5307a379b1,Christopher King,1994-12-23,Female,"2812 Richard Ridges
+South Thomashaven, AR 95312",North,Hypertension,No,1
+d4f7511b-cb64-4bdc-8455-6a1024af618c,Stephen Harrison,1971-03-13,Female,"USNS Phillips
+FPO AP 56652",East,Hypertension,Yes,16
+60d7b2c8-e900-46c1-876e-ccb33d6fac87,Linda Waters,1961-09-21,Female,"710 Cole Crossroad Apt. 086
+North Angelaburgh, OR 32039",West,Cancer,Yes,12
+0f931f92-09cf-4f35-9b4b-aac4bc325499,Cynthia Alvarado,1953-04-20,Male,"198 Freeman Estates Apt. 661
+New Shannonfurt, PW 93558",South,Hypertension,No,22
+9dc12931-0482-4087-bf93-3e64d1adf074,Katherine Dillon,1974-06-14,Female,"5316 Julie Rue Suite 994
+Perryport, ND 86816",West,Hypertension,Yes,15
+a422374b-9d96-4a7e-90b0-ad7d0b2d7ec9,Mark Koch,1969-08-14,Female,"0970 Bruce Turnpike Suite 180
+Randystad, ND 68364",South,Cancer,Yes,17
+72c352ca-76bb-4cd1-9087-96e39ebd28b4,Jessica Robbins,1962-01-26,Female,"997 Thompson Inlet
+Delgadoside, OH 73072",South,Cancer,No,6
+bd64bc5a-c58b-4e58-b00a-7b59567f340a,Tami Floyd,1998-06-03,Male,"846 Reed Via
+West Ryanton, ID 22502",East,Hypertension,No,11
+9d87788f-bb73-4b0f-a6fa-6ca58cfe265a,Casey Reese,1942-01-22,Female,"96284 Antonio Courts
+Lake Cynthia, DC 82698",West,Hypertension,No,26
+3b7ef182-dd67-4caa-ad62-5edf056c2853,Preston Wood,1997-09-09,Male,"32615 Brown Pines Suite 327
+Martinbury, AZ 08842",West,Hypertension,No,13
+9b6ee020-351c-4b81-b2a2-4e2bf4382f2c,Charles Mcneil,1953-05-10,Female,"07541 Donna Manor Suite 726
+North Noahfort, NC 88116",South,Cancer,Yes,10
+2263ee05-08a6-4f3a-a53d-1d827fbca541,Veronica Lawson,1952-02-04,Male,"7805 Matthew Light
+South Elaineburgh, SD 09503",South,Cancer,No,18
+9a29b178-9bb3-48eb-82ec-3bd9604a4bff,Christian Fritz,1936-12-02,Female,"0381 Peter Stream Apt. 772
+Sanchezchester, MS 86671",North,Hypertension,No,2
+4834766d-e934-4b66-bf5b-b588a11fa0e1,Melissa Clark,1969-10-30,Female,"46098 Ortiz Knolls
+Lake Timothyville, GU 50112",South,Asthma,No,30
+0365d400-75e7-4f59-af9a-d41b2c2bff31,Leroy Thomas,1995-04-21,Male,"2795 Henry Bridge
+West Richardburgh, WV 93496",South,Diabetes,Yes,15
+ccffcaa5-130b-40c4-938e-ccbbbad8a71d,Veronica Fisher,1935-06-25,Male,"37642 Smith Point
+New Brandon, OK 76778",East,Asthma,No,24
+bbb193f0-c205-41f8-8638-fdd99acb0933,Stephanie Norman,1984-06-13,Male,"17435 William Branch
+Johnstonstad, MH 75158",West,Diabetes,Yes,13
+18583b02-d398-4105-81ca-901ead69972f,Matthew Smith,1947-03-18,Female,"PSC 1855, Box 6989
+APO AA 00619",South,Diabetes,No,16
+08c73f3f-6926-4adc-81d8-1dba88b61437,Bruce Drake,1934-11-19,Male,"761 Seth Courts Suite 616
+North Jerryburgh, CT 35976",West,Asthma,Yes,1
+99383c00-d6e3-42b9-bf08-f4c93e14da66,Monica Moore,1943-10-14,Female,"1799 Luis Shoal
+Owenland, ID 93642",North,Hypertension,No,24
+d1bcc2c2-ccdd-48df-b509-bbcbfd6899f1,Michael Carter,1998-07-18,Male,"28663 Luis Corner
+Danielview, OH 34868",West,Asthma,Yes,9
+f3077237-33f6-4842-92f7-c8f2d81ade54,Brianna Chan,1938-12-13,Male,"02404 Perkins Union
+New Derrickport, WV 80476",North,Hypertension,No,22
+6af99898-b86c-4023-bda0-eb2cd96ece15,Jasmine Patel,1936-08-31,Female,"95474 Earl Loaf
+West Andrew, NE 95618",South,Asthma,Yes,25
+68f04464-404d-4a42-9567-4ffb27fa909b,Jonathan Holland,2004-03-29,Male,"8555 Johnson Ports Apt. 178
+Torresland, SC 28732",West,Asthma,No,13
+06424341-168e-4a93-8e32-95b2a6f9300a,Debra Sims,1991-08-02,Female,"34455 Troy Forest Apt. 112
+Tiffanyborough, IL 38454",North,Cancer,No,7
+7e106a75-6712-4839-b29a-44841bf443fc,Carla Anderson,1937-12-08,Male,"96887 Dean Turnpike Apt. 340
+Nancyborough, ND 95267",East,Diabetes,Yes,19
+dc40b40f-721b-4794-b7b4-e10e30911453,Chris Ford,1990-03-16,Male,"734 Marshall Forest
+Brownborough, NH 98894",West,Cancer,No,26
+9c0b87a9-e4d3-4718-b920-4d8b55cff6d2,Steven Chandler,1992-10-18,Male,"Unit 9448 Box 0591
+DPO AE 43965",South,Asthma,Yes,19
+7bfbe042-2137-403b-aa5f-4671eb0d23ba,Richard Sweeney,1988-10-04,Male,"USCGC Luna
+FPO AA 09366",South,Asthma,No,6
+74e22fe3-4fac-411e-95df-8deed07af7e1,Sara Thomas,1978-07-19,Female,"603 Bruce Courts Apt. 951
+Paulahaven, ME 96271",South,Hypertension,Yes,11
+877240b3-746f-445b-8b81-99d3a9f2e2f0,Peter Garcia,1977-02-13,Male,"8216 Wolf Grove
+West Robert, CO 03747",East,Hypertension,Yes,19
+174b6414-b9f8-4f5e-96cc-a67988949086,Mrs. Anna Perez,1979-03-29,Female,"30202 Catherine Circles
+Port Markfurt, TN 21060",South,Hypertension,Yes,19
+54215807-b260-415a-b33a-bcd66b300155,Lisa Norris,1982-11-20,Female,"Unit 0497 Box 8248
+DPO AE 29199",East,Hypertension,Yes,12
+b1ee2816-c179-4793-9242-8cb2abacb58e,Christopher Davis,1954-10-02,Male,"063 Larsen Radial
+Medinaton, OK 49505",East,Hypertension,No,10
+f3865943-89a7-4020-823d-5ca5ecbc9a34,Colin Kennedy,1941-10-15,Male,"6992 Paul Green
+South Nathan, OR 24316",West,Diabetes,No,11
+63302c26-1f13-493d-a5ad-38db59a0a24c,Nicole Perry,1974-05-04,Male,"7414 Jose Falls
+Molinamouth, DE 36216",North,Cancer,No,26
+e5720be9-0b9f-4af3-9ae8-98069e263343,Mrs. Rebecca Brooks,1950-04-26,Male,"168 Pierce Canyon Suite 560
+Mitchellborough, MH 17157",West,Cancer,No,20
+bf11b31c-c6cc-4130-b2e2-0a2840dbf64b,David Morales,1991-04-25,Male,"48971 Kimberly Mills Apt. 468
+Martinezchester, OK 15140",North,Hypertension,No,6
+c7d575d5-6ea8-4e60-9f64-4027aea707e2,Devin Abbott,1945-12-03,Female,"3810 Alexander Shoal Apt. 546
+Williamsonland, OR 31334",North,Diabetes,Yes,26
+ab9bddd5-bcd0-490f-91ea-f005f6025f40,Patrick Jones,1997-07-29,Female,"8792 Lisa Gardens Apt. 989
+New Natalie, MS 09643",East,Hypertension,Yes,19
+54ce82f0-fa7e-40b2-a185-535eaafcc078,Mark Buchanan,1992-08-02,Male,"Unit 4386 Box 1991
+DPO AE 67753",South,Asthma,Yes,15
+fb113732-f666-47bf-a7fd-d4ee24d37ee0,Daniel James,1970-10-11,Male,"9200 Mckee Valleys Suite 090
+Lake Danielleport, MO 24796",East,Cancer,Yes,11
+68894af0-c680-423a-8e48-41a5102c7a54,Tammy Farrell,1952-01-26,Female,"6049 Kim Track Apt. 422
+New Christineberg, ID 71170",East,Hypertension,Yes,24
+4d6fa6d5-4530-4fb3-ab25-65554640d292,Robin Frank,1985-04-26,Male,"464 Hayley Inlet
+South Nicole, AR 42236",West,Cancer,No,30
+964dee45-ad04-454c-8332-6789312040ed,Brittany Fowler,1982-07-04,Male,"70696 Jackie Curve
+Lake Kimberly, NJ 78703",West,Diabetes,No,24
+892f5942-43c7-40c6-8b81-b9b4065c6f6e,Aaron Harris,1935-08-22,Female,"46714 Garcia Locks Suite 149
+North Kevin, HI 43569",East,Cancer,Yes,3
+f0c4e7fc-de1d-4b2e-a8d5-c2248a6b6d12,Joseph Byrd,1983-05-22,Female,"7380 Keller Spur Apt. 046
+Robertville, MN 86134",South,Asthma,No,9
+c5a77ea8-528d-4466-bb01-82f86dc98787,Craig Gillespie,1960-09-10,Female,"95241 Jodi Walks Apt. 772
+Michaelville, KS 40142",East,Asthma,Yes,17
+e1805006-9fdb-4ca3-ba2c-048a4ca0e515,Sharon Anderson,1974-10-20,Male,"36705 Phillips Key
+Clarkmouth, AK 88884",West,Asthma,Yes,3
+ff82d676-37f0-4bd6-a0e5-e06ead567040,Scott Ward,1994-11-22,Male,"10783 Rebecca Crossing
+West Courtney, MH 61713",South,Diabetes,Yes,19
+6354d610-f3e7-4a2a-b481-4ab9564ae88e,Mr. Scott Morales,1993-10-13,Female,"122 Haley Flats
+Grayview, KS 90807",East,Hypertension,Yes,17
+82bedc81-e080-4310-be48-754cf5633701,Kristy Alvarado,1949-04-07,Female,"42135 James Extension
+Josephport, AR 19853",South,Diabetes,No,25
+fdcebc2a-17f8-4f38-bc7a-9285d939a5a1,Christopher Rodriguez,1978-01-25,Female,"Unit 7424 Box 3287
+DPO AE 40410",West,Cancer,No,9
+f4dca37d-c0fb-4601-9c6e-2f56da1b36d1,Caroline James,1999-06-19,Female,"33100 Blair Plain Apt. 639
+West Ryan, MP 28898",North,Hypertension,No,10
+26a08073-976b-4e11-ac4b-524a201a092a,Russell Rivers,1953-01-02,Female,"5041 Ashley Square Apt. 103
+North Nicolasview, NE 09860",North,Asthma,Yes,14
+78d99b2e-cef5-4023-8298-fb8045cb58a9,Patricia Hart,1988-12-12,Male,"Unit 0794 Box 3479
+DPO AP 82991",West,Cancer,No,9
+36c46435-5260-41be-b1d8-dcc9b133ff19,Katherine Raymond,1989-01-29,Female,"87312 Johnson Lodge Apt. 313
+North Michellehaven, HI 66240",East,Diabetes,No,11
+0e35515a-3940-4b26-bacf-c34321ec0b0e,Chelsea Dunn,1973-11-16,Male,"61670 Sanders Wall
+Jimenezton, ND 04819",South,Cancer,Yes,23
+199c187b-a890-48f4-bc63-5a46a61b2583,Joseph Fischer,1970-03-18,Female,"097 Bruce Cove
+Lake Carolfurt, KY 38848",North,Diabetes,No,26
+210810bd-19f5-4667-a3e8-95d9202aff0d,Mary Stephens,2002-12-28,Male,"6334 Mayer Stream Apt. 951
+New Austin, KY 21550",North,Hypertension,Yes,28
+ff61b8fe-aa1b-4e4c-94d7-9cc211a634e4,Zachary Mccoy,1959-08-16,Female,"8754 Mcdonald Ways
+New Oliviahaven, SC 89378",West,Asthma,Yes,25
+61a1b5e0-0167-4a2f-9dd5-fcbb55ed27c7,Penny Conley,1961-04-09,Male,"USS May
+FPO AE 65842",East,Diabetes,Yes,26
+3da2e797-96fb-4341-883f-78e5626ca91e,Monique Arnold,2003-12-09,Female,"642 Walker Grove
+Jessicaside, MA 91739",West,Cancer,No,12
+f84e86d2-bed1-43e6-a8fd-3cc13b6f4f1a,Mark Scott,1956-02-27,Female,"USNV Brown
+FPO AP 20406",South,Asthma,No,2
+20c6024a-7d61-4dc0-a287-3e1c5c8effeb,Robert Davis,1944-01-19,Female,"80382 Bailey Dale
+New Michaelville, MN 00899",North,Hypertension,No,21
+fd57dc2c-0d8a-468a-ba94-13bd020d115f,Lisa York,1987-08-26,Male,"58639 Miller Ports Apt. 800
+Lake Chadfort, MO 67848",East,Asthma,Yes,29
+b680d7ae-0e98-42bf-aff8-151da6a70759,Nicholas Santiago,1973-09-05,Male,"050 Smith Roads Suite 695
+North Aaron, MP 76732",South,Cancer,Yes,12
+dd1a42c2-02fa-4d90-85ca-462896ab0379,Carrie Cohen,1960-11-28,Female,"3835 Mcgee Port
+Coffeyberg, UT 42155",North,Diabetes,Yes,22
+a83f5800-e07b-4bfe-b241-229b40b98df9,Nicole Clark,1975-04-14,Female,"601 Miller Square Suite 252
+Longberg, TN 41193",North,Hypertension,Yes,21
+2ad196bd-735f-4b44-b893-dde133691b5f,Melissa Drake,1937-10-19,Male,"25556 Wright Light
+South Robertburgh, MO 24891",South,Cancer,No,21
+ddeb41a2-df5e-4f7a-aa02-13aa33d31ff1,Paula Morales DDS,1954-01-15,Male,"7509 Larson Views Apt. 259
+New Peterberg, ME 82637",South,Diabetes,No,1
+48fa2977-b72c-434e-9b16-9f7e75d3732f,Mason Hernandez,1999-09-20,Male,"3861 Melissa Ridges Suite 218
+Port Kennethland, ME 36955",South,Hypertension,Yes,19
+0398f88e-c8af-460f-8440-30c29d13de55,Stephanie Watts,1943-02-01,Male,"468 Sutton Turnpike
+Port Denise, NC 35327",South,Diabetes,Yes,9
+dea6b02a-7752-4e79-a9f7-824af2326caa,Tyler Carey,1969-07-07,Female,"4021 James Street Apt. 769
+Samuelton, MP 46734",North,Cancer,Yes,25
+3f42faea-56bc-4843-bf8b-4d62deabde2f,Kyle Bentley,1998-10-01,Male,"32018 Barrett Mountains
+East Mary, PR 58027",North,Cancer,No,3
+cb5f15f8-b3ec-4c22-90b9-73ae5dd4261e,Nicholas Elliott,1985-06-08,Male,"4564 Joshua Plaza
+Mcdanielmouth, OH 11481",West,Cancer,No,8
+ca2784ed-9062-4fce-8d15-5d5729641499,Matthew Keller,1968-12-03,Male,"98644 Martin Cove Suite 346
+South Amberton, CO 12564",South,Asthma,No,28
+2cde603b-7e83-4920-b42f-2756f7390cc9,Dawn King,1954-10-06,Male,"343 Nicholas Ridges
+Oliverview, TX 50615",South,Cancer,Yes,7
+02c40502-b17d-48fa-843b-ecc0aa76ce14,Joshua Good,1975-01-03,Male,"4121 Molly Streets
+Huanghaven, OH 83936",North,Cancer,Yes,15
+899dbecf-55d5-4507-9b21-ccf6a8a85483,Lindsay Fields,1995-12-11,Male,"863 Lauren Gardens
+East Justinchester, TN 44633",East,Diabetes,Yes,30
+b612485e-bb49-49da-80bc-4751d3b4a668,Janet Brady,1956-06-17,Male,"8981 Kelly Run
+New John, CT 25217",East,Hypertension,No,21
+79cdec8a-6ad5-4792-beab-862149aa65e3,Victor Kent,1937-01-16,Male,"445 Cole Loaf Apt. 010
+New Antonio, VI 03735",East,Diabetes,No,9
+7bf71475-2e87-4884-8aed-e7439c63513a,Kyle Fuller,1998-07-15,Male,"221 Hampton Well
+Riverahaven, OR 73173",North,Asthma,No,14
+bfb998e7-23ac-44c8-86fd-2a29fec205bf,Jessica Johnson,1972-05-06,Male,"4585 Wilson Extensions Suite 729
+Kathyborough, IL 19550",West,Diabetes,No,20
+ae3b0668-0030-4ac1-919e-3840889b4d1e,Robert King,1991-09-23,Male,"16244 Brandy Lane
+Port Amandastad, OR 47629",West,Hypertension,No,3
+9414303e-152e-4fe5-af34-bae9d51179d4,Christopher Smith,1941-06-24,Male,"6636 Sarah Greens
+East Angela, NC 81245",East,Asthma,No,1
+7c840ca5-c36c-45f8-8fb8-54e938ec238e,Adam Brooks,1934-04-14,Male,"1125 Mitchell Road Apt. 247
+New Matthew, FM 31967",North,Hypertension,No,1
+af913dcc-9881-46db-9305-06098e25424e,Robert Martin,1985-06-14,Male,"327 Collins Gateway Apt. 658
+Iantown, OH 90695",North,Hypertension,No,7
+e50d034d-01b3-466f-80ec-ad8290bf3fa1,Nicholas Flynn,1982-02-16,Male,"48096 Alexandra Pike Suite 727
+West Sharonshire, DE 20923",West,Asthma,No,13
+91b620e7-f03e-4e31-9e19-b9b4a07c9523,Hayden Johnson,1984-08-27,Male,"0020 Johnson Drive
+Parkerberg, HI 72712",South,Diabetes,No,25
+3a02b07b-5b55-4ecc-b56d-e9358b2b59c7,Sandra Gordon,2005-03-18,Male,"822 Brittany Burgs
+West Christianfurt, IL 68401",North,Asthma,No,23
+b07005b4-c80c-4d45-8cee-7295b63661bf,Scott Evans,1980-10-10,Female,"29296 Richardson Roads
+West Stephanie, DC 01870",North,Hypertension,Yes,19
+b03bb7d2-b9a6-4b2d-a381-cf55c11012f3,Ronald Munoz,1996-02-13,Female,"37545 Herring Land Suite 014
+South Michelle, DC 51123",North,Diabetes,No,12
+75b84ce4-62a3-43de-a218-39207c55f369,Jeremy Austin,1949-06-19,Male,"449 Nelson Isle
+Garrettberg, AS 14639",South,Diabetes,Yes,19
+569be507-a77c-43ee-9d0e-fa237e5554fe,Robert Baker,1998-08-03,Female,"7698 Edward Valley
+Littlechester, MD 26248",West,Hypertension,No,11
+99f9d4b8-f2f6-4f5a-92f5-fcc40e4ce100,Daniel Mcdaniel,1965-08-27,Male,"USNS Bridges
+FPO AA 14573",West,Cancer,Yes,13
+bac77d33-fc1b-4829-8de5-974bdfbbd46c,Mary Diaz,1960-10-30,Male,"2317 Lee Skyway
+Melissamouth, MA 92627",North,Asthma,No,30
+8596f16c-dfc0-495b-ab08-4120ed5aeec9,Dean Hayden,1971-10-13,Female,"131 Lang Groves
+New Elizabeth, NY 42953",South,Cancer,Yes,2
+2c51e999-e901-4541-9c6f-cb2e91a9b47c,Diana Henderson,1992-11-27,Male,"42465 Heath Pike
+East Melanie, CT 79689",North,Hypertension,Yes,19
+d09aa4ef-10e2-4c9e-ad98-f190bcf720a7,Harold Obrien,1969-01-14,Male,"610 Tonya Prairie
+East Donald, PR 52486",West,Hypertension,No,12
+14dcb633-aed9-42f5-b6ff-371bfe0e2f8c,Ryan Smith,2002-06-28,Male,"763 Campbell Plaza Suite 106
+Greenstad, LA 02228",West,Hypertension,Yes,3
+dda22e21-9a63-4f22-ab57-5658a030cd35,Samantha Peterson,2004-04-28,Male,"USS Cruz
+FPO AP 15219",South,Hypertension,Yes,23
+3a73dc37-5f04-441c-8dee-bd4eeda82eb1,Megan Galvan,1984-07-14,Female,"74220 Smith Springs Suite 657
+South Alan, TX 16858",North,Diabetes,Yes,22
+faa66412-0005-4e59-9da3-33dc14b7d67f,Patricia Young,1964-09-19,Male,"450 Nicole Corners Suite 359
+Port Diana, CA 27863",South,Hypertension,No,2
+911f3f90-0aa1-41f6-aa18-fc9ec2cae422,Anthony Parker,1938-04-24,Female,"248 Pham Causeway Apt. 292
+Walkerport, VA 92323",West,Hypertension,No,30
+a3ce68d8-7fcc-4e03-ac1f-6f67e7297f49,Rebecca Martin,1977-09-12,Female,"178 Debra Harbor Suite 412
+Lake Christinaburgh, MP 31028",West,Cancer,Yes,11
+829e7064-8c59-4bc6-aab3-6c8e463f594b,Ashley Gentry,1967-04-29,Male,"7472 Kristen Locks
+Mooreborough, TN 66119",North,Cancer,No,29
+fc855504-ca0c-4157-b4c5-76175d98c1ef,Jose Miles,1969-06-10,Male,"85236 Bryant Streets Suite 540
+Adammouth, MI 04747",North,Asthma,Yes,25
+4efb6572-ab5b-450b-93ad-fdd56f241902,Ariel Boyd,1952-12-02,Male,"PSC 0724, Box 2112
+APO AP 01036",North,Diabetes,No,14
+be922c7f-1549-42ec-8397-63c552266fa0,Megan Kidd,1951-03-14,Male,"65281 Conley Locks Suite 885
+Christopherhaven, PA 76731",West,Cancer,Yes,20
+50ff1eaf-e42d-4dce-bef4-421557adbce2,Susan Lozano,1948-06-23,Female,"44201 Michael Streets Apt. 768
+Florestown, NH 59185",West,Diabetes,Yes,13
+36c29147-f971-44d9-a2d4-2bae6875cacc,Ronald Rodriguez,1946-11-20,Female,"34778 Kimberly Park Apt. 653
+Christopherside, IA 84255",South,Hypertension,No,17
+f101586b-923a-4b42-bc54-de7551a421d1,Deborah Foster,1951-06-06,Female,"48316 William Stravenue Suite 137
+New Sandra, CA 83278",West,Diabetes,Yes,6
+ed77a56d-942c-46c6-97d1-58330cecc379,Nicholas Elliott,1945-03-04,Male,"75262 Julie Mews
+Moralesfurt, NJ 26158",North,Diabetes,Yes,29
+72b5914c-b14f-47c1-b1cf-ccca9cd0d2b8,Timothy Lopez Jr.,1942-10-10,Female,"6831 David Lock Suite 299
+Matthewburgh, UT 86968",South,Asthma,Yes,30
+09e8c054-0d27-4bf1-bdc5-1afc14a85b2b,Stephanie English,1938-02-19,Male,"30806 Whitney Throughway
+Gatesstad, WA 41133",West,Asthma,No,23
+c92119d1-da95-45e7-b2f2-73b2f5f44f19,Alex Barnes,1989-02-05,Male,"63132 Watts Bypass
+New Miatown, MO 97027",South,Cancer,Yes,24
+9735eeac-5f11-459e-a3fe-c5e22f624545,Angel Cline,1976-01-21,Female,"540 Christina Fords Apt. 732
+East Theresa, UT 93276",North,Cancer,Yes,27
+ba6701bd-9f8f-4762-9a06-bda1aa9d6548,Sarah Perez,1944-06-23,Male,"50757 Stein Glens Suite 469
+Millerbury, MI 73895",East,Asthma,No,6
+33875a44-30d1-4ba7-acad-66241655ea51,Mrs. Kristy Hickman,1936-10-26,Male,"46446 White Mountains
+New Michaelstad, PW 11863",North,Hypertension,No,26
+5a0ddf7c-32a9-4a34-bea5-242c82ef0f6d,Janet Vincent,1966-08-20,Female,"428 Jason Oval Apt. 741
+Angelstad, CA 51707",West,Hypertension,Yes,3
+ee34e5cf-b7ab-474e-86ee-61bb7ec4c33e,Tina Moore PhD,1999-01-24,Female,"199 Daniel Well
+North Laurenside, AZ 04063",South,Cancer,Yes,27
+fbd3776e-fedb-431e-9da1-9d4014910801,James Alexander,1998-01-07,Female,"88147 Doyle Village
+New Christina, KY 93260",South,Diabetes,No,7
+fd945c2a-6eff-4c8b-b5dd-856dcee7f838,Karen Rivers,1953-01-01,Female,"9385 Paul Parkways Suite 432
+East Jason, ND 65426",South,Hypertension,No,11
+d4d84b0a-c283-4aa1-aac4-58f40aa2ce10,Joseph Wood,1997-02-23,Female,"USCGC Wright
+FPO AP 84501",North,Asthma,No,26
+591f9660-8297-440a-b1da-c73d7bbf38c6,William Riley,1996-09-06,Male,"4125 Renee Crossroad
+New Russellchester, DC 82102",North,Asthma,No,17
+c8d96dc5-bd88-4493-9a43-9dd072848cf2,Hailey Harris,1992-01-11,Male,"484 Jacobs Ramp
+Burnettchester, NY 40332",East,Asthma,No,30
+90543c81-2cdd-4a39-b71f-2d006531bbc1,Diana Hill,1984-09-25,Female,"33364 Lauren Rue Apt. 321
+Michaelfurt, VT 96164",North,Diabetes,Yes,25
+3496616a-f116-4ce7-8eba-bc720ee2c556,Jose Martinez,1990-07-25,Male,"414 Ewing Mountain
+Lake Kathyberg, IL 00882",West,Hypertension,No,18
+fec6b2b0-cdf1-45de-9fb0-764ab28aa9c3,Charles Blake,1975-04-05,Male,"PSC 3965, Box 6556
+APO AP 53496",East,Cancer,Yes,2
+0c7101e4-78da-4aaa-92d7-cf25fd3d1be4,Richard Rojas,1992-12-12,Male,"5945 Evelyn Forest Suite 505
+West Davidtown, OK 05221",North,Diabetes,Yes,21
+fe0fd936-cdb0-4741-8482-6541fb021067,Timothy Tucker,1962-04-05,Female,"67548 Randy Isle
+West Jared, OK 75054",West,Diabetes,Yes,29
+5d974c7c-ccc2-4978-ba1d-343aa84adebb,Eric Burns DDS,1990-07-14,Female,"002 Gregory Viaduct
+Tamarafort, NY 65236",West,Diabetes,No,27
+ba633da1-a1bb-40b8-8aad-c4abd78963fd,Karina Miller,1964-09-10,Female,"75926 Hall Bridge
+Lake Jamieville, AZ 52064",South,Diabetes,Yes,7
+5fd20d5b-515f-4a99-931f-b8d988b086ca,Lynn Bennett,1934-05-21,Male,"PSC 4433, Box 7190
+APO AE 91279",West,Diabetes,No,20
+c73c3164-a487-467f-82f8-d42831fbf1c7,Harold King MD,1947-03-13,Male,"14538 Shane Hollow
+Joyceville, AZ 45189",East,Diabetes,Yes,26
+2843b2d5-9d6c-4005-8a94-f98c9fe71ba5,Cheyenne Jones,1984-12-19,Female,"Unit 1031 Box 7896
+DPO AA 55080",West,Cancer,No,17
+7cededc0-806b-4ab7-bfb8-3bf793e7e8a7,Michael Bentley MD,1992-09-20,Female,"Unit 4884 Box 8748
+DPO AE 33341",East,Hypertension,Yes,23
+7fc43355-1ede-46d0-b59c-60e352b1da31,Julie Clark,1978-08-31,Male,"31593 Lisa Causeway
+Susanside, MO 01576",South,Asthma,No,30
+99f41a4d-a8b0-4137-af9c-b7bb5fc27542,Jason Ware,2004-09-21,Female,"241 James Streets
+Nicoleburgh, CO 82045",West,Cancer,Yes,16
+ca62c3bd-9180-4b35-bcc1-e5a47c6ad969,Roberto Phillips,1986-07-23,Male,"362 Max Parks
+North Thomasmouth, OK 36441",West,Hypertension,Yes,18
+ce19de67-7dc7-4ebc-95e2-a4fd88b5013a,William Olson,1936-02-17,Female,"158 Ramos Roads
+Brandonland, CT 06986",East,Cancer,Yes,27
+8d449984-090c-458b-a902-6b4ee96dfa04,Tyler Spencer,1984-02-05,Male,"32339 Good Centers Apt. 182
+Ashleyside, HI 44108",East,Hypertension,No,1
+bdace732-a1b7-416a-9128-928d95ba0aab,Don Benson,1960-05-12,Male,"USNV Mcguire
+FPO AP 03214",South,Asthma,Yes,4
+ce7832ba-7f52-4761-9f3e-c85de50b3dae,Brent Stone,1944-05-26,Male,"3048 Melinda Walks Suite 093
+Maryberg, NH 31610",West,Diabetes,No,20
+c3ebc493-f1d6-4d80-8af5-dff4a23371dd,James Guerrero,1981-02-07,Male,"04331 Charles Junctions Suite 000
+Wardton, AS 28283",North,Diabetes,No,19
+c51af9e8-5d70-43f6-bdd3-6794a101d4b9,Shawna Osborne,1943-05-17,Female,"83841 Jeremy Bridge Apt. 946
+Marisaport, MO 85786",East,Diabetes,No,11
+6be80027-0a68-4d76-8832-06a19a2728d4,Jeremy Harrell,1965-06-14,Female,"28981 Bradley Pine
+Millershire, ID 40161",West,Cancer,No,17
+d5f5e266-cb72-4532-99ef-0275bb0fb7ef,James Trujillo,1971-11-21,Male,"95645 Bush Island Suite 697
+Nicholaston, MP 24151",East,Hypertension,No,27
+07f33d3f-dc74-4ed5-b18a-97996cf614ef,Anthony Buchanan,1969-11-29,Male,"384 Douglas Mountain
+Port Kathystad, SC 60342",West,Diabetes,Yes,5
+2ec4e704-2e48-42ab-b992-cb5d56b6f59d,Kenneth Love,2001-06-03,Male,"PSC 9995, Box 8189
+APO AA 89269",North,Hypertension,No,30
+5918a551-c421-4287-9f88-8f3e357c21ef,Kayla Johnson,1982-04-16,Male,"38055 Miller Club Apt. 845
+Austinville, NE 26842",North,Diabetes,Yes,6
+fa374ee1-626d-4349-a943-a5a13dd8a1af,Mike Clark,1957-10-10,Male,"USS Flores
+FPO AP 40913",North,Cancer,Yes,1
+0e9d79b8-37ff-44bc-aba9-7836dd8f10c9,Anthony Price,2003-11-14,Male,"2285 Davis Parkway Apt. 415
+Perezmouth, NV 73433",East,Asthma,No,29
+1ff2ce96-cf7d-40ca-b898-d2675692e2ca,Jorge Woodward,1969-03-31,Female,"307 Moore Harbor
+Carrollborough, MO 29911",West,Cancer,Yes,2
+fc3ad488-d8f8-4034-bf14-83bb17d90b19,Bradley Castillo,1967-10-07,Female,"4040 Bush Ville
+South Lawrence, MS 58064",East,Cancer,No,21
+2a6eb1ac-e402-4a3d-8d5b-053e256ce242,Alicia Olson,1957-03-27,Female,"623 Robert Junctions
+Kellyville, NJ 08354",North,Diabetes,Yes,23
+4a4fd63a-12cd-420d-ad4f-3aad4278d499,Phillip Marshall,1993-09-29,Male,"3313 Wilson Coves Suite 186
+West Gary, MI 76608",West,Hypertension,No,26
+614eb78b-ba22-453d-9cc9-00db60ec7020,Patrick Gonzalez,1992-10-14,Female,"228 Roger Mall Apt. 228
+Jonesmouth, CT 50970",West,Cancer,No,30
+5f10ff01-713d-4fdd-a4c2-2aac6b4f7af7,Stephanie Ramirez,1974-11-25,Female,"USS Johnson
+FPO AP 87012",North,Cancer,Yes,20
+8109b2fe-bc7a-41c6-8826-e3de40ecbec9,Dennis White,1968-11-22,Female,"4904 Guerrero Wells Apt. 068
+Lake Erica, PA 72251",West,Asthma,Yes,12
+3bfdbc86-4bb6-4f3b-a226-a9a96ece98f7,Brady Hubbard,1989-05-24,Female,"92248 Cooley Green
+West Marilynside, TN 97085",West,Cancer,Yes,14
+52b93131-23a8-4ee0-b6b0-90196f9fd73e,Carrie Garrett,1958-07-30,Male,"55568 Wallace Throughway
+South Gary, PA 08580",North,Hypertension,Yes,15
+e1b89f96-18d7-4964-b2a6-91b70d06b4ef,Linda Hernandez,1953-03-09,Male,"3403 Herrera Landing Suite 855
+South Tammyburgh, CA 88985",South,Hypertension,No,20
+260bd93e-2477-476e-952b-134d3b4df3c6,Richard Petty,1978-04-12,Female,"USS Moore
+FPO AA 45802",West,Cancer,No,22
+b7d29520-033b-425e-a550-08a5a4aa80f2,Carl Cannon,1963-12-03,Male,"38707 Bruce Flat Apt. 388
+Combsfort, UT 00639",South,Diabetes,No,19
+8d0d5f7e-c0ea-4aef-af0e-c319e1785da6,Jacob Zuniga,1951-06-21,Female,"716 Rodriguez Spur
+North Charlotteton, VI 83120",South,Diabetes,No,14
+6fd80929-0f46-4a87-bda1-1701a4711e8a,Mary Reyes,1949-02-19,Female,"0992 Bradley Drives
+Ebonymouth, NY 77916",East,Diabetes,Yes,1
+6d8daa5b-b44a-4b82-8065-92d1dc584183,Christopher Baker,1961-01-11,Male,"92426 Warner Overpass Suite 880
+Robertsontown, LA 54840",North,Diabetes,No,26
+d5e9d420-53bd-4297-a556-bab004597675,Helen Mccormick,1943-08-06,Male,"791 Ashley Turnpike Apt. 919
+Haydenchester, GU 87651",North,Hypertension,No,7
+23c5d352-c77a-4c78-ac76-5facbf4a957f,Whitney Cooper,1961-08-27,Female,"01394 Tyler Shores Suite 210
+East Reneeview, AZ 49391",North,Cancer,No,3
+8bf92997-b77f-45ab-a5a0-2ff5896245bd,Sydney Burch,1984-09-27,Female,"55644 Lawson Stream
+South Emily, AS 24039",North,Hypertension,No,4
+6ac2bd6a-db8c-4adf-bf5a-d8c75c64f206,Karen Rodriguez,1938-02-14,Male,"USNS Jenkins
+FPO AP 57323",North,Diabetes,Yes,1
+b0cab071-d75d-4d9f-aa66-ee6624141a0e,Shannon Harris,1964-12-01,Male,"1465 Brett Freeway Apt. 320
+East Theresabury, IN 22109",North,Hypertension,No,1
+067117a8-657a-462e-a85e-da589c1bda06,Kevin Reyes,1969-11-06,Female,"2784 Scott Springs
+Lake Gregory, NY 66688",East,Hypertension,Yes,13
+a3a7ec95-ce5b-4fb3-a604-46d6da99bfe2,Rachel Lopez,1955-06-16,Female,"PSC 7696, Box 0513
+APO AP 40287",North,Diabetes,Yes,11
+e1c19b13-5285-4418-a6ac-8cbf2f2a6100,Mark Weeks,1997-05-09,Female,"69996 Cruz Plaza
+Walkermouth, NJ 60231",North,Asthma,No,26
+b9db42f0-dcff-4539-a32a-3f28cff697ab,Melissa Lee,2005-03-26,Female,"635 Charles Crossing Suite 360
+New Stephanieside, DC 32885",South,Cancer,No,16
+b913c37b-a650-45eb-9062-8982b9ac987f,Jose Donovan,1962-12-22,Female,"996 Blair Stravenue
+Blackbury, WY 09626",East,Asthma,Yes,28
+43c3a638-1fa7-41cd-b20a-e204e7dd1d53,Justin White,2002-10-22,Male,"471 Mark Dale
+Kimfurt, VT 65522",North,Diabetes,Yes,18
+90d00603-0132-45a0-bf56-ac50116ba69e,Gary Davenport,1940-12-04,Male,"8547 Mitchell Extension Suite 501
+Port Arthurview, AS 49065",South,Asthma,No,26
+cf7eb9e3-0b21-483e-9bff-565f68de4d7d,Matthew Ramirez,1957-03-13,Male,"799 Barker Mountains Suite 861
+South Debraville, MH 24142",West,Cancer,No,1
+608ee5d3-9a59-435a-a0b0-9c0ff2ab951a,John Wade,1994-03-06,Male,"177 Jessica Causeway Apt. 836
+North Jessica, TX 22213",North,Hypertension,Yes,27
+ec2a6096-8ef4-4ce0-8d54-91af7c50da61,Jeffrey Nguyen,1962-10-19,Female,"25050 Kenneth Course Suite 579
+Morganhaven, UT 60259",South,Asthma,Yes,11
+cc301234-fc9c-4bd9-8e74-dd841c5bfa4e,Wanda Matthews,1987-09-06,Male,"453 Blair Fall
+Duncanville, AZ 92344",South,Hypertension,No,4
+fef49ae4-8d5a-40ec-95d0-0d120f2ae7e3,Heather Gallegos,1991-11-20,Female,"6497 Smith Oval
+Lake Karen, ME 56728",North,Cancer,No,2
+6a6e25ad-a01a-4a54-8264-b160c6f36cd3,Kelly Mcdonald,1973-06-16,Male,"0779 Clark Mall
+Pamport, CO 21361",East,Cancer,Yes,30
+a017bf76-081b-4f8a-b949-790074c2bb7d,Frederick Vazquez,2002-04-06,Male,"196 Rachael Branch
+Conleyfurt, AR 84703",South,Asthma,No,2
+43b71bad-864c-4370-8acd-8f47269aad7e,Briana Brown,1986-06-09,Female,"PSC 9870, Box 2043
+APO AP 68643",West,Cancer,Yes,13
+836b8dd0-89b9-48de-9c62-3eba2f644457,Anne Maldonado,1947-11-03,Male,"152 James Circle Apt. 757
+Gibsonview, NJ 49684",East,Asthma,No,6
+2fc91979-0b78-4f63-a5c2-cef14c263e8c,Corey Griffin,2001-10-06,Male,"218 Christopher Junction
+Kaylafort, MP 22987",South,Diabetes,Yes,6
+49c4097a-b54f-4ce9-b1b4-281f237dd99c,Deborah Miller,1961-12-29,Male,"4416 Combs Village Apt. 342
+Burkeport, OH 07786",North,Cancer,Yes,25
+0d4467f0-a332-408f-852f-da4ec4da348d,Sharon Blair,1958-02-06,Male,"363 Wright Bridge Apt. 558
+West Kathleenside, WA 83472",West,Asthma,Yes,21
+e9930200-81e0-4e0e-bf6a-e62d679bb3af,Keith Sweeney,1982-03-02,Male,"64783 Keith Hollow
+West Kristina, CA 08911",South,Diabetes,Yes,29
+59c16061-6bc2-4ed9-95dc-25de671dfb92,Michael Fernandez,1934-05-16,Female,"855 Durham Curve
+Lake Kevinbury, NE 12805",West,Diabetes,No,1
+a0a856b9-11a3-44d9-83ae-b46dab08e78d,Helen Lutz,1968-04-23,Male,"97353 Mendoza Springs Suite 969
+Hollowayport, WA 13593",North,Diabetes,No,29
+e186db23-8799-4672-a3ca-76297a5a653b,Todd Diaz,1984-12-05,Male,"4758 Rebecca Viaduct Suite 775
+Grantmouth, IN 23764",East,Cancer,No,2
+e0073678-25a2-4af5-9460-686d3e9b9e3b,Dana Richardson,1984-09-01,Male,"193 Cohen Branch
+New Michael, CT 27829",West,Cancer,Yes,8
+7f2fddf4-f04f-4183-af2c-b8e24c769134,Lisa Costa,2003-10-16,Male,"5951 Diana Crossroad Suite 731
+Bellmouth, TN 71136",North,Diabetes,No,11
+00446f00-95f2-4bdb-9fcb-cc17b0e13f1e,Colleen Sims,1976-10-27,Male,"48531 Jones Island
+Shepardfurt, NE 23388",East,Asthma,Yes,8
+cca1d627-a384-430e-b3ab-75787d562a15,Kelli Curtis,1953-01-12,Female,"19630 Wallace Lodge
+East Bryanside, NM 62222",South,Diabetes,No,8
+eff758e9-9003-4489-bf60-7ddfe572f995,Teresa Gray,1943-06-13,Male,"1121 Glenn Loaf Apt. 498
+Torresshire, TX 30802",East,Asthma,Yes,29
+274df97d-413a-4675-a083-a62699d6f7ef,Joseph Johnson,1933-01-24,Male,"9737 Amanda Lakes Suite 928
+Andrewstad, NJ 10219",West,Cancer,No,15
+fe44c5b4-2b0e-4098-a38f-33c1ba5807a1,David Calderon,1962-05-08,Male,"Unit 1515 Box 1240
+DPO AP 75158",East,Hypertension,No,29
+691fcaf4-e518-4dab-a98d-97cf4734be96,Antonio Mendez,1980-06-16,Female,"445 Martinez Green
+North Raymond, MN 84044",North,Cancer,Yes,13
+5b31b1fb-db68-4f88-aafa-654b9b78135e,Daniel Peck,1996-06-08,Male,"35582 Collins Overpass
+Mendezshire, AZ 14609",East,Diabetes,Yes,6
+a311e888-1cfe-4bd1-8450-0127f4a910a0,Douglas Reeves,1942-10-20,Female,"00916 Amanda Avenue
+Benjaminton, MD 89973",West,Hypertension,Yes,22
+26df768e-b787-4920-98bc-695270431f84,Brian Keller,1952-08-27,Female,"0782 Morrison Cliffs
+North Erikstad, RI 55281",East,Diabetes,No,23
+9e3cd38a-6047-4870-bbc0-bb73576569f9,Tiffany Wade,1999-03-04,Male,"1123 Wendy Isle
+Reynoldsview, MA 09157",East,Asthma,Yes,5
+7f9f7c71-7a4d-44c3-8be2-31ad7559cba6,Melinda Cooper,1971-12-21,Male,"3240 Amanda Courts Suite 742
+Timothyland, IL 25736",East,Hypertension,Yes,1
+935c3d10-758e-46bf-81cf-562ab64063a6,Shawn Reed,1999-05-13,Female,"USNV Richardson
+FPO AE 62663",West,Diabetes,No,17
+309120ea-2cce-46b5-9e0b-e65f157b9059,Richard Parker,1995-04-26,Male,"784 Roth Light Suite 768
+Joshuahaven, MN 83975",North,Cancer,Yes,2
+27d71fbc-bf10-4e03-bd4a-d778803e8feb,Barbara Barnes,1940-11-26,Male,"USNS Carter
+FPO AE 65040",East,Asthma,Yes,25
+cd4f6b05-1047-45c1-9aa5-45d3659da4f1,Cynthia Payne,1988-12-21,Female,"2723 Yu Inlet
+Lake Jessica, VT 45242",West,Asthma,Yes,19
+8860c920-63ce-4fa6-8572-7161a951a9e0,Mr. Kenneth Middleton MD,1951-05-17,Male,"786 Laura Summit
+Port Seanton, TN 35255",East,Cancer,Yes,25
+ef173ba3-d75e-4ff9-8721-8b84ef51cb27,James Douglas,1966-05-25,Female,"0395 Patrick Harbors Suite 894
+East Victor, DE 99856",East,Hypertension,Yes,22
+474dc3fc-9f61-4ff0-bc67-689e5b7fc61b,Dr. Evan Russell,1963-12-05,Male,"602 Ramos Courts Apt. 536
+New Melissa, AK 05727",West,Asthma,No,26
+e292c7aa-4d94-4be0-aa5a-7f480294b627,Michael Mendez,1955-07-21,Male,"2479 Jennifer Via
+Kingshire, MS 17560",East,Asthma,Yes,14
+112ff56e-1485-4e06-86cd-1ede34886256,Michelle Jackson,1962-03-29,Male,"60873 Francisco Knolls Apt. 376
+Hollowaytown, HI 31819",East,Diabetes,No,19
+6e43e543-e14c-44ec-9a28-af9eb01c7033,Joseph Cooper,1956-04-17,Male,"8948 Rogers Ports
+New Matthewburgh, IA 41507",East,Cancer,No,23
+bac2f117-f5f7-4b79-81cf-a55cebd32d53,Grant Howell,1948-05-29,Male,"5131 Andrea Landing
+Nashberg, PR 73392",West,Asthma,Yes,30
+bd9b9938-cd4c-4842-b1aa-d1d002d0cea5,Samuel White,1963-12-03,Female,"43528 Ramos Prairie
+Karenberg, AK 71822",North,Cancer,Yes,12
+11b448ac-ea48-4202-b9cb-6cf6554a7d9a,Jessica Lane,1995-04-08,Female,"040 Pedro Greens Apt. 265
+East Valerie, MS 81991",South,Asthma,Yes,18
+3c44244b-11e3-46e5-8663-6c1a944d68a8,Kristi Barrett,1967-04-05,Female,"37134 Denise Heights
+Mckenziehaven, PW 20548",South,Hypertension,No,3
+c2b4837b-9128-4684-ae12-551e38117eb9,Sabrina Wilson,1972-09-26,Female,"74874 Carolyn Land Apt. 941
+South Charlesburgh, IL 41849",West,Asthma,Yes,14
+197a0d7f-a043-4d3d-85ef-c8be1a41c6a5,Michael Bell,1933-12-10,Female,"274 Margaret Knolls
+New Ericamouth, FL 68859",South,Hypertension,No,4
+7ecf8a11-e5fa-414e-a97e-3af6a13b41d5,Kirsten King,1971-09-26,Female,"72062 Russell Mission Apt. 798
+Cassandraberg, AR 84153",North,Cancer,No,29
+b7e1e7a8-e958-4f55-981c-a3ea7cbaf17c,Amy Jimenez,1974-03-19,Male,"Unit 8283 Box 2888
+DPO AA 79761",South,Cancer,No,8
+dc6b7b95-cbdf-410f-8e97-987ea469c101,Holly Cain,1989-02-22,Female,"01218 Jeremy Glens Apt. 830
+East Jason, OH 15615",South,Hypertension,No,13
+a1d37545-2f5d-4412-b5cc-d54aa0111314,Carol Ward,1983-04-04,Male,"1658 Smith Tunnel
+Charlesville, DC 47975",West,Diabetes,Yes,30
+ec5fdb78-e015-4d63-8527-9fe3bec4410c,David Diaz,2004-11-09,Male,"66949 Simmons Mall
+New Christine, LA 17739",South,Asthma,No,8
+53aa322c-8770-4ca1-9520-55bd00ea4907,Natalie Curtis,1979-04-29,Male,"96146 Morgan Path Apt. 310
+Eduardochester, PA 60648",South,Diabetes,No,13
+6f77db7f-bf5c-4845-b35c-e065a57d8adc,Sheila Graham,1959-02-25,Male,"11933 Knox Club
+Katieberg, UT 67928",East,Asthma,Yes,27
+9acabd33-0007-4ead-b6eb-379ca4decaa0,Kelsey Ward,1998-12-12,Female,"705 Smith Port Suite 869
+East Melinda, OR 92754",West,Cancer,No,9
+372a3221-d209-4cca-9b15-2326efca8425,Jonathan Phillips,1993-11-19,Male,"720 Colon Pike Apt. 823
+West Ricardo, FM 06155",East,Cancer,No,18
+c26762f3-ba40-44af-a5fb-502cbb560509,Kayla Reilly,1934-08-22,Male,"014 Christine Avenue
+Bakerbury, AS 17856",North,Diabetes,Yes,20
+e0ec99c1-18d2-4ede-8efe-9fd998069206,Christopher Martin,1994-12-18,Male,"551 Andrea Ranch Apt. 400
+South Larryburgh, ID 74408",North,Asthma,No,29
+3f96d304-ace3-4eea-8726-5b8e569afa56,Madison Gross,1934-01-12,Male,"77974 Elizabeth Junctions
+New Kimberly, TN 22134",West,Diabetes,Yes,9
+c46aeba6-b26d-4bd0-acca-e7e6055fc2a9,Jose Spencer,1974-11-07,Female,"501 Boyd Wall
+Wesleymouth, KS 59769",North,Cancer,Yes,20
+a34d4f5b-6af5-446f-885b-2120f7e32fa5,Jodi Gross,1997-08-06,Male,"5796 Duncan Valleys
+West Amber, VI 48201",South,Diabetes,No,28
+47a63c40-85e4-490c-87a5-cf22e4ca7afd,Emma Clark,1965-09-27,Male,"27765 Steven Tunnel
+Latashachester, VT 90012",West,Cancer,No,21
+6089c87c-391c-4ce1-8238-da5ae0fc6a88,Steven Sandoval,1974-11-04,Male,"68681 Hall Terrace Suite 173
+Port Joshua, VT 96736",North,Diabetes,Yes,18
+816d91bb-c3bb-4fb4-8987-4d8f3a752c28,Ashley Meyer,1968-05-07,Female,"64978 Jones Ports
+Daughertyport, CA 74837",West,Hypertension,Yes,5
+c6beec75-f83b-4822-ac8a-43bc066fa10e,Kelly Lowe,1941-01-18,Male,"4618 Shannon Causeway Apt. 255
+Port Thomaschester, VI 50164",South,Hypertension,No,1
+f41c88a5-9335-4ca0-91a1-b14b8807fb4b,Andrew Roth,1990-10-15,Male,"984 Jennifer Rapid Apt. 141
+Paulmouth, AK 98734",South,Asthma,No,24
+35a3884a-0c0d-4bc5-a9a0-709403561fc6,Kimberly Sutton,1948-01-11,Male,"5392 Jennifer Springs Apt. 981
+Port Jennifer, ID 39382",West,Asthma,No,14
+35a22884-fc42-4d08-a0f8-a945a09857c0,Brianna Black,1955-05-27,Male,"94614 Ballard Mountains Suite 575
+New Dannyville, NE 61142",West,Cancer,Yes,23
+308cef8a-8496-48c8-a329-0eef60f9eb5a,Craig Simmons,1965-02-23,Male,"797 Matthew Mall Apt. 321
+Campbellside, TX 29895",South,Hypertension,No,20
+92b00f81-3452-49d6-8d9f-d7eecd9edd4e,Tyler Cooper,1954-11-29,Female,"Unit 9311 Box 5550
+DPO AE 69149",West,Hypertension,No,6
+c96fe763-7d82-47b3-849e-e1063efd6932,Arthur Rodriguez,1992-03-29,Female,"46556 Christine Knoll
+Yangberg, GA 20021",West,Cancer,Yes,11
+ced2d9f1-df66-484d-aa08-10202bc224df,Tyler Bray,1933-11-14,Female,"672 Robert Glen
+Scottburgh, NC 58041",East,Diabetes,No,14
+0fe0a4ed-e505-4d25-9a5b-78d570f19757,Anthony Sparks,1963-09-21,Male,"669 Henderson Landing Suite 962
+Moranchester, WY 38941",North,Diabetes,Yes,19
+a48ae560-8f0f-4064-bbc0-8944ffa06ab3,Terri Petersen,1980-02-21,Male,"1221 Patricia Lake
+Lake Robin, NE 18643",West,Diabetes,No,25
+c4165a51-1a3c-4bfa-964a-536790b5535d,Christopher Brady,1932-10-11,Male,"6771 Melissa Prairie
+Melissamouth, WI 52550",South,Diabetes,Yes,30
+427d7300-3c50-4f38-aecd-7e6362d69d00,Julian Sanchez,1952-02-13,Female,"47173 Kristin Well Suite 630
+Kennethmouth, MA 65880",West,Cancer,No,12
+fc98deb3-746b-4f09-b39d-83a16f056b8b,Tara Davis,1993-03-19,Male,"6828 Cunningham Greens Apt. 784
+Kathleenborough, MP 77304",East,Asthma,Yes,21
+28c02334-ed48-4ef5-a61d-bdacd8e8aa43,Clinton Chapman,1985-07-31,Female,"3958 Emily Ridges Suite 267
+South Ericaburgh, OK 07056",East,Hypertension,No,25
+30ca15eb-64df-4913-8836-c9142a560450,Nicole Peters,1945-10-13,Male,"6695 Dickerson Corner
+Lake Caitlin, ND 17514",South,Diabetes,No,21
+587ab9f8-58e9-4780-98b6-1fd9389f5667,Ashley Jacobson,1992-10-15,Male,"5531 Williamson Forks Apt. 623
+Jackiefort, RI 39804",West,Hypertension,Yes,7
+2823a07c-a009-4c66-8098-323462b151c2,Kendra Allison,1937-12-06,Female,"5363 Mccullough Forks Suite 899
+North William, NV 73357",North,Hypertension,No,6
+e91ed51b-fdaf-448b-bc4b-234450fe29a0,Marco Joseph,1960-11-11,Female,"33491 Danielle Plaza
+Lake Kellymouth, IA 58830",West,Cancer,No,10
+b6f7814a-b56e-4ba4-99b8-ebf4fc376699,Denise Miller,1979-04-20,Female,"20420 Patricia Shoal Suite 154
+North Crystal, AR 52125",West,Hypertension,No,21
+9f9b5d61-7e69-486c-9756-fb8fea877d23,Lisa Peck,2001-08-05,Male,"413 Nicolas Dam Apt. 186
+New Leah, OR 42838",North,Hypertension,Yes,10
+7e0586c4-60a4-48f2-9314-0418f389a953,Michele Cannon,1943-01-08,Male,"3077 Floyd Haven Apt. 643
+Timothyfurt, KY 05576",West,Hypertension,No,2
+ec37ab94-7b46-4cc9-9590-b5f7e5b525c3,Tina Kelly,1955-05-08,Female,"670 Erin Court
+Port Michael, MN 17582",West,Hypertension,No,9
+d8c3fb8a-6e56-47a4-b5b4-6d0ae2730a91,Carol Gill,1988-05-26,Female,"1170 Brooks Courts Suite 951
+Port Tyler, DC 24496",South,Hypertension,No,24
+db4c1d9b-5231-4624-ba83-2c0cce926827,Kerry Conway,2001-01-14,Female,"290 James Mall
+Flemingland, MT 34635",West,Cancer,Yes,12
+d4d461c8-7a20-4e88-99da-5187e92aa1c0,Megan Smith,1985-01-12,Female,"96494 Mitchell Islands
+Gonzalesview, DC 38691",North,Diabetes,Yes,5
+7fd6067a-eae0-40f5-99df-093ad80cd596,Kyle Clarke,1962-11-18,Male,"378 Tammy Ports
+Josephton, MP 88159",South,Cancer,Yes,20
+60de62c5-5a6b-4795-9583-6eadf739545a,Kelly Wallace,1943-06-10,Female,"Unit 3943 Box 1470
+DPO AP 57048",North,Hypertension,No,6
+61cbd9b5-7f05-46b0-b095-f4bbe6011617,Julie Edwards,1949-03-14,Male,"752 Lewis Greens Apt. 175
+Port Adammouth, PW 52935",North,Asthma,Yes,14
+8f2e82e4-998b-4501-94f3-9484cf556891,Justin Brown,1940-05-10,Female,"9693 Solis Fort
+North Susanbury, KS 45617",North,Cancer,No,15
+b72538f1-06c6-4df9-a395-5905cff8b898,Caleb Pierce,1948-08-27,Female,"895 Jordan Tunnel Apt. 464
+Lake Margaretchester, SC 31668",North,Diabetes,Yes,21
+2d59a33d-1824-454b-9d4a-da8bf52ff410,Cheryl Franklin,1992-08-10,Male,"871 Waller Parkway Suite 505
+Booneview, PR 80135",South,Cancer,Yes,25
+0367704c-0e3b-4c88-8df7-96a1646831fb,Sharon Ryan,1942-04-20,Female,"4040 Hamilton Mountains Apt. 395
+Louismouth, GA 72737",North,Hypertension,No,18
+1a9f6755-bab5-4c06-817d-3defd22da914,Micheal Miller,1972-04-10,Female,"218 Michael Shoals
+Richardstad, NH 04197",East,Asthma,Yes,6
+6b4633a5-b875-416c-8a57-0f3fa08ed753,Michele House,2005-08-23,Male,"16911 Frazier Brook
+Williamsfort, PW 22478",East,Asthma,Yes,7
+c1bbfdb1-6a16-42bd-bd90-b6febb6031e7,Laura Quinn,1966-10-11,Male,"245 Kevin Drive
+West Benjaminmouth, NE 79684",North,Cancer,Yes,8
+59d27be1-bf7d-47d8-b18b-2e675adb62af,Pamela Brown,1999-05-18,Female,"USS Bailey
+FPO AA 66645",West,Hypertension,Yes,17
+49510c2f-d04f-4568-bd4e-89557e1fd5e4,Shelly Garner,2003-04-27,Male,"PSC 0536, Box 2989
+APO AE 28035",West,Hypertension,Yes,27
+903da973-3073-42a4-bf2a-35bbc74dcf58,Michael Pham,1958-04-28,Female,"91596 Phillips Cove Suite 085
+South Jessestad, TN 01834",South,Hypertension,No,12
+5f7a98b0-a15b-43b7-8cd3-cb1b8f3fd838,Dana Miranda,2001-10-04,Male,"3171 James Wall Apt. 767
+East Michelleberg, VT 61322",West,Diabetes,No,23
+48cb2c93-b147-4aef-996c-04dcff29e054,Marco Diaz,1973-07-10,Female,"PSC 7531, Box 5285
+APO AP 50805",East,Diabetes,No,22
+c3ac0202-e659-4dd9-aa77-82d342454bfa,Jack Bentley,1952-07-20,Male,"4940 Owen Court Apt. 693
+East Hollyton, LA 75404",East,Cancer,Yes,26
+1ec53f02-af14-436f-ad39-55543d86499c,Jennifer Phillips,1934-03-10,Male,"3213 Evan Wells
+Loriville, WA 19451",West,Cancer,No,25
+60e6bec5-63c5-442f-addb-38c065fbc195,Jennifer Huang,1994-05-17,Female,"8487 Melissa Meadow Suite 665
+New Whitneychester, MA 38053",East,Cancer,No,29
+84b4836c-54b6-40f4-a7a5-c4d6887c0583,Andrea Frye,1950-04-07,Female,"276 Carter Rue
+Melissahaven, AR 79911",South,Cancer,Yes,11
+5e8ff1de-58c6-44a2-95f6-a8374bb06cd5,Christine Ward,1990-12-29,Female,"USCGC Joseph
+FPO AE 21925",East,Hypertension,No,18
+9f0f8bcd-0907-473d-a430-56d77dfba40d,David Massey,1991-02-16,Female,"5611 Patterson Spring Apt. 271
+Lindseymouth, GU 98986",East,Diabetes,Yes,30
+39b99e27-dbc1-4155-99be-38334e66dc55,Kristin Marshall,1941-10-12,Male,"2304 Byrd Divide Apt. 070
+West Patricia, VT 42477",West,Diabetes,No,24
+18570b64-7989-4f30-8ce6-aa28bd549a5f,Shelly Craig,1958-11-15,Female,"67748 Jennings Flats
+West Jacob, DC 27356",East,Asthma,No,8
+73422360-ff13-40fd-8b22-60af26ec9531,Heather Fry,1979-11-10,Male,"5246 Shane Field Suite 996
+Tamarahaven, PA 89240",North,Hypertension,No,12
+459c5f73-4600-4e93-bcd0-0a7d290707eb,Ms. Amanda Fowler,1981-12-24,Female,"76312 Scott Rest Apt. 533
+Lake Nicoleborough, OK 39716",South,Diabetes,No,16
+c7fa107e-ed76-4b2b-a595-b7619da559f5,Zachary Howard,1987-07-20,Female,"7365 Weber Club Suite 790
+Robertastad, NE 29948",North,Cancer,No,14
+f92f4a8c-0ed9-47bb-bd13-36f88e3e68ba,Jean Vaughn,2000-12-06,Female,"04092 Nicholson Grove Suite 902
+South Donna, AS 09001",East,Hypertension,No,27
+f0b67b2c-a848-4004-afbe-918f4079fdf8,Debra Martin,1945-05-22,Male,"740 Catherine Haven Apt. 035
+Jamesberg, KY 02180",West,Hypertension,Yes,22
+db908341-da03-48a3-854f-b9cb25de9270,Kyle Strong,1981-02-07,Male,"PSC 8317, Box 8356
+APO AP 12261",West,Cancer,Yes,5
+02122f39-8efb-434b-9253-891bedc18226,Dustin Ray,1962-02-05,Female,"731 Walker Via Suite 273
+New Karenberg, TX 03923",North,Cancer,Yes,19
+f977d2e5-6f45-45da-b92a-2e02c5e65648,Angela Cannon,1980-05-16,Female,"31149 Duffy Squares
+West Maurice, CA 63124",West,Cancer,Yes,23
+f55b6fb7-0a6a-44a2-9945-305a63146f69,Roger Whitehead,1999-02-14,Female,"68249 Toni Roads
+West Aaron, AL 50474",North,Cancer,Yes,20
+7b645faf-58a7-46a0-9790-925ca9869ad2,John Perry,1996-05-20,Female,"50344 David Place Apt. 997
+Laurenville, GU 84071",West,Cancer,Yes,9
+cbc348a6-d812-4549-b1b5-2f3a9eb8879c,Laura Smith,1981-01-10,Male,"9777 Angela Highway Suite 241
+Wardburgh, CT 30459",East,Asthma,Yes,13
+c38d83c6-4740-415e-9a13-bf105b43fe9d,John Irwin,1934-07-12,Male,"501 Torres Knolls
+Benitezstad, AR 32118",West,Asthma,Yes,26
+61864617-53a0-4442-8eb7-bb2eabbea997,Dr. Rachel Hansen,1963-12-09,Male,"17590 Elizabeth Rapid Apt. 111
+Matthewchester, MO 76954",East,Asthma,Yes,1
+f1bd25d5-78a7-4245-bdc6-742b0529c580,Steven Lee,2003-12-12,Male,"Unit 0220 Box 3913
+DPO AP 26758",West,Hypertension,Yes,29
+7d4da509-f967-4335-a6e1-50f6a56f2158,Regina Smith,1939-01-29,Male,"678 Marks Drive Suite 919
+East Thomasfurt, MD 84206",South,Asthma,No,27
+d45fb042-ac8a-48ff-8829-4c25f49820d8,Brian Robinson,1938-12-27,Female,"41682 Bird Ports Apt. 274
+Baxterberg, CA 64758",South,Asthma,No,11
+45dded94-b2c0-4165-a321-47213c942084,Michelle Davenport,1966-01-04,Male,"567 Snyder Mountains
+Olsenbury, OR 40822",South,Hypertension,Yes,22
+ccabf7f1-8d26-4198-97a4-88db5dcac11b,Kevin Martin,1967-04-06,Male,"4904 Hunter Hill
+South Caitlinmouth, VA 27971",West,Asthma,No,12
+222c02ad-d86b-4855-b9e5-850768e6a7cf,Kyle Duncan,1981-02-23,Male,"93597 Theresa Mews
+North Brian, WV 45189",South,Cancer,No,22
+49a5baef-e97a-4276-aa03-e85d5b8ead0d,Cody Nichols,1998-08-05,Female,"3557 Mason Viaduct
+Dianashire, AR 20599",East,Asthma,No,26
+59ef5123-ef17-4c56-84b4-4c8ec2c2c8d3,Renee Lara,1963-01-11,Female,"713 Obrien Well
+East Mike, VT 38331",South,Asthma,Yes,30
+3aea1b8c-089a-4266-96be-26e4b10a3722,Ashley Thomas,1997-08-11,Male,"474 Mcdaniel Creek Apt. 929
+Darylshire, RI 52324",West,Asthma,Yes,18
+40579731-7f51-4699-b8c1-40b53c2486d1,Jennifer Spence,1964-09-23,Female,"05511 Smith Expressway Apt. 624
+Gabrielview, PW 18031",North,Diabetes,Yes,25
+be6f38e1-542f-48d8-9c7e-9f48f2221893,Samantha Delacruz,1960-03-11,Male,"PSC 5917, Box 6345
+APO AE 32160",South,Hypertension,Yes,1
+dbf36f63-c85c-44f2-ad2e-eba95a2f4de0,Bruce Gould,1966-03-10,Female,"846 Amy Creek Suite 921
+Hubbardfort, CA 87943",West,Diabetes,Yes,29
+327a56a3-612c-446a-a570-465a46fb56d9,Dalton Wade,1964-07-05,Male,"PSC 4908, Box 7699
+APO AE 18793",South,Cancer,No,20
+eb81e992-fdbe-4eb5-b666-ccfa8f824073,David Crawford,1968-04-10,Female,"7061 Garcia Summit
+Smithshire, AK 23939",South,Diabetes,Yes,15
+4fac4a39-8ddb-4d14-8390-ff1c4d6ae1d9,Stephen Rogers,1965-04-09,Female,"7395 Matthew Course Apt. 607
+South Ashley, MN 54008",East,Asthma,No,9
+1372fc62-059f-4331-ad14-aa0f89b12fe0,Megan Schmidt,1936-03-01,Female,"7072 Valerie Lights Apt. 562
+Stephenshire, AL 44759",East,Cancer,Yes,19
+ccea9dfc-10c1-40bc-bd9f-b330f07dce61,William Marquez,1995-02-26,Male,"81527 Kevin Shoals Apt. 178
+Sanchezstad, RI 40216",North,Diabetes,Yes,30
+a2a2176a-5e45-4491-bef4-cb14fcdd934e,Calvin Poole,1989-02-22,Male,"USNS Navarro
+FPO AP 85082",North,Hypertension,No,6
+b17a4e69-fac7-4c1d-aa19-80566da255a1,Raymond Johnson,2000-10-08,Male,"66830 Bell Centers Suite 533
+North Charlesmouth, FM 41579",East,Diabetes,No,19
+95c24438-0f2c-47fb-a030-b4b159770f98,Jimmy Dixon,1978-09-17,Female,"19731 Linda Spur Apt. 995
+New Julia, CA 39631",West,Cancer,Yes,30
+041914fa-a9a9-4e26-9a3b-d67c4a6c7da6,Andrea Moore,1983-09-13,Male,"600 Prince Pass Suite 579
+Raymondshire, MS 51954",East,Asthma,No,30
+3c307fe7-ebd6-4489-8fb1-78ce79bf4d4b,Brandon Tran,1933-07-24,Female,"397 Schultz Mountains
+West Gabrielle, NJ 87885",East,Diabetes,Yes,21
+fbf68e2f-e626-41bc-bcb8-2e8390ed2c00,Emily Bates,1955-09-19,Male,"66795 Ryan Throughway Apt. 385
+Hoodfurt, FM 48026",West,Asthma,No,11
+7c807f8d-66f7-4c20-a428-6c1052ecd996,Megan Underwood,1950-06-18,Male,"4295 Frye Island
+Adkinsburgh, DE 31748",East,Cancer,Yes,17
+51fa75dc-bcd5-4524-b929-d7445f703377,Deanna Rojas,1980-06-20,Male,"5831 Humphrey Dale
+North Brandonside, SD 60946",South,Diabetes,No,2
+ed395859-c8df-4948-84be-49c499944516,John Black,1982-03-04,Female,"855 Graham Prairie Apt. 645
+Jeffersonburgh, KY 68242",West,Hypertension,No,20
+4d809177-96c8-432d-9456-249b64b09b50,Jamie Shaffer,1993-05-12,Male,"7705 Esparza Lodge Suite 685
+Johnsville, MS 27776",West,Hypertension,Yes,9
+8e5a646a-bb34-4749-a3ec-6015256a9795,Brian Bell,1963-11-26,Male,"57806 Johnson Haven
+New Sandra, GA 64305",North,Diabetes,No,18
+46cc5fc1-68e3-4e18-99ef-fd851665a9f7,Stephen Sutton,1958-05-18,Female,"172 Kyle Street Suite 905
+New Brenda, DC 88865",South,Diabetes,No,16
+9b04652b-f040-4da6-8e4a-58c58efc5bcf,Tracy Hansen,1981-12-02,Female,"4779 Tony Neck
+Lake Michael, NV 78787",West,Diabetes,No,6
+3a63f4ff-c84e-4c92-8856-b2e1ce26071b,Melissa Flores,1987-05-06,Female,"PSC 0508, Box 0204
+APO AP 45404",East,Asthma,Yes,18
+e6f4ff11-f13e-4e12-87f6-6f72d16bb98e,Christy Delgado,1949-06-21,Female,"0535 Cooper Islands Suite 342
+New Margaretbury, AK 20321",West,Asthma,No,6
+b84cd088-97ea-4963-bdbb-a6bcd950576c,Michael Davila,1958-08-25,Male,"534 Raymond Underpass
+Josephton, OH 72958",East,Asthma,No,28
+34040439-5953-489b-9f9d-32f3b9aabee6,Jamie Stephens,1936-05-26,Male,"PSC 6849, Box 3558
+APO AP 74808",South,Cancer,Yes,15
+32453580-3de6-4135-8789-1de3fc44680e,Monica Young,1964-03-05,Male,"0900 Morris Ports
+Harrisport, VI 53656",East,Hypertension,Yes,3
+894033df-f19f-4ff7-a740-778abcf0cd0e,Michael Adams,1989-12-28,Female,"655 Sergio Ways
+Timothyberg, IA 63287",South,Hypertension,No,13
+b97998df-6da8-430f-ac3e-13fc2650e1a2,Matthew Logan PhD,1950-07-31,Male,"483 Moss Harbors Suite 295
+Anthonymouth, CO 17600",East,Cancer,No,18
+a0cc45ad-dffd-4ec8-9d4e-4e612e8d709e,Jim Dominguez,1938-11-23,Female,"56440 Zavala Mountain
+West Victoria, NY 36602",West,Asthma,Yes,9
+9ad76be9-fd9b-429d-8e5d-e2db41999197,Todd Sanchez,1983-06-01,Female,"417 Aaron Motorway
+Tonyatown, CO 51082",East,Diabetes,No,8
+d2e5f681-2896-468e-b4d4-2ead2a992418,Samantha Payne,1997-01-01,Male,"6813 Kristin Ports
+Ashleymouth, FL 65114",East,Diabetes,Yes,10
+7e05186a-59c0-4caf-9265-dbbfa16aa5c8,Karla Coffey,1988-12-23,Female,"4233 Bennett Springs Apt. 668
+Aguilarmouth, VT 67526",North,Hypertension,Yes,12
+fb1f34c0-5cb3-4a8c-9fce-b1cc53523801,Kevin Martin,1994-11-03,Female,"973 Watson Lodge
+Javiershire, LA 99729",South,Diabetes,Yes,5
+7687cd26-bbfc-48f8-b7c6-c6ccd4a97cab,Randy Jimenez,1968-04-22,Male,"5258 Barrera Plains Apt. 798
+Juliebury, NH 95401",West,Cancer,Yes,27
+d41a304c-dca0-441f-b7cf-dec86b082ada,Kelly Williams,1966-05-15,Female,"USS Simon
+FPO AE 76287",South,Diabetes,Yes,19
+a81eb02e-7c0a-479f-94a4-72bc935b38a8,Mr. Jeffrey Jacobs,1997-12-31,Male,"48804 Mitchell Motorway Apt. 002
+Lake Cody, MN 16028",East,Cancer,Yes,1
+bf8091fc-dc67-4c50-94a7-681656e1825d,Judy Allen,1958-03-09,Male,"Unit 6040 Box 8912
+DPO AA 38354",North,Diabetes,Yes,28
+77383929-8315-411d-b1d3-0a3c9263d87d,Christopher Willis,1993-05-14,Female,"51683 Steven Rapid Suite 925
+North Chelseaside, GA 01396",South,Hypertension,No,18
+19afb993-434d-453e-9ca4-41812a4c4fb1,Faith Hernandez DVM,1972-08-21,Male,"Unit 5365 Box 3758
+DPO AP 68068",West,Asthma,No,23
+e0538f69-a2db-4e0c-b9ac-55864f7efd9f,Renee Stanton,1991-10-24,Male,"Unit 4279 Box 2368
+DPO AE 45987",South,Asthma,Yes,30
+ce0833c5-9766-46be-b05b-71543e5f68d5,Thomas Perez,1995-08-16,Female,"268 Horton Plains
+Port Tony, LA 71085",South,Hypertension,No,18
+b764aa63-741f-4a52-9476-5c91d4fd8311,Jesse Boyer,1979-02-22,Female,"8401 Lindsey Forest
+Sylviabury, NJ 89064",West,Asthma,No,28
+baf3e08b-e951-4ca2-af59-e7baaf4b2a9d,Dr. Samantha Adams,1968-10-07,Female,"3230 Denise Causeway
+South Christinashire, NM 25384",South,Hypertension,No,28
+f5792e1e-3b6e-4d37-bd59-0a8abcb06d31,Terri Lyons,1940-04-28,Female,"55604 Walker Mountain
+Brianberg, WY 92170",West,Cancer,Yes,22
+4eee65d2-2361-4288-937c-8117ef7a8f62,Courtney Haley,1994-09-19,Male,"6633 Thomas Neck
+North Ashleefort, TN 80712",South,Cancer,Yes,8
+c0f32a00-4111-4148-b1a2-8c597401c51e,Alejandra Blankenship,1990-03-20,Male,"5363 John Terrace
+South Sheila, OK 81225",East,Cancer,Yes,16
+0c839b18-0267-4333-98f4-b0b1c3c2fb98,Jennifer Webb,1994-09-09,Male,"27756 Marquez Ranch
+Hawkinschester, MN 38079",North,Asthma,No,9
+b0116307-054d-4d7f-b074-b219c6fdb605,Vanessa Bauer,1987-12-28,Female,"9413 Whitaker Station
+Lake Deborah, NM 20250",West,Diabetes,Yes,1
+72859ccf-e6ac-4991-a240-19ad2e4f729f,Timothy Singh,1939-09-25,Female,"PSC 5853, Box 4447
+APO AA 25450",West,Asthma,No,12
+919e2547-406e-4787-b470-cd211258040a,Gerald Kirk,1977-09-10,Female,"3736 Marcus Road
+Bowmanstad, ND 30744",South,Asthma,No,3
+a0db6cea-87d7-43ec-b05f-727b22b2f9ae,Grace Washington,1999-01-10,Female,"55941 Wallace Brooks Suite 878
+Rodriguezport, SC 90314",East,Asthma,Yes,10
+9ac2834e-7c77-4bc5-933c-54441ae5afa9,Joseph Smith,1985-08-21,Female,"012 Christina Route Apt. 830
+Chavezside, MH 53120",South,Cancer,No,8
+38a53632-f879-42c0-9165-b90d8b955866,Kenneth Avila,1957-01-24,Female,"683 James Station Suite 060
+East Tarahaven, MT 68028",South,Asthma,No,13
+981342f2-a363-4426-9d30-5ef66593bc5a,Matthew Holden,1990-02-09,Female,"39524 Walter Bridge Suite 800
+South Daniellefort, FL 60405",West,Cancer,Yes,8
+1a16939d-f2ef-4ce8-b2be-d9d9c6ddb39a,Alex Gonzales,1990-10-14,Male,"USCGC Barnes
+FPO AP 36613",North,Diabetes,No,30
+8360b481-8225-4f7b-a314-1ab3cf272e3d,Cynthia Davis,1935-02-07,Male,"669 Lowe Views Apt. 751
+West Stephen, MT 91930",North,Hypertension,Yes,24
+14a9f876-a80c-41a9-ba8a-665d65754a56,Gregory Forbes,1983-12-06,Female,"98736 Bowman Course
+South Marilyn, VT 33587",South,Cancer,No,22
+a9adc972-b602-409e-99d1-6306ddd07544,Dr. Danny Anderson,1933-11-19,Male,"5807 Gregory Rest Suite 262
+Gravesmouth, OK 70389",East,Cancer,No,10
+ab43004e-250e-4b06-9a24-961b0d009fef,Charles Vega,1971-06-03,Male,"88494 Victoria Unions
+Joseland, MS 26388",East,Hypertension,No,20
+a2715766-8a62-447c-a5c6-64d6e6a896dd,Michelle Perez,2003-09-13,Female,"922 Anderson Rapid
+Anthonytown, FM 05810",East,Diabetes,Yes,27
+b128a855-1497-4d1a-adab-af92a387a9ca,Rose Burnett,1961-06-08,Male,"2071 Kim Skyway Apt. 742
+South Victoriahaven, PW 46159",South,Asthma,Yes,13
+6b70b138-c35c-4da3-a37e-3ff1bb62eb6a,Colleen Curtis,2001-03-19,Male,"34873 Baker Island Suite 699
+Henrymouth, NY 12009",North,Cancer,No,17
+dd2093f5-4bb0-424b-b00e-9ef0c92d68e9,Alexis Campbell,1943-02-08,Male,"434 Christopher Land Apt. 121
+New Kristenland, WY 52495",East,Diabetes,No,8
+a2fe6319-1ea0-42b0-96f9-1f681799ed84,Joel Pierce,2002-09-17,Female,"2283 Castillo Cove
+Ryanborough, WI 02424",South,Cancer,No,21
+fef1c321-14d7-4ae2-b723-f2649d8a4ba0,Stanley Murray,1938-10-31,Female,"USNV Rodriguez
+FPO AP 07619",North,Asthma,No,14
+88193362-1ecf-4626-8606-9b22f8610fd3,Christina Carter,1946-01-14,Male,"7831 Perez Bridge
+Lake Crystalside, IN 83741",South,Hypertension,No,12
